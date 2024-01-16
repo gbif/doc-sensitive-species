@@ -1,5 +1,5 @@
-= GBIF Document Template
-Author One <communication@gbif.org>; Author Two
+= Exploring the risk and benefits of publishing sensitive species data: Sensitive species data management and trade-offs to promote valuable and safe biodiversity data sharing
+Francisca Astorga, Andrew Rodrigues, John Waller
 :toc: left
 :toclevels: 3
 :numbered:
