@@ -1,0 +1,93 @@
+=== Examples of sensitive species generalizations
+
+==== 
+
+==== Rhinoceroses
+
+Species from the family Rhinocertidae are well-known to be a valuable
+target for poachers and hunters, so we used them as an example to
+explore the use of data generalizations on their GBIF-mediated
+occurrence records. We filtered GBIF occurrences for the family and kept
+only records with coordinates, excluding observations based on fossils,
+living specimens and material samples. The resulting DwC archive
+included data for six species (excluding extinct ones) (Appendix 4 Table
+S3). Among those species (all with accepted species-rank scientific
+names), there were also 5 subspecies with accepted scientific names and
+two were included as synonyms In sum, the six living species presented
+3,371 occurrences, from which we excluded 187 that were located in
+countries outside their natural distributions (the USA, Russia, the
+Netherlands, and France) and thus considered specimens from ex-situ
+collections.
+
+For the remaining 3,184 occurrences, 88,2 per cent were generalized
+using the WH term, most of them (2,265) using the WH term included
+explicit indications of sensitivity in the data e.g., “coordinate
+uncertainty increased to __m to protect the threatened taxon”. Only 273
+occurrences made use of the DG term (9.4 per cent), but none of them
+referring to the sensitivity of the species, and only mentioning spatial
+generalizations (e.g., “record obtained as a central point of a grid
+with 15 minutes”, “randomly obfuscated between 5-25 km”). In 342
+occurrences with no WH nor DG, the record informed UNC, ranging from 1
+(12 records) to 12,000 mt 13 records), although most informing 250 mt of
+uncertainty (220 records). Overall, there were 82 records with no
+generalization informed (not using any of the selected terms: WH, DG,
+FT, DP, UNC), which were related to _Diceros bicornis_, _Ceratotherium
+simum_ and _Rhinoceros unicornis._
+
+==== Orchids
+
+Orchids are one of the largest families of flowering plants with nearly
+30,000 species globally and commonly traded and are particularly
+vulnerable to over-harvest because many species have a limited range
+and/or occur at low densities (Hinsley et al., 2016, 2018;Fay, 2018).
+All species are on CITES Appendix II.
+
+We retrieved 16,647 occurrences of threatened orchid (CR, EN, or VU)
+species in GBIF using similar filters to those for rhinos (GBIF.Org
+User, 2022). The records corresponded to 250 accepted species, and 7
+synonyms species names. Of these occurrences, 3,678 (22 per cent) had
+used the term WH and 7,731 (46 per cent) had used the term DG. In
+contrast with rhinoceros records, the mention of sensitivity was found
+for 96.1 per cent of the records with DG and in 60.7 per cent of the WH.
+All the records that used the WH to signal sensitivity were published by
+iNaturalist, stating “coordinate uncertainty increased to __ mt to
+protect threatened taxon”. The Swiss National Biodiversity Data and
+Information Centres (InfoFlora) published the largest number of
+occurrences (7,352), using DG and the text “in order to respect the
+currently nationally agreed ethical framework while simultaneously
+sharing scientifically utilizable data for large scale studies''. Other
+terms were identified to inform sensitive data generalizations, such as
+_occurrenceremarks_ (23 records) and _georeferenceRemarks_ (2,114
+records). In total, 5,250 (32 per cent) occurrences of threatened
+orchids were not generalized.
+
+image:media/image5.png[image,width=511,height=224]
+image:media/image3.png[image,width=81,height=31]image:media/image2.jpg[image,width=46,height=46]
+
+=== _Figure 11. Rhinos and_ o__rchid generalizations in GBIF-mediated data. It can be observed that generalizations are different between the two taxa groups. In orchids, generalizations are mainly informed and generalized based on DG; meanwhile, in rhinos, the most frequent generalization is by WH data.__ 
+
+=== Data management conclusions
+
+This analysis was a first attempt to assess the degree to which
+sensitive and potentially sensitive data is being managed across GBIF
+and this initial assessment shows a mixed landscape. Firstly, most
+occurrences that we identified as being sensitive or potentially
+sensitive were not generalized even when they were on national lists
+using WH and DG terms. While this percentage was higher for well
+recognized species such as rhinos and orchids, even here significant
+numbers of records were not adequately generalized. However, a far
+larger number of occurrences did include coordinate uncertainty values
+although these may be under adequate thresholds for effective
+generalization of data. Secondly, when data is generalized, different
+generalization protocols are applied by different publishers and this
+may be affected by the country within which the publisher is, with
+occurrences from some countries more generalized than others. Between
+publishers, there is a wide variety in the use of Darwin Core terms for
+identifying sensitivity at the occurrence-level with no fixed vocabulary
+for the terms and a wide range of different types of information within
+the fields. The use of occurrence-level indications of sensitivity
+should be considered at the same time as improved sensitivity metadata.
+Finally, when we have national sensitive species lists, data coming from
+publishers outside of the country are more generalized than those from
+within the country, minimizing the perceived threat of repatriated data
+with respect to sensitive species data.
