@@ -1,0 +1,10 @@
+== Defining sensitive species
+
+Without a good understanding of the potential threats to a species, one
+of the first hurdles for a data publisher is making a decision on which
+data should be considered sensitive and thus generalized. The question
+is: will publishing those data on that species at a specific moment in
+time increase the risk to that species from targeted exploitation? In
+this section we explore the landscape of frameworks that exist between a
+number of data publishers and GBIF nodes for the identification and
+generalization of sensitive species data.
