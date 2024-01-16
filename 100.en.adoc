@@ -276,7 +276,7 @@ publishers to set geoprivacy settings to "obscured" for any records that
 they feel are sensitive. For obscured observations, the latitude and
 longitude are moved to private latitude and private longitude fields
 which are not publicly visible and the publicly available accuracy is
-increased to the diagonal of a 0.2 x 0.2 degree cell (~500 km2 at the
+increased to the diagonal of a 0.2 x 0.2 degree cell (~500 km^2^ at the
 equator). Latitude and longitude are replaced with a random point within
 this cell. In some regions, iNaturalist also works at the national
 level, to harmonize their global approach with national approaches. For
