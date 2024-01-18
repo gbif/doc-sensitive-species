@@ -16,7 +16,9 @@ endif::backend-html5[]
 
 include::colophon.en.adoc[]
 
-include::preface.en.adoc[]
+include::execsummary.en.adoc[]
+
+include::introduction.en.adoc[]
 
 :sectnums:
 
