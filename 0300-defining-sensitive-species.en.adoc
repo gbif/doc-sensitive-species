@@ -65,44 +65,17 @@ different organizations´ frameworks (Appendix 1 Table S1). The two major
 elements of Chapman´s framework are below, with sub-components of the
 framework in bold italics:
 
-* {blank}
-+
-____
-Is the taxon that we are publishing data on sensitive? i.e:
-____
-** {blank}
-+
-____
-Is the taxon at *_risk of harm_*?
-____
-** {blank}
-+
-____
-What will be the *_impact of the harm_*?
-____
-** {blank}
-+
-____
-What is the *_conservation status_* of the species?
-____
-* {blank}
-+
-____
-Will the publication of the data increase potential harm to the taxon?
+* Is the taxon that we are publishing data on sensitive? i.e:
+** Is the taxon at *_risk of harm_*?
+** What will be the *_impact of the harm_*?
+** What is the *_conservation status_* of the species?
+
+* Will the publication of the data increase potential harm to the taxon?
 i.e.:
-____
-** {blank}
-+
-____
-Does the *_taxon exhibit features_* that make release of that data
+** Does the *_taxon exhibit features_* that make release of that data
 potentially harmful to that taxon?
-____
-** {blank}
-+
-____
-Will the *_release of the data_* increase the probability of harmful
+** Will the *_release of the data_* increase the probability of harmful
 activities?
-____
 
 Among the different guidelines and literature reviewed, the most widely
 used elements for identifying sensitive species data were the risk of
