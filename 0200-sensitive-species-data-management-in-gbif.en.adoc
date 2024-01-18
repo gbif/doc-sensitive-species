@@ -1,4 +1,4 @@
-== Sensitive Species Data Management in GBIF
+== Sensitive species data management in GBIF
 
 In Chapman (2020) generalization refers to any modification performed on
 source data that conceals sensitive content, which could be related to
@@ -233,54 +233,8 @@ the DG and WH columns, and categorized them according to content,
 separating those that mentioned if the record was sensitive from those
 that did not.
 
-From the 271,157 occurrences, 187,007 had used the term WH, of which
-only 3.3 per cent referred explicitly to data sensitivity. In these
-records, the publishers mentioned that data was generalized (withheld)
-to protect a species under conservation threat (PlantNet, France) or
-referred to a sensitive species list (Department of Biology, Lund
-University (Sweden) (see examples of WH text in Appendix 4 Table S3) In
-the case of Lund University, the WH field was used for all species in
-the dataset to highlight that occurrences of 3 other species were not
-published because the species are considered sensitive. This example
-raises the question of the role of metadata versus occurrence-level data
-for highlighting sensitivities within the data. None of the occurrences
-where WH had been used to identify sensitivity also provided information
-for the terms DG, FT, CP or UNC, i.e., the publishers used the WH term
-exclusively to inform sensitivity. Among the remaining occurrences with
-WH that did not refer to sensitivity, 57.3 per cent detailed the grid
-reference system used (e.g., ‘OSGB Grid Reference SO3574’), and for 44.9
-per cent of the occurrences the publisher offered additional data under
-request, such as morphometric measurements, necropsy findings etc. A few
-records specified that the geographical locations were blurred “_as
-required by the publisher”_ without indicating the reasons. Finally,
-among the records with WH not mentioning sensitivity we found 12.7 per
-cent (22,992) in which sensitivity was informed using the DG term.
-Therefore, publishers make use of DG to record sensitivity while also
-using WH for delivering additional information about the restrictions.
+From the 271,157 occurrences, 187,007 had used the term WH, of which only 3.3 per cent referred explicitly to data sensitivity. In these records, the publishers mentioned that data was generalized (withheld) to protect a species under conservation threat (PlantNet, France) or referred to a sensitive species list (Department of Biology, Lund University (Sweden) (see examples of WH text in Appendix 4 Table S3) In the case of Lund University, the WH field was used for all species in the dataset to highlight that occurrences of 3 other species were not published because the species are considered sensitive. This example raises the question of the role of metadata versus occurrence-level data for highlighting sensitivities within the data. None of the occurrences where WH had been used to identify sensitivity also provided information for the terms DG, FT, CP or UNC, i.e., the publishers used the WH term exclusively to inform sensitivity. Among the remaining occurrences with WH that did not refer to sensitivity, 57.3 per cent detailed the grid reference system used (e.g., ‘OSGB Grid Reference SO3574’), and for 44.9 per cent of the occurrences the publisher offered additional data under request, such as morphometric measurements, necropsy findings etc. A few records specified that the geographical locations were blurred “_as required by the publisher”_ without indicating the reasons. Finally, among the records with WH not mentioning sensitivity we found 12.7 per cent (22,992) in which sensitivity was informed using the DG term. Therefore, publishers make use of DG to record sensitivity while also using WH for delivering additional information about the restrictions.
 
-From the 271,157 occurrences, 107,046 occurrences used the DG term and,
-in contrast to WH with a few occurrences mentioning sensitivity (3.3 per
-cent), 70.5 per cent indicated data sensitivity. Most of the 40
-publishers identified using the DG term in relation to sensitivity gave
-the same information and text relating to the type and extent of the
-generalization (in kilometres) and the justification for the
-generalization (see examples of DG text in Appendix 3 Table S2). In
-fact, 35 publishers explicitly mentioned the sensitivity of the species,
-and five mentioned that the data was generalized due to the conservation
-category of the species. Some publishers also detailed the specific
-location in which the species were considered sensitive i.e., specific
-areas of the country in which data is generalized. This was the case for
-24 publishers from United Kingdom of Great Britain and Northern Ireland
-(GB) and 12 from Australia (AU). The remaining records used the DG term
-for providing information on spatial data and temporal issues.
+From the 271,157 occurrences, 107,046 occurrences used the DG term and, in contrast to WH with a few occurrences mentioning sensitivity (3.3 per cent), 70.5 per cent indicated data sensitivity. Most of the 40 publishers identified using the DG term in relation to sensitivity gave the same information and text relating to the type and extent of the generalization (in kilometres) and the justification for the generalization (see examples of DG text in Appendix 3 Table S2). In fact, 35 publishers explicitly mentioned the sensitivity of the species, and five mentioned that the data was generalized due to the conservation category of the species. Some publishers also detailed the specific location in which the species were considered sensitive i.e., specific areas of the country in which data is generalized. This was the case for 24 publishers from United Kingdom of Great Britain and Northern Ireland (GB) and 12 from Australia (AU). The remaining records used the DG term for providing information on spatial data and temporal issues.
 
-In records with WH and DG refering to data sensitivity, we found several
-cases in which specific national or local organizations were mentioned
-as references (Appendix 3 Table S2) , which coincide with the
-institutions from which we obtained the sensitive species list (Table
-1), or institutions related to them (e.g., Natural England, Natural
-Resources Wales, Scottish Natural Heritage, SINP, eBird Australia)
-Therefore, structured local initiatives may be used by several
-publishers to identify sensitive species and also to determine the
-generalizations to be used, probably generating more safe records but
-also preventing overgeneralizations.
+In records with WH and DG refering to data sensitivity, we found several cases in which specific national or local organizations were mentioned as references (Appendix 3 Table S2) , which coincide with the institutions from which we obtained the sensitive species list (Table 1), or institutions related to them (e.g., Natural England, Natural Resources Wales, Scottish Natural Heritage, SINP, eBird Australia). Therefore, structured local initiatives may be used by several publishers to identify sensitive species and also to determine the generalizations to be used, probably generating more safe records but also preventing overgeneralizations.
