@@ -22,16 +22,27 @@ include::introduction.en.adoc[]
 
 :sectnums:
 
-include::100.en.adoc[]
+include::0100-defining-sensitive-species.en.adoc[]
 
-include::200.en.adoc[]
+include::0101-table1.en.adoc[]
+
+include::0102-table2.en.adoc[]
+
+include::0200-sensitive-species-data-management-in-gbif.en.adoc[]
+
+include::0240-examples-of-sensitive-species-generalizations.en.adoc[]
 
 :sectnums!:
 
-include::afterword.en.adoc[]
+include::references.en.adoc[]
 
-include::appa.en.adoc[]
+include::appa1-title.en.adoc[]
 
-include::glossary.en.adoc[]
+include::appa2-title.en.adoc[]
 
-include::bibliography.en.adoc[]
+include::appa3-title.en.adoc[]
+
+include::appa4-title.en.adoc[]
+
+include::institutional-acronyms.en.adoc[]
+
