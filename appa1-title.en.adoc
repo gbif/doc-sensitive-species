@@ -160,15 +160,12 @@ ____
 * {blank}
 +
 ____
-Does the data provide information of *_nesting/breeding sites_* of the
-species?
+Does the data provide information of *_nesting/breeding sites_* of the species?
 ____
 * {blank}
 +
 ____
-Does the data provide evidence of a species during known periods when
-targeted exploitation is higher eg during blooming __*,* o__r when on
-targeted life stages e.g. eggs or seeds that may be harvested?
+Does the data provide evidence of a species during known periods when targeted exploitation is higher e.g. when in bloom __*,* o__r when on targeted life stages e.g. eggs or seeds that may be harvested?
 ____
 
 |_B.2 Data content and local context_ |
@@ -177,16 +174,12 @@ ____
 * {blank}
 +
 ____
-*_novelty_* – is the data is already publicly available in scientific
-literature, news, social media, atlases, popular knowledge, legal or
-illegal sources, or findable using an internet search engine? If its a
-novel location for the species, it may be considered more sensitive
+*_novelty_* – is the data is already publicly available in scientific literature, news, social media, atlases, popular knowledge, legal or illegal sources, or findable using an internet search engine? If it's a novel location for the species, it may be considered more sensitive
 ____
 * {blank}
 +
 ____
-*_spatial resolution_* - higher levels of resolution / precision at
-which the data is published may increase risks
+*_spatial resolution_* - higher levels of resolution / precision at which the data is published may increase risks
 ____
 
 *Mentioned by:* ERIN, SINP
@@ -195,8 +188,7 @@ ____
 * {blank}
 +
 ____
-consider the *_effective protection_* of the area in which the record is
-located
+consider the *_effective protection_* of the area in which the record is located
 ____
 
 *Mentioned by*: DRYAD, ERIN, Chapman (2006).
@@ -205,34 +197,29 @@ ____
 * {blank}
 +
 ____
-consider the existence of *_species-level legislation_* that may locally
-protect the species against exploitation
+consider the existence of *_species-level legislation_* that may locally protect the species against exploitation
 ____
 * {blank}
 +
 ____
-will *_conservation efforts_* be impacted or benefit from the data
-publication
+will *_conservation efforts_* be impacted or benefit from the data publication
 ____
 * {blank}
 +
 ____
-consider any *_local data publication protocols, guidelines or
-legislation_* related to the publication of data related to the species
+consider any *_local data publication protocols, guidelines or legislation_* related to the publication of data related to the species
 ____
 
 |_Potential conflicts_ a|
 * {blank}
 +
 ____
-Considerland tenure, i.e, if the record is located on **_privately or
-community-managed land_**s
+Considerland tenure, i.e, if the record is located on **_privately or community-managed land_**s
 ____
 * {blank}
 +
 ____
-check legal and social norms related to *_permissions to publish_* data
-on that area
+check legal and social norms related to *_permissions to publish_* data on that area
 ____
 
 |===
