@@ -1,13 +1,13 @@
 
 == References
 
-Adams WM (2017) Geographies of conservation I: De-extinction and precision conservation. Progress in Human Geography 41(4): 534–545. https://doi.org/10.1177/0309132516646641
+Adams WM (2017) Geographies of conservation I: De-extinction and precision conservation. Progress in Human Geography 41(4): 534–545. https://doi.org/10.1177/0309132516646641 A https://doi.org/10.1177/0309132516646641[Adams (2017)^] states (doi[Orum^], doi[Adams 2017^])
 
 ALA (2018) What is Sensitive Data? Atlas of Living Australia__.__ https://support.ala.org.au/support/solutions/articles/6000195500-what-is-sensitive-data-
 
 Angarita-Sierra T, Montaño-Londoño LF & Bravo-Vega CA (2022) ID please: Evaluating the utility of Facebook as a source of data for snake research and conservation. Anais Da Academia Brasileira de Ciências, 94(suppl 3): e20211043. https://doi.org/10.1590/0001-3765202220211043
 
-Ariño AH (2014) Filling Biodiversity Knowledge Gaps: GBIF supporting research for conservation management. The 21st meeting of the Governing Board (GB21), Delhi.
+[[arino]] Ariño AH (2014) Filling Biodiversity Knowledge Gaps: GBIF supporting research for conservation management. The 21st meeting of the Governing Board (GB21), Delhi. (#arino[Ariño 2014])
 
 Astorga F, Groom Q, Shimabukuro PHF, Manguin S, Noesgaard D, Orrell T, Sinka M, Hirsch T & Schigel D (2023) Biodiversity
 data supports research on human infectious diseases: Global trends, challenges, and opportunities. One Health 16: 100484. https://doi.org/10.1016/j.onehlt.2023.100484
