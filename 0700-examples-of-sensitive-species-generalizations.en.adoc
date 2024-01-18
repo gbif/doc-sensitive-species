@@ -1,8 +1,6 @@
 === Examples of sensitive species generalizations
 
-==== 
-
-==== Rhinoceroses
+==== _Rhinoceroses_
 
 Species from the family Rhinocertidae are well-known to be a valuable
 target for poachers and hunters, so we used them as an example to
@@ -34,7 +32,7 @@ generalization informed (not using any of the selected terms: WH, DG,
 FT, DP, UNC), which were related to _Diceros bicornis_, _Ceratotherium
 simum_ and _Rhinoceros unicornis._
 
-==== Orchids
+==== _Orchids_
 
 Orchids are one of the largest families of flowering plants with nearly
 30,000 species globally and commonly traded and are particularly
