@@ -6,8 +6,7 @@ Without a good understanding of the potential threats to a species, one of the f
 
 The identification of potentially sensitive species and sensitive data may take diverse approaches and frameworks, ranging from simple binary decision to more complex multi step processes (e.g. SANBI, 2018; SINP, 2017). The elaboration of sensitive species lists are, in general, collaborative in nature, and their level of complexity varies between countries and organizations. For example, organizations such as SINP (France) and SANBI (South Africa) have established working groups that develop sensitive species lists and their associated generalization protocols (Table 1). Some of these working groups allow for these processes to be consultative and across a broad range of stakeholders. SANBI and iNaturalist also provide user feedback mechanisms with which the user community can inform those organizations regarding concerns about the classification of species as sensitive. These lists are often dynamic and reflect current changes to pressures at national or regional levels. For example, SANBI´s working group periodically reviews the list as new information becomes available, resulting in a dynamic list where the number of species can change (504 in 2010, reduced to 129 in 2018) and a watchlist of genera which could become sensitive in the future (SANBI, 2010, 2018). Only a few institutions, however, provide full documentation of these processes. For example, SANBI was identified as having a particularly well-developed set of documentation (SANBI 2010, 2016, 2018).
 
-==== Table 1. Institutions that have generated sensitive species lists and general description of the process. 
-
+.Institutions that have generated sensitive species lists and general description of the process.
 [width="100%",cols="31%,39%,16%,14%",options="header",]
 |===
 a|
@@ -80,8 +79,7 @@ iNaturalist^+++7+++^
 
 *Canada*
 
-|Although iNaturalist has recommendations for sensitive species, we
-found a list only for Canada |Canada |113
+|Although iNaturalist has recommendations for sensitive species, we found a list only for Canada |Canada |113
 
 a|
 FinBIF ^+++8+++^
@@ -90,17 +88,17 @@ Finish Information Facility
 
 *Finland*
 
-|FinBIF (GBIF node) develops sensitive species list through a
-collaborative process with other national institutions. |Finland |152
+|FinBIF (GBIF node) develops sensitive species list through a collaborative process with other national institutions. |Finland |152
 
 a|
 Info species
 
 *Switzerland^9^*
 
-|Integrates different lists developed by institutions such as Ornitho
-and Info Flora. |Switzerland |63
+|Integrates different lists developed by institutions such as Ornitho and Info Flora. |Switzerland |63
 |===
+
+NOTE: remove footnotes; link to text
 
 *Updated in December 2022; Include species, but also genus and taxa
 groups; ^1^https://lists.ala.org.au/[+++https://lists.ala.org.au/+++];
@@ -121,284 +119,68 @@ https://cms.laji.fi/wp-content/uploads/2021/10/Suomen_Lajitietokeskus_sensitiivi
 ^9^InfoSpecies
 
 
-Some citizen science projects have also developed their own protocols
-and lists. eBird and iNaturalist categorize sensitivity within the data
-for specific countries and taxa based on community consultation. Both
-initiatives are already implementing sensitive data policies, eBird in
-2017 and iNaturalist in 2011 (Glaser, 2019; iNaturalist, 2022).
-iNaturalist automatically obscures species on its own sensitive species
-list, such as observation of certain orchids (iNaturalist, 2023).
-iNaturalist community helps inform which taxa should have a taxon
-geoprivacy set by flagging taxa. In addition, iNaturalist encourages
-publishers to set geoprivacy settings to "obscured" for any records that
-they feel are sensitive. For obscured observations, the latitude and
-longitude are moved to private latitude and private longitude fields
-which are not publicly visible and the publicly available accuracy is
-increased to the diagonal of a 0.2 x 0.2 degree cell (~500 km^2^ at the
-equator). Latitude and longitude are replaced with a random point within
-this cell. In some regions, iNaturalist also works at the national
-level, to harmonize their global approach with national approaches. For
-example, in Canada, iNaturalist has a working group, which works with
-NatureServe Canada's Conservation Data Centers who establish and
-maintain the conservation statuses for each province and territory
-(except Quebec).
+Some citizen science projects have also developed their own protocols and lists. eBird and iNaturalist categorize sensitivity within the data for specific countries and taxa based on community consultation. Both initiatives are already implementing sensitive data policies, eBird in 2017 and iNaturalist in 2011 (Glaser 2019; iNaturalist 2022). iNaturalist automatically obscures species on its own sensitive species list, such as observation of certain orchids (iNaturalist 2023). iNaturalist community helps inform which taxa should have a taxon geoprivacy set by flagging taxa. In addition, iNaturalist encourages publishers to set geoprivacy settings to "obscured" for any records that they feel are sensitive. For obscured observations, the latitude and longitude are moved to private latitude and private longitude fields which are not publicly visible and the publicly available accuracy is increased to the diagonal of a 0.2 x 0.2 degree cell (~500 km^2^ at the equator). Latitude and longitude are replaced with a random point within this cell. In some regions, iNaturalist also works at the national level, to harmonize their global approach with national approaches. For example, in Canada, iNaturalist has a working group, which works with NatureServe Canada's Conservation Data Centers who establish and maintain the conservation statuses for each province and territory (except Quebec).
 
-In this report we assessed these different frameworks against Chapman´s
-framework to see to what extent these elements are addressed across
-different organizations´ frameworks (Appendix 1 Table S1). The two major
-elements of Chapman´s framework are below, with sub-components of the
-framework in bold italics:
+In this report we assessed these different frameworks against Chapman´s framework to see to what extent these elements are addressed across different organizations´ frameworks (Appendix 1 Table S1). The two major elements of Chapman´s framework are below, with sub-components of the framework in bold italics:
 
-* Is the taxon that we are publishing data on sensitive? i.e:
+* Is the taxon that we are publishing data on sensitive? e.g:
 ** Is the taxon at *_risk of harm_*?
 ** What will be the *_impact of the harm_*?
 ** What is the *_conservation status_* of the species?
 
-* Will the publication of the data increase potential harm to the taxon?
-i.e.:
-** Does the *_taxon exhibit features_* that make release of that data
-potentially harmful to that taxon?
-** Will the *_release of the data_* increase the probability of harmful
-activities?
+* Will the publication of the data increase potential harm to the taxon? e.g:
+** Does the *_taxon exhibit features_* that make release of that data potentially harmful to that taxon?
+** Will the *_release of the data_* increase the probability of harmful activities?
 
-Among the different guidelines and literature reviewed, the most widely
-used elements for identifying sensitive species data were the risk of
-harm and the conservation status, with further refinement following
-national stakeholder consultations. Most of the institutions referred to
-the IUCN Red List of Threatened Species (e.g., DRYAD), and others also
-applied local and national assessments of conservation status (ALA,
-2018; SANBI, 2016). For risk of harm, threats identified within the
-frameworks related to the use of the species, the economic value of the
-targeted species, or how interesting specific groups found them (e.g.,
-wildlife watchers). With respect to conservation status, for some
-organizations this was the only criterion used.
+Among the different guidelines and literature reviewed, the most widely used elements for identifying sensitive species data were the risk of harm and the conservation status, with further refinement following national stakeholder consultations. Most of the institutions referred to the IUCN Red List of Threatened Species (e.g., DRYAD), and others also applied local and national assessments of conservation status (ALA 2018; SANBI 2016). For risk of harm, threats identified within the frameworks related to the use of the species, the economic value of the targeted species, or how interesting specific groups found them (e.g., wildlife watchers). With respect to conservation status, for some organizations this was the only criterion used.
 
-The assessment of the *_impact of harm_* is not simple and the
-establishment of thresholds at which a specific activity can be viewed
-as a major threat remains unclear, in particular for cases with multiple
-threats. Based on the precautionary principle, institutions such as SINP
-do not necessarily require robust evidence of population susceptibility
-and may use knowledge of the effects of the threats on closely-related
-species to inform decisions on which species would be considered
-sensitive (SINP, 2014). SANBI has developed a set of well-defined
-criteria for assessing impacts of harm: exploitation extent; targeted
-demographic; regeneration potential; and population vulnerability
-(SANBI, 2010, 2018, Table 2). The criteria account for how harmful
-activities would affect a species given its ecology, demographics and
-exploitation intensity over time, providing the most robust attempt to
-qualify the impact of harm on species across all frameworks.
+The assessment of the *_impact of harm_* is not simple and the establishment of thresholds at which a specific activity can be viewed as a major threat remains unclear, in particular for cases with multiple threats. Based on the precautionary principle, institutions such as SINP do not necessarily require robust evidence of population susceptibility and may use knowledge of the effects of the threats on closely-related species to inform decisions on which species would be considered sensitive (SINP 2014). SANBI has developed a set of well-defined criteria for assessing impacts of harm: exploitation extent; targeted demographic; regeneration potential; and population vulnerability (SANBI, 2010, 2018, Table 2). The criteria account for how harmful activities would affect a species given its ecology, demographics and exploitation intensity over time, providing the most robust attempt to qualify the impact of harm on species across all frameworks.
 
-INSERT TABLE 2
-=== Table 2. Framework suggested by SANBI to identify sensitive species. The responses “none” and “unknown” are not included, although are considered as potential categories (Adapted from SANBI, 2010, 2018)
+.Framework suggested by SANBI to identify sensitive species. The responses “none” and “unknown” are not included, although are considered as potential categories (Adapted from SANBI 2010 & SANBI 2018)
+[width="100%",cols="19%,15%,66%",options="header",]
+|===
+|*Element* |*Response scales (categories)* |*Response description*
+|*Targeted exploitation* |Small or insignificant |Wild individuals of the species are known to be utilized*, but utilization is localized and/or affects only a small proportion of the wild population
 
-Whether the publication of the data would increase potential harm to the
-species, which is the second element of Chapman´s framework, was not as
-widely used within the frameworks for determining the sensitivity of the
-data. Not all ungeneralized occurrence data of a sensitive species may
-pose a direct risk to populations of that species. For some species,
-even with precise knowledge of its location, its discovery is unlikely.
-This probability of finding the species again has been defined as its
-*_detectability_* (Bailey et al., 2004), and depends on factors
-including species mobility, home range, sociality, cryptic behaviours,
-local population density and territoriality (Bailey et al., 2004; Kéry &
-Schmid, 2004). For example, the elusive and critically endangered Andean
-Cat (_Leopardus jacobita_) was recently recorded from a novel location
-in central Chile in 2018 as part of a camera trap monitoring program
-(GEF Montaña, 2018). However, despite continuous intensive fieldwork,
-the efforts to capture a new photo at the same location were
-unsuccessful. The cat was photographed again, but several months later
-and in a station a few kilometres away (Figure 1). In this example, the
-delivery of a precise location may not represent a significant risk for
-the species. In contrast, species with smaller distributions (e.g., a
-frog in a wetland), high densities and lower mobility may be easier to
-find. Chapman (2006) suggested that herbaria are more inclined to
-restrict their data, which coincides with our own results i.e.
-occurrence records of plant species tend to be more generalized (see
-below). Even though we cannot assume a straightforward correlation, we
-might assume that, at least in part, data generators may perceive higher
-risks related to the lack of mobility of plants. Incorporating an
-estimation of the species detectability may improve the choice of
-corresponding spatial buffers to be applied for data generalizations. In
-species with lower mobility, smaller home ranges and/or behavioural
-traits or habits that lead to reduced movements of individual (e.g.
-philopatry), occurrences may be very precise and, yet, not increase
-threats to individuals . Some ecological studies and surveillance
-programs have incorporated detectability in their protocols, identifying
-species that require major efforts to be found (or re-detected) (Efford
-& Schofield, 2022; Howe et al., 2022; Theng et al., 2022; Tourani,
-2022). Including this element may be key to securely deliver more
-precise location information.
+| |Significant |Wild individuals of the species are known to be utilized*, and utilization is widespread, affects most wild populations and/or is causing rapid decline of the wild population
 
-The *_accessibility_* of the location from which the species was
-recorded may also limit the impact of publishing ungeneralized data.
-Access to certain locations may only be possible with appropriate
-permits, training and/or equipment. For example, the burrowing parrot
-(_Cyanoliseus patagonus_) build their nests in cliffs along river banks
-in the Andes. Similarly, the long-flowered fescue (_Patzkea paniculata_
-subsp. _longiglumis_) is only known in France from one station in the
-Pyrénées-Atlantiques, located within rocky escarpments (SINP, 2022).
+| |Managed |The species is utilized*, but utilization is sustainably managed, e.g. the number utilized does not exceed the number produced by the wild populations. This should be examined on an annual basis
+
+| |Uncertain |No data exists yet showing that the species is exploited in the wild, however it has one or more relatives or look-alike species that are known to be utilized, making it highly likely that it would be exploited for the same purposes.
+
+|*Regeneration potential* |Fast population growth rate |Good chance for the wild populations to recover from exploitation.
+
+| |Slow population growth rate, or the growth rate varies depending on habitat |Poor chance for the wild populations to recover from exploitation OR a collector might feasibly harvest the entire extant population removing the chance of subsequent recruitment. For example, a gregarious species with a reproduction system that gathers all nests together facilitates the extraction of the entire existent population in a short period of time, removing the chance of subsequent recruitment
+
+|*Population vulnerability* |Population is vulnerable |Size is <=2,500 mature individuals OR the number of known subpopulations is <=5 OR range is <= 100 km^2^ OR species at risk of localized extinctions
+
+| |Population is not vulnerable |Size is > 2500 mature individuals, AND the number of known subpopulations is > 5 AND range > 100 km^2^
+|===
+
+*Utilization: exploited, collected, traded, or utilized in a targeted manner
+
+Whether the publication of the data would increase potential harm to the species, which is the second element of Chapman´s framework, was not as widely used within the frameworks for determining the sensitivity of the data. Not all ungeneralized occurrence data of a sensitive species may pose a direct risk to populations of that species. For some species, even with precise knowledge of its location, its discovery is unlikely. This probability of finding the species again has been defined as its *_detectability_* (Bailey et al. 2004), and depends on factors including species mobility, home range, sociality, cryptic behaviours, local population density and territoriality (Bailey et al. 2004; Kéry & Schmid 2004). For example, the elusive and critically endangered Andean cat (_Leopardus jacobita_) was recently recorded from a novel location in central Chile in 2018 as part of a camera trap monitoring program (GEF Montaña 2018). However, despite continuous intensive fieldwork, the efforts to capture a new photo at the same location were unsuccessful. The cat was photographed again, but several months later and in a station a few kilometres away (Figure 1). In this example, the delivery of a precise location may not represent a significant risk for the species. In contrast, species with smaller distributions (e.g., a frog in a wetland), high densities and lower mobility may be easier to find. Chapman (2006) suggested that herbaria are more inclined to restrict their data, which coincides with our own finding that occurrence records of plant species tend to be more generalized (see below). Even though we cannot assume a straightforward correlation, we might assume that, at least in part, data generators may perceive higher risks related to the lack of mobility of plants. Incorporating an estimation of the species detectability may improve the choice of corresponding spatial buffers to be applied for data generalizations. In species with lower mobility, smaller home ranges and/or behavioural traits or habits that lead to reduced movements of individual (e.g. philopatry), occurrences may be very precise and, yet, not increase threats to individuals . Some ecological studies and surveillance programs have incorporated detectability in their protocols, identifying species that require major efforts to be found (or re-detected) (Efford & Schofield 2022; Howe et al. 2022; Theng et al. 2022; Tourani, 2022). Including this element may be key to securely deliver more precise location information.
+
+The *_accessibility_* of the location from which the species was recorded may also limit the impact of publishing ungeneralized data. Access to certain locations may only be possible with appropriate permits, training and/or equipment. For example, the burrowing parrot (_Cyanoliseus patagonus_) build their nests in cliffs along river banks in the Andes. Similarly, the long-flowered fescue (_Patzkea paniculata_ subsp. _longiglumis_) is only known in France from one station in the Pyrénées-Atlantiques, located within rocky escarpments (SINP 2022).
 
 image:media/image4.jpg[image,width=434,height=326]
 
-Figure 1. Camera trap shot of an Andean Cat (_Leopardus jacobitus_). A
-first photo was obtained in 2018, in the protected area Cascada de las
-Animas and represented the southernmost record of this endangered
-species at that point in time. The following efforts of camera trap
-monitoring to detect the cat again in the same station were
-unsuccessful. After months, only two more records were obtained, but at
-stations located >1 km apart (Photo: Chagual Orrego, GEF Montaña
-Project, 2018).
+Figure 1. Camera trap shot of an Andean Cat (_Leopardus jacobitus_). A first photo was obtained in 2018, in the protected area Cascada de las Animas and represented the southernmost record of this endangered species at that point in time. The following efforts of camera trap monitoring to detect the cat again in the same station were unsuccessful. After months, only two more records were obtained, but at stations located >1 km apart (Photo: Chagual Orrego, GEF Montaña Project 2018).
 
-The *_novelty_* of the data, i.e. an occurrence of a species in a
-location not previously reported, can also increase its sensitivity;
-however, identifying truly novel data points is not a straightforward
-process. For example, if a species is known to occur in a province of a
-country with an area of 7,000 km², would it be safe to publish precise
-location information of this species within that province? Is that
-record considered a _novel location_ or not? Angarita-Sierra et al.
-(2022) attempted to address this issue in Colombia. For snakes, the
-authors compared “novel” data to data mediated by GBIF, and defined
-“novel” as a record that occurs outside a buffer of 50-100 km from
-previously published locations. Records falling outside buffers
-represented range extensions and, thus, truly novel data. This example
-highlights the difficulties in finding an approach to define what would
-be considered a novel location that may increase threat or, in contrast,
-if the data point does not represent novel information, falling within a
-known species´s distribution. The relevance of these records located in
-known distribution is that they may contribute with valuable ecological
-information of population dynamics along time.
+The *_novelty_* of the data, i.e. an occurrence of a species in a location not previously reported, can also increase its sensitivity; however, identifying truly novel data points is not a straightforward process. For example, if a species is known to occur in a province of a country with an area of 7,000 km², would it be safe to publish precise location information of this species within that province? Is that record considered a _novel location_ or not? Angarita-Sierra et al. (2022) attempted to address this issue in Colombia. For snakes, the authors compared “novel” data to data mediated by GBIF, and defined “novel” as a record that occurs outside a buffer of 50-100 km from previously published locations. Records falling outside buffers represented range extensions and, thus, truly novel data. This example highlights the difficulties in finding an approach to define what would be considered a novel location that may increase threat or, in contrast, if the data point does not represent novel information, falling within a known species´s distribution. The relevance of these records located in known distribution is that they may contribute with valuable ecological information of population dynamics along time.
 
 === The complementarity between national/regional lists and global lists 
 
-Good examples exist of well-developed sensitive species data frameworks
-that allow for the identification of sensitive species on which data
-generalization protocols can be applied. However, these frameworks and
-guidelines are limited to a handful of countries or taxonomic groups
-(Table 1). Given these large geographical and taxonomical gaps in our
-knowledge of where sensitivity may lie, we explored the utility of
-developing a global trigger lists that could be used to flag those taxa
-where we might expect sensitivity in the data. For this, we used the
-IUCN Red List of Threatened Species (often cited as a reference for the
-development of national sensitive lists) and the CITES Appendices
-(Convention on International Trade in Endangered Species). We wanted to
-investigate to what extent the signal within an IUCN-derived and a
-CITES-derived sensitive species checklists were reflected within
-national and organizational lists. If national and organizational
-sensitive species lists reflected the signal within these global lists
-then these global lists could potentially serve as useful indicators of
-sensitivity within data that could be used as references for data
-managers of sensitive taxa for generalization.
+Good examples exist of well-developed sensitive species data frameworks that allow for the identification of sensitive species on which data generalization protocols can be applied. However, these frameworks and guidelines are limited to a handful of countries or taxonomic groups (Table 1). Given these large geographical and taxonomical gaps in our knowledge of where sensitivity may lie, we explored the utility of developing a global trigger lists that could be used to flag those taxa where we might expect sensitivity in the data. For this, we used the IUCN Red List of Threatened Species (often cited as a reference for the development of national sensitive lists) and the CITES Appendices (Convention on International Trade in Endangered Species). We wanted to investigate to what extent the signal within an IUCN-derived and a CITES-derived sensitive species checklists were reflected within national and organizational lists. If national and organizational sensitive species lists reflected the signal within these global lists then these global lists could potentially serve as useful indicators of sensitivity within data that could be used as references for data managers of sensitive taxa for generalization.
 
-For the IUCN Red List, we identified potentially sensitive species if
-“biological resource use” had been recorded as a threat to the species
-under the IUCN´s Threat Classification Scheme (IUCN, 2022), only
-including those subcategories in which the biological use was classified
-as “intentional, species is the target”. This was deemed to be the
-threat classification that was most likely to identify taxa that would
-be subject to targeted hunting, gathering, harvesting, or other similar
-activity that may result in increased species data sensitivity. From the
-near 150.000 species currently assessed in the IUCN Red List, we found
-12,890 potentially sensitive species excluding those species where the
-threat from biological resource use could not be directly attributed to
-the species. From this IUCN-based list, 40 per cent of the species were
-categorized as Least Concern, and the remaining as Data Deficient (6.7
-per cent), Near Threatened (11.3 per cent) or threatened (Vulnerable
-17.0 per cent, Endangered 15.9 per cent, Critically Endangered 8.6 per
-cent). For CITES-listed species, we included the 53,063 species under
-the three Appendices as potentially sensitive species.
+For the IUCN Red List, we identified potentially sensitive species if “biological resource use” had been recorded as a threat to the species under the IUCN´s Threat Classification Scheme (IUCN 2022), only including those subcategories in which the biological use was classified as “intentional, species is the target”. This was deemed to be the threat classification that was most likely to identify taxa that would be subject to targeted hunting, gathering, harvesting, or other similar activity that may result in increased species data sensitivity. From the near 150.000 species currently assessed in the IUCN Red List, we found 12,890 potentially sensitive species excluding those species where the threat from biological resource use could not be directly attributed to the species. From this IUCN-based list, 40 per cent of the species were categorized as Least Concern, and the remaining as Data Deficient (6.7 per cent), Near Threatened (11.3 per cent) or threatened (Vulnerable 17.0 per cent, Endangered 15.9 per cent, Critically Endangered 8.6 per cent). For CITES-listed species, we included the 53,063 species under the three Appendices as potentially sensitive species.
 
-From the 9 institutional sensitive species lists we were able to
-retrieve (Table 1), we compiled 9,232 sensitive taxa covering 91
-countries (Appendix 2 Figure S1). In some cases, sensitivity was defined
-not for a species, but for a genus, subspecies or a variety (e.g.,
-_Acriopsis_ sp., _Gasteria pillansii_ var. _Hallii, Asplenium_ x contrei
-Calle__)__. After matching taxonomic names using the GBIF Species
-taxonomic matching tool, we recognized 8,368 species. From these, 5,715
-(68.3 per cent) were listed as Not Evaluated (NE), and 532 were not
-found in the IUCN Red List. Of the remaining species listed, 14.3 per
-cent were considered as Least Concern, 1.8 per cent as Near Threatened,
-3.5 per cent Vulnerable, 3.5 per cent Endangered and 2.2 per cent as
-Critically Endangered. Compilation of the list from the institutions was
-hindered due to the unstandardized list formats provided (e.g.,
-exportable excel or csv files, pdf, text in the web page) and due to
-taxonomic mismatches between the organizational lists, the IUCN and the
-GBIF taxonomic backbone.
+From the 9 institutional sensitive species lists we were able to retrieve (Table 1), we compiled 9,232 sensitive taxa covering 91 countries (Appendix 2 Figure S1). In some cases, sensitivity was defined not for a species, but for a genus, subspecies or a variety (e.g., _Acriopsis_ sp., _Gasteria pillansii_ var. _Hallii_, _Asplenium_ x contrei _Calle_). After matching taxonomic names using the GBIF Species taxonomic matching tool, we recognized 8,368 species. From these, 5,715 (68.3 per cent) were listed as Not Evaluated (NE), and 532 were not found in the IUCN Red List. Of the remaining species listed, 14.3 per cent were considered as Least Concern, 1.8 per cent as Near Threatened, 3.5 per cent Vulnerable, 3.5 per cent Endangered and 2.2 per cent as Critically Endangered. Compilation of the list from the institutions was hindered due to the unstandardized list formats provided (e.g., exportable excel or csv files, pdf, text in the web page) and due to taxonomic mismatches between the organizational lists, the IUCN and the GBIF taxonomic backbone.
 
-If we look at the taxonomic composition of the compiled national and
-organizational list, 62.3 per cent of taxa are plants as compared to 33
-per cent for those species on the IUCN Red List identified as being
-threatened by biological resource use. The value of 33 per cent is in
-contrast to the fact that 41 per cent of all taxa on the IUCN Red List
-are plants and thus could reflect a lower threat to plants from
-biological resource use, or could be explained by an incomplete
-assessment of plant species threatened by biological use, highlighting a
-potential need for updating assessments to adequately reflect threats to
-species (Auliya et al., 2016; Siler et al., 2014). It is also important
-to note that in the Atlas of Living Australia sensitive species list
-there was a large number of plant species (4,161 species) that skewed
-the taxonomic composition of the compiled national and organizational
-list towards plants. For CITES-listed species, 84.6 per cent are plants
-although this may be due to the fact that two large plant taxa are
-included in the CITES-lists, notably Orchidaceae (34,354 species). The
-CITES-list also demonstrates taxonomic biases or gaps. For example,
-reptiles have been widely recognized as susceptible to over-exploitation
-by unsustainable pet trade; however, the trade of fewer than 8 per cent
-of reptile species are regulated by CITES (Auliya et al., 2016;
-Schlaepfer et al., 2005).
+If we look at the taxonomic composition of the compiled national and organizational list, 62.3 per cent of taxa are plants as compared to 33 per cent for those species on the IUCN Red List identified as being threatened by biological resource use. The value of 33 per cent is in contrast to the fact that 41 per cent of all taxa on the IUCN Red List are plants and thus could reflect a lower threat to plants from biological resource use, or could be explained by an incomplete assessment of plant species threatened by biological use, highlighting a potential need for updating assessments to adequately reflect threats to species (Auliya et al. 2016; Siler et al. 2014). It is also important to note that in the Atlas of Living Australia sensitive species list there was a large number of plant species (4,161 species) that skewed the taxonomic composition of the compiled national and organizational list towards plants. For CITES-listed species, 84.6 per cent are plants although this may be due to the fact that two large plant taxa are included in the CITES-lists, notably Orchidaceae (34,354 species). The CITES-list also demonstrates taxonomic biases or gaps. For example, reptiles have been widely recognized as susceptible to over-exploitation by unsustainable pet trade; however, the trade of fewer than 8 per cent of reptile species are regulated by CITES (Auliya et al. 2016; Schlaepfer et al. 2005).
 
-When we compared the taxonomic coverage of the IUCN-derived sensitive
-list (species threatened by biological resource use), the CITES-derived
-list, and the compiled national and organizational list, we found little
-agreement. From the 9,232 taxa identified in the compiled national and
-organizational list, only 220 (2.5 per cent) were found on the list of
-12,890 species obtained from the IUCN-derived list (representing 1.7 per
-cent of species). Therefore, only a few species identified through the
-IUCN threat scheme enables the identification of species listed as
-sensitive at national or regional levels. The use of the IUCN threat
-classification scheme would be identifying those species at risk of harm
-at a global level, and not assessing the intensity of the harm at a
-local scale, reflecting that the threat of biological use would not be
-uniform over a species´ global distribution. Therefore, the use of
-biological use in the global IUCN threat classification scheme may over-
-or underestimate this threat of use at a local scale as the intensity of
-the threat has not been assessed locally. This is in contrast to
-national or organizational sensitive species lists where sensitive
-species are identified using a set of locally-relevant criteria and
-stakeholders.
+When we compared the taxonomic coverage of the IUCN-derived sensitive list (species threatened by biological resource use), the CITES-derived list, and the compiled national and organizational list, we found little agreement. From the 9,232 taxa identified in the compiled national and organizational list, only 220 (2.5 per cent) were found on the list of 12,890 species obtained from the IUCN-derived list (representing 1.7 per cent of species). Therefore, only a few species identified through the IUCN threat scheme enables the identification of species listed as sensitive at national or regional levels. The use of the IUCN threat classification scheme would be identifying those species at risk of harm at a global level, and not assessing the intensity of the harm at a local scale, reflecting that the threat of biological use would not be uniform over a species´ global distribution. Therefore, the use of biological use in the global IUCN threat classification scheme may over- or underestimate this threat of use at a local scale as the intensity of the threat has not been assessed locally. This is in contrast to national or organizational sensitive species lists where sensitive species are identified using a set of locally-relevant criteria and stakeholders.
 
-When we compared the CITES-derived list of species whose trade is
-regulated internationally with the compiled national and organizational
-sensitive species list, 1,200 species appear in both (nearly 13per cent
-of the species included on the compiled national and organizational
-sensitive species list). While higher than the filtered IUCN Red List,
-this number still remains relatively low. Comparisons here are difficult
-though as a large number of taxa on the CITES appendices are not
-distributed in the countries for which we have sensitive species lists.
-If we take just the Orchidaceae for example, with over 34,000 species,
-most of these species are found in countries without sensitive species
-lists. The fact that there is some signal in our globally
-unrepresentative compiled national and organizational list suggests that
-there may be some utility in using CITES-derived lists for identifying
-sensitive species, but further exploration is needed in order to define
-sensitivity at national or regional levels.
+When we compared the CITES-derived list of species whose trade is regulated internationally with the compiled national and organizational sensitive species list, 1,200 species appear in both (nearly 13 per cent of the species included on the compiled national and organizational sensitive species list). While higher than the filtered IUCN Red List, this number still remains relatively low. Comparisons here are difficult though as a large number of taxa on the CITES appendices are not distributed in the countries for which we have sensitive species lists. If we take just the Orchidaceae for example, with over 34,000 species, most of these species are found in countries without sensitive species lists. The fact that there is some signal in our globally unrepresentative compiled national and organizational list suggests that there may be some utility in using CITES-derived lists for identifying sensitive species, but further exploration is needed in order to define sensitivity at national or regional levels.
 
-The large number of species identified as sensitive in institutional
-lists and not reflected in the IUCN-based lists was unexpected,
-highlighting how different approaches at different scales provide
-different insights. The IUCN Red List of Threatened Species, while
-useful in identifying species at higher risk of extinction on which
-publishers may want to generalize data, it does not sufficiently reflect
-national context to be able to be used generically as a global trigger
-list. The CITES Appendices potentially provide more information,
-however, this should be explored following consultation with GBIF nodes
-and the wider conservation community. Global lists cannot replace
-national/regional/organizational processes to adequately capture where
-there may be sensitivity in the data. In a GBIF survey aimed at data
-publishing organizations within GBIF (Chapman, 2006), publishers were
-able to identify local pressures on species based on their own
-experience for example illegal falconry, collection and baiting
-(badgers) and important local taxa including amphibians and reptiles,
-ferns, orchids, cycads, succulent plants and cacti. In one territory, a
-respondent responded that “digging up of rare plants has not been a
-problem until now”. This understanding of local contexts and priorities
-is difficult to disaggregate from global lists .
+The large number of species identified as sensitive in institutional lists and not reflected in the IUCN-based lists was unexpected, highlighting how different approaches at different scales provide different insights. The IUCN Red List of Threatened Species, while useful in identifying species at higher risk of extinction on which publishers may want to generalize data, it does not sufficiently reflect national context to be able to be used generically as a global trigger list. The CITES Appendices potentially provide more information, however, this should be explored following consultation with GBIF nodes and the wider conservation community. Global lists cannot replace national/regional/organizational processes to adequately capture where there may be sensitivity in the data. In a GBIF survey aimed at data publishing organizations within GBIF (Chapman 2006), publishers were able to identify local pressures on species based on their own experience for example illegal falconry, collection and baiting (badgers) and important local taxa including amphibians and reptiles, ferns, orchids, cycads, succulent plants and cacti. In one territory, a respondent responded that “digging up of rare plants has not been a problem until now”. This understanding of local contexts and priorities is difficult to disaggregate from global lists.
