@@ -1,5 +1,5 @@
 [appendix]
-= Appendix 3
+= Appendix C
 
 .Examples of the texts used in the records reviewed in which data generalization (DG) or data withheld (WH) were used to describe data managements due to the potential sensitivity of the species.
 [width="100%",cols="9%,23%,29%,12%,12%,8%,7%",options="header",]
