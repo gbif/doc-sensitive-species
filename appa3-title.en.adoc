@@ -1,4 +1,4 @@
-[[appendix]]
+[appendix]
 = Appendix 3
 
 .Examples of the texts used in the records reviewed in which data generalization (DG) or data withheld (WH) were used to describe data managements due to the potential sensitivity of the species.
