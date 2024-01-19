@@ -31,10 +31,7 @@ The document _Exploring the risk and benefits of publishing sensitive species da
 
 === Document control
 
-First final edition, February 2024
-
-// include reference to provenance if possible/relevant
-https://doi.org/10.EXAMPLE/2ND-EXAMPLE[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur].
+v1.0.0, February 2024
 
 === Cover image
 
