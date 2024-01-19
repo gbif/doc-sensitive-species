@@ -24,10 +24,6 @@ include::introduction.en.adoc[]
 
 include::0100-defining-sensitive-species.en.adoc[]
 
-include::0101-table1.en.adoc[]
-
-include::0102-table2.en.adoc[]
-
 include::0200-sensitive-species-data-management-in-gbif.en.adoc[]
 
 include::0240-examples-of-sensitive-species-generalizations.en.adoc[]
