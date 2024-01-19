@@ -1,4 +1,5 @@
 [appendix]
+:appendix-caption!:
 = Appendix 4 
 
 .Table S3. Rhinoceros data. Total occurrence data found in GBIF for extant species of the family Rhinocertidae according to the conservation status and to what extent information was provided on data generalizations (DG and WH) for those species. Text information provided with the terms is provided in parentheses. Note that Diceros bicornis presents two conservation categories, explained by the two recognized subspecies with different categories.
