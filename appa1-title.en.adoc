@@ -1,4 +1,5 @@
 [appendix]
+:appendix-caption!:
 = Appendix A
 
 .Conceptual framework of the main elements that have been used to define sensitive species, based on Chapman´s data generalization guidelines, complemented with additional elements found in the literature. The table includes examples of the approach developed by some organizations and initiatives. The specific elements proposed by Chapman to define sensitivity are in *_bold italics_* and include both biological and non-biological aspects. This compilation represents a contribution to facilitate the development of protocols to manage sensitive species data, particularly for data generators, aggregators and repositories.
