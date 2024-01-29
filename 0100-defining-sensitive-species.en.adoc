@@ -13,11 +13,6 @@ a|
 [upperalpha]
 . {blank}
 +
-____
-*Institutions with sensitive species lists and general description of
-the process*
-____
-
 | | |
 |*Institution and country* |*General description* |*Geographical scope*
 |*N species**
