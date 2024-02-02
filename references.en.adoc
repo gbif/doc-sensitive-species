@@ -65,119 +65,58 @@ iNaturalist (2022) Obscuring Sensitive Species Data. https://www.inaturalist.org
 
 iNaturalist (2023) Frequently Asked Questions: What is geoprivacy? What does it mean for an observation to be obscured? https://www.inaturalist.org/pages/help#geoprivacy
 
-IUCN. (2022) _Threats Classification Scheme (Version 3.2)_
-https://www.iucnredlist.org/resources/threat-classification-scheme
+IUCN (2022) Threats Classification Scheme (Version 3.2) https://www.iucnredlist.org/resources/threat-classification-scheme
 
-Kelling, S., Hochachka, W. M., Fink, D., Riedewald, M., Caruana, R.,
-Ballard, G., & Hooker, G. (2009) Data-intensive Science: A New Paradigm
-for Biodiversity Studies. _BioScience_, _59_(7), 613–620.
-https://doi.org/10.1525/bio.2009.59.7.12
+Kelling S, Hochachka W M, Fink D, Riedewald M, Caruana R, Ballard G & Hooker G (2009) Data-intensive Science: A New Paradigm for Biodiversity Studies. BioScience, 59(7), 613–620. https://doi.org/10.1525/bio.2009.59.7.12
 
-Kéry, M., & Schmid, H. (2004) Monitoring programs need to take into
-account imperfect species detectability. _Basic and Applied Ecology_,
-_5_(1), 65–73. https://doi.org/10.1078/1439-1791-00194
+Kéry M & Schmid H (2004) Monitoring programs need to take into account imperfect species detectability. Basic and Applied Ecology, 5(1), 65–73. https://doi.org/10.1078/1439-1791-00194
 
-Lindenmayer, D., & Scheele, B. (2017) Do not publish: Limit open access
-information on rare and endangered speci. _Science_, _356_(6340)
+Lindenmayer D & Scheele B (2017) Do not publish: Limit open access information on rare and endangered speci. Science, 356(6340) NBN. (2019) NBN Sensitive Species Policy. The National Biodiversity Network.
 
-NBN. (2019) _NBN Sensitive Species Policy_. The National Biodiversity
-Network.
+NSW (2006) Sensitive Species Data Policy. Department of Environment, Climate Change and Water (DECCW), New South Wales.
 
-NSW. (2006) _Sensitive Species Data Policy_. Department of Environment,
-Climate Change and Water (DECCW), New South Wales.
+Powney G D & Isaac N J B (2015) Beyond maps: A review of the applications of biological records: Applications of Biological Records. Biological Journal of the Linnean Society, 115(3), 532–542.https://doi.org/10.1111/bij.12517
 
-Powney, G. D., & Isaac, N. J. B. (2015) Beyond maps: A review of the
-applications of biological records: Applications of Biological Records.
-_Biological Journal of the Linnean Society_, _115_(3), 532–542.
-https://doi.org/10.1111/bij.12517
+Robinson O J, Ruiz‐Gutierrez Viviana, Reynolds M D, Golet G H, Strimas‐Mackey M & Fink D. (2020) Integrating citizen science data with expert surveys increases accuracy and spatial extent of species distribution models. Diversity and Distributions, 26(8): 976–986. https://doi.org/10.1111/ddi.13068
 
-Robinson, O. J., Ruiz‐Gutierrez, Viviana., Reynolds, M. D., Golet, G.
-H., Strimas‐Mackey, M., & Fink, D. (2020) Integrating citizen science
-data with expert surveys increases accuracy and spatial extent of
-species distribution models. _Diversity and Distributions_, _26_(8),
-976–986. https://doi.org/10.1111/ddi.13068
+Saarenmaa H (2005) Sharing and Accessing Biodiversity Data Globally through GBIF.
 
-Saarenmaa, H. (2005) _Sharing and Accessing Biodiversity Data Globally
-through GBIF_.
-
-SANBI. (2010) _Biodiversity Information Policy Framework_ (Policiy
+SANBI (2010) _Biodiversity Information Policy Framework_ (Policiy
 Series. Digital Acess to Sensitive Taxon Data)
 
-SANBI. (2016) _Report of the National Sensitive Species List Workshop_.
+SANBI (2016) _Report of the National Sensitive Species List Workshop_.
 South African National Biodiversity Institute’s (SANBI’s)
 
-SANBI. (2018) _National Sensitive Species List (NSSL) of 2018: Summary
-of changes. Version 1.0_. South African National Biodiversity Institute,
-SANBI. http://nssl.sanbi.org.za/
+SANBI (2018) National Sensitive Species List (NSSL) of 2018: Summary of changes. Version 1.0. South African National Biodiversity Institute, SANBI. http://nssl.sanbi.org.za/
 
-Schlaepfer, M. A., Hoover, C., & Dodd, C. K. (2005) Challenges in
-Evaluating the Impact of the Trade in Amphibians and Reptiles on Wild
-Populations. _BioScience_, _55_(3), 256.
-https://doi.org/10.1641/0006-3568(2005)055[0256:CIETIO]2.0.CO;2
+Schlaepfer M A, Hoover C & Dodd C K (2005) Challenges in Evaluating the Impact of the Trade in Amphibians and Reptiles on Wild Populations. BioScience, 55(3):256. https://doi.org/10.1641/0006-3568(2005)055[0256:CIETIO]2.0.CO;2
 
-Siler, C. D., Linkem, C. W., Cobb, K., Watters, J. L., Cummings, S. T.,
-Diesmos, A. C., & Brown, R. M. (2014) Taxonomic revision of the
-semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:
-Scincidae), with description of three new species. _Zootaxa_, _3847_(3),
-388. https://doi.org/10.11646/zootaxa.3847.3.4
+Siler C D, Linkem C W, Cobb K, Watters J L, Cummings S T, Diesmos A C & Brown R M (2014) Taxonomic revision of the semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:Scincidae), with description of three new species. Zootaxa, 3847(3):388. https://doi.org/10.11646/zootaxa.3847.3.4
 
-SINP. (2014) _Définition et gestion des données sensibles sur la nature
-dans le cadre du SINP. Guide technique._ (Touroult J., Birard J., Bouix
-T., Chataigner J., De Wever P., Gourvil J., Guichard B., Landry Ph.,
-Olivereau F., Pichard O., Poncet L., Touzé A. & Lebeau Y.)
+SINP (2014) Définition et gestion des données sensibles sur la nature dans le cadre du SINP. Guide technique. Touroult J, Birard J, Bouix T, Chataigner J, De Wever P, Gourvil J, Guichard B, Landry Ph, Olivereau F, Pichard O, Poncet L, Touzé A & Lebeau Y.
 
-SINP. (2017) _Protocole dy Systeme d´Information Sur la Nature et les
-Paysages_. système d’informa􏰀on sur la nature et les paysages (SINP)
+SINP (2017) Protocole dy Systeme d´Information Sur la Nature et les Paysages. système d’informa􏰀on sur la nature et les paysages (SINP)
 
-SINP. (2022) _GUIDE TECHNIQUE SENSIBILITÉ DES DONNÉES À LA DIFFUSION
-VERSION 2.0_ (Ichter, J., Robert, S., Touroult, J.)
-https://inpn.mnhn.fr/docs-web/docs/download/404525
+SINP (2022) GUIDE TECHNIQUE SENSIBILITÉ DES DONNÉES À LA DIFFUSION VERSION 2.0 (Ichter J, Robert S, Touroult J) https://inpn.mnhn.fr/docs-web/docs/download/404525
 
-SLU Artdatabanken. (2020) _List of sensitive species nationally
-protected In Sweden_ [Data set]. SLU Artdatabanken.
-https://doi.org/10.15468/JWBTSB
+SLU Artdatabanken (2020) List of sensitive species nationally protected In Sweden [Data set] SLU Artdatabanken https://doi.org/10.15468/JWBTSB
 
-Soberón, J., & Peterson, T. (2004) Biodiversity informatics: Managing
-and applying primary biodiversity data. _Philosophical Transactions of
-the Royal Society of London. Series B: Biological Sciences_,
-_359_(1444), 689–698. https://doi.org/10.1098/rstb.2003.1439
+Soberón J & Peterson T (2004) Biodiversity informatics: Managing and applying primary biodiversity data. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences, 359(1444): 689–698. https://doi.org/10.1098/rstb.2003.1439
 
-Tang, B., Clark, J. S., & Gelfand, A. E. (2021) Modeling spatially
-biased citizen science effort through the eBird database. _Environmental
-and Ecological Statistics_, _28_(3), 609–630.
-https://doi.org/10.1007/s10651-021-00508-1
+Tang B, Clark J S & Gelfand A E (2021) Modeling spatially biased citizen science effort through the eBird database. Environmental and Ecological Statistics, 28(3): 609–630. https://doi.org/10.1007/s10651-021-00508-1
 
-Theng, M., Milleret, C., Bracis, C., Cassey, P., & Delean, S. (2022)
-Confronting spatial capture–recapture models with realistic animal
-movement simulations. _Ecology_, _103_(10)
-https://doi.org/10.1002/ecy.3676
+Theng M, Milleret C, Bracis C, Cassey P & Delean S (2022) Confronting spatial capture–recapture models with realistic animal movement simulations. Ecology, 103(10). https://doi.org/10.1002/ecy.3676
 
-Thompson, C. W., Phelps, K. L., Allard, M. W., Cook, J. A., Dunnum, J.
-L., Ferguson, A. W., Gelang, M., Khan, F. A. A., Paul, D. L., Reeder, D.
-M., Simmons, N. B., Vanhove, M. P. M., Webala, P. W., Weksler, M., &
-Kilpatrick, C. W. (2021) Preserve a Voucher Specimen! The Critical Need
-for Integrating Natural History Collections in Infectious Disease
-Studies. _MBio_, _12_(1), e02698-20.
-https://doi.org/10.1128/mBio.02698-20
+Thompson C W, Phelps K L, Allard M W, Cook J A, Dunnum J L, Ferguson A W, Gelang M, Khan F A A, Paul D L, Reeder D M, Simmons N B, Vanhove M P M, Webala P W, Weksler M & Kilpatrick C W (2021) Preserve a Voucher Specimen! The Critical Need
+for Integrating Natural History Collections in Infectious Disease Studies. MBio, 12(1): e02698-20. https://doi.org/10.1128/mBio.02698-20
 
-Tourani, M. (2022) A review of spatial capture–recapture: Ecological
-insights, limitations, and prospects. _Ecology and Evolution_, _12_(1)
-https://doi.org/10.1002/ece3.8468
+Tourani M (2022) A review of spatial capture–recapture: Ecological insights, limitations, and prospects. Ecology and Evolution, 12(1). https://doi.org/10.1002/ece3.8468
 
-Wieczorek, J., Guo, Q., & Hijmans, R. (2004) The point-radius method for
-georeferencing locality descriptions and calculating associated
-uncertainty. _International Journal of Geographical Information
-Science_, _18_(8), 745–767. https://doi.org/10.1080/13658810412331280211
+Wieczorek J, Guo Q & Hijmans R (2004) The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographical Information Science, 18(8): 745–767. https://doi.org/10.1080/13658810412331280211
 
-Wood, C., Sullivan, B., Iliff, M., Fink, D, & Kelling S (2011) eBird:
-Engaging Birders in Science and Conservation. PLoS Biology, 9(12):
-e1001220. https://doi.org/10.1371/journal.pbio.1001220
+Wood C, Sullivan B, Iliff M, Fink D & Kelling S (2011) eBird: Engaging Birders in Science and Conservation. PLoS Biology, 9(12): e1001220. https://doi.org/10.1371/journal.pbio.1001220
 
-Xing S, Au TF, Dufour PC, Cheng W, Landry Yuan F, Jia F, V, LV, Wang M,
-& Bonebrake TC (2019) Conservation of data deficient species under
-multiple threats: Lessons from an iconic tropical butterfly
-(_Teinopalpus aureus_) Biological Conservation 234__:__ 154–164.
-https://doi.org/10.1016/j.biocon.2019.03.029
+Xing S, Au TF, Dufour PC, Cheng W, Landry Yuan F, Jia F, V, LV, Wang M & Bonebrake TC (2019) Conservation of data deficient species under multiple threats: Lessons from an iconic tropical butterfly (Teinopalpus aureus) Biological Conservation 234:154–164. https://doi.org/10.1016/j.biocon.2019.03.029
 
 === 
 
