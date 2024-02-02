@@ -30,7 +30,7 @@ Chapman, A D (2020) Current Best Practices for Generalizing Sensitive Species Oc
 
 Chapman, A D & Wieczorek J R (2020) Georeferencing Best Practices. Global Biodiversity Information Facility.
 
-Contreras-Díaz R G, Nori J, Chiappa-Carrara X, Peterson T A, Soberón J, Osorio-Olvera J (2023) Well-intentioned initiatives hinder understanding biodiversity conservation: Cloaked iNaturalist information for threatened species. Biological Conservation, 282, eBird. (2020) Sensitive Species in eBird(Science Conservation Section)https://support.ebird.org/en/support/solutions/articles/48000803210-sensitive-species-in-ebird#How-should-eBirders-report-sensitive-species?-
+Contreras-Díaz R G, Nori J, Chiappa-Carrara X, Peterson T A, Soberón J, Osorio-Olvera J (2023) Well-intentioned initiatives hinder understanding biodiversity conservation: Cloaked iNaturalist information for threatened species. Biological Conservation, 282, eBird. (2023) Sensitive Species in eBird(Science Conservation Section)https://support.ebird.org/en/support/solutions/articles/48000803210-sensitive-species-in-ebird#How-should-eBirders-report-sensitive-species?-
 
 Efford M G, Schofield M R (2022) A review of movement models in open population capture–recapture. Methods in Ecology and Evolution, 13(10), 2106–2118. https://doi.org/10.1111/2041-210X.13947
 
