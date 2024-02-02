@@ -7,9 +7,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Astorga F, Rodrigues A & Waller J (2024) Exploring the risk and benefits of publishing sensitive species data. GBIF Secretariat: Copenhagen. 
-// Uncomment once a DOI is assigned
-//https://doi.org/10.EXAMPLE/EXAMPLE
+Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: Exploring risks, benefits and best practices. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-yr9g-nx02
 
 === Authors
 
@@ -25,9 +23,7 @@ The document _Exploring the risk and benefits of publishing sensitive species da
 
 === Persistent URI
 
-#TODO: Assign a DOI before publication#
-// Uncomment once a DOI is assigned
-//https://doi.org/10.EXAMPLE/EXAMPLE
+https://doi.org/10.35035/doc-yr9g-nx02
 
 === Document control
 
