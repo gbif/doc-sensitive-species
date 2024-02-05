@@ -24,11 +24,11 @@ Bosman A, Steyns H, Muller B & Steenkamp C (2021) NSCF Georeferencing protocol v
 
 Boyd C, Brooks TM, Butchart SHM, Edgar GJ, Da Fonseca GAB, Hawkins F, Hoffmann M, Sechrest W, Stuart SN & Van Dijk PP (2008) Spatial scale and the conservation of threatened species: Spatial scale and the conservation of threatened species. Conservation Letters 1(1): 37–43. https://doi.org/10.1111/j.1755-263X.2008.00002.x
 
-Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data Summary of Reponses (p. 61) Global Biodiversity Information Facility. https://doi.org/10.35035/vs84-0p13
+Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data Summary of Reponses. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/vs84-0p13
 
-Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. GBIF Secretariat.https://doi.org/10.15468/doc-5jp4-5g10
+Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10
 
-Chapman AD & Wieczorek J R (2020) Georeferencing Best Practices. Global Biodiversity Information Facility. https://doi.org/10.15468/doc-gg7h-s853
+Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
 
 Contreras-Díaz RG, Nori J, Chiappa-Carrara X, Peterson TA, Soberón J & Osorio-Olvera J (2023) Well-intentioned initiatives hinder understanding biodiversity conservation: Cloaked iNaturalist information for threatened species. Biological Conservation 282: 110042. https://doi.org/10.1016/j.biocon.2023.110042
 
