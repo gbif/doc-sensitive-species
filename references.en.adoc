@@ -74,17 +74,19 @@ iNaturalist (2023) Frequently Asked Questions: What is geoprivacy? What does it 
 
 IUCN (2022) Threats Classification Scheme (Version 3.2) https://www.iucnredlist.org/resources/threat-classification-scheme
 
-Kelling S, Hochachka WM, Fink D, Riedewald M, Caruana R, Ballard G & Hooker G (2009) Data-intensive Science: A New Paradigm for Biodiversity Studies. BioScience, 59(7), 613–620. https://doi.org/10.1525/bio.2009.59.7.12
+Kelling S, Hochachka WM, Fink D, Riedewald M, Caruana R, Ballard G & Hooker G (2009) Data-intensive Science: A New Paradigm for Biodiversity Studies. BioScience 59(7): 613–620. https://doi.org/10.1525/bio.2009.59.7.12
 
-Kéry M & Schmid H (2004) Monitoring programs need to take into account imperfect species detectability. Basic and Applied Ecology, 5(1), 65–73. https://doi.org/10.1078/1439-1791-00194
+Kéry M & Schmid H (2004) Monitoring programs need to take into account imperfect species detectability. Basic and Applied Ecology 5(1): 65–73. https://doi.org/10.1078/1439-1791-00194
 
-[[lindenmayer]]Lindenmayer D & Scheele B (2017) Do not publish: Limit open access information on rare and endangered speci. Science, 356(6340) NBN. (2019) NBN Sensitive Species Policy. The National Biodiversity Network.
+Lindenmayer D & Scheele B (2017) Do not publish: Limit open access information on rare and endangered species. Science 356(6340): 800-801. https://doi.org/10.1126/science.aan1362
+
+NBN (2019) NBN Sensitive Species Policy. The National Biodiversity Network.
 
 NSW (2006) Sensitive Species Data Policy. Department of Environment, Climate Change and Water (DECCW), New South Wales.
 
-Powney GD & Isaac NJB (2015) Beyond maps: A review of the applications of biological records: Applications of Biological Records. Biological Journal of the Linnean Society, 115(3), 532–542.https://doi.org/10.1111/bij.12517
+Powney GD & Isaac NJB (2015) Beyond maps: A review of the applications of biological records: Applications of Biological Records. Biological Journal of the Linnean Society, 115(3): 532–542. https://doi.org/10.1111/bij.12517
 
-Robinson OJ, Ruiz‐Gutierrez Viviana, Reynolds MD, Golet GH, Strimas‐Mackey M & Fink D. (2020) Integrating citizen science data with expert surveys increases accuracy and spatial extent of species distribution models. Diversity and Distributions, 26(8): 976–986. https://doi.org/10.1111/ddi.13068
+Robinson OJ, Ruiz‐Gutierrez Viviana, Reynolds MD, Golet GH, Strimas‐Mackey M & Fink D. (2020) Integrating citizen science data with expert surveys increases accuracy and spatial extent of species distribution models. Diversity and Distributions 26(8): 976–986. https://doi.org/10.1111/ddi.13068
 
 Saarenmaa H (2005) Sharing and Accessing Biodiversity Data Globally through GBIF.
 
@@ -92,15 +94,15 @@ SANBI (2010) _Biodiversity Information Policy Framework_ (Policy Series. Digital
 
 SANBI (2016) Report of the National Sensitive Species List Workshop. South African National Biodiversity Institute’s (SANBI’s)
 
-SANBI (2018) National Sensitive Species List (NSSL) of 2018: Summary of changes. Version 1.0. South African National Biodiversity Institute, SANBI. http://nssl.sanbi.org.za/
+SANBI (2018) National Sensitive Species List (NSSL) of 2018: Summary of changes. Version 1.0. South African National Biodiversity Institute (SANBI). http://nssl.sanbi.org.za/
 
-Schlaepfer MA, Hoover C & Dodd CK (2005) Challenges in Evaluating the Impact of the Trade in Amphibians and Reptiles on Wild Populations. BioScience, 55(3):256. https://doi.org/10.1641/0006-3568(2005)055[0256:CIETIO]2.0.CO;2
+Schlaepfer MA, Hoover C & Dodd CK (2005) Challenges in Evaluating the Impact of the Trade in Amphibians and Reptiles on Wild Populations. BioScience 55(3):256. https://doi.org/10.1641/0006-3568(2005)055[0256:CIETIO]2.0.CO;2
 
-Siler CD, Linkem CW, Cobb K, Watters JL, Cummings ST, Diesmos AC & Brown RM (2014) Taxonomic revision of the semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:Scincidae), with description of three new species. Zootaxa, 3847(3):388. https://doi.org/10.11646/zootaxa.3847.3.4
+Siler CD, Linkem CW, Cobb K, Watters JL, Cummings ST, Diesmos AC & Brown RM (2014) Taxonomic revision of the semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:Scincidae), with description of three new species. Zootaxa 3847(3):388. https://doi.org/10.11646/zootaxa.3847.3.4
 
 SINP (2014) Définition et gestion des données sensibles sur la nature dans le cadre du SINP. Guide technique. Touroult J, Birard J, Bouix T, Chataigner J, De Wever P, Gourvil J, Guichard B, Landry Ph, Olivereau F, Pichard O, Poncet L, Touzé A & Lebeau Y.
 
-SINP (2017) Protocole dy Systeme d´Information Sur la Nature et les Paysages. système d’informa􏰀on sur la nature et les paysages (SINP)
+SINP (2017) Protocole du Système d´Information sur la Nature et les Paysages. Paris: Système d´Information sur la Nature et les Paysages. https://abc.naturefrance.fr/documents/protocole-du-systeme-dinformation-sur-la-nature-et-les-paysages
 
 SLU Artdatabanken (2020) List of sensitive species nationally protected in Sweden. SLU Artdatabanken https://doi.org/10.15468/JWBTSB
 
