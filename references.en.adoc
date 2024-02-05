@@ -10,19 +10,19 @@ Ariño AH (2014) Filling Biodiversity Knowledge Gaps: GBIF supporting research f
 
 Astorga F, Groom Q, Shimabukuro PHF, Manguin S, Noesgaard D, Orrell T, Sinka M, Hirsch T & Schigel D (2023) Biodiversity data supports research on human infectious diseases: Global trends, challenges, and opportunities. One Health 16: 100484. https://doi.org/10.1016/j.onehlt.2023.100484
 
-Auliya M, Altherr S, Ariano-Sanchez D, Baard EH, Brown C, Brown RM, Cantu J-C, Gentile G, Gildenhuys P, Henningheim E, Hintzmann J, Kanari K, Krvavac M, Lettink M, Lippert J, Luiselli L, Nilson G, Nguyen TQ, Nijman V, … Ziegler T.(2016) Trade in live reptiles, its impact on wild populations, and the role of the European market. Biological Conservation 204: 103–119. https://doi.org/10.1016/j.biocon.2016.05.017
+Auliya M, Altherr S, Ariano-Sanchez D, Baard EH, Brown C, Brown RM et al. (2016) Trade in live reptiles, its impact on wild populations, and the role of the European market. Biological Conservation 204: 103–119. https://doi.org/10.1016/j.biocon.2016.05.017
 
-Bailey LL, Simons TR, & Pollock KH (2004) Estimating detection probability parameters for Plethodon salamanders using the robust capture–recapture design. Journal of Wildlife Management, 68(1), 1–13. https://doi.org/10.2193/0022-541X(2004)068[0001:EDPPFP]2.0.CO;2
+Bailey LL, Simons TR, & Pollock KH (2004) Estimating detection probability parameters for Plethodon salamanders using the robust capture–recapture design. Journal of Wildlife Management 68(1): 1–13. https://doi.org/10.2193/0022-541X(2004)068[0001:EDPPFP]2.0.CO;2
 
-Ball-Damerow JE, Brenskelle L, Barve N, Soltis P S, Sierwald P, Bieler R, LaFrance R, Ariño A H, Guralnick R P (2019) Research applications of primary biodiversity databases in the digital age. PLOS ONE, 14(9): e0215794. https://doi.org/10.1371/journal.pone.0215794
+Ball-Damerow JE, Brenskelle L, Barve N, Soltis P S, Sierwald P, Bieler R, LaFrance R, Ariño A H, Guralnick R P (2019) Research applications of primary biodiversity databases in the digital age. PLOS ONE 14(9): e0215794. https://doi.org/10.1371/journal.pone.0215794
 
-Bloom D, Wieczorek J & Zermoglio P (2020) Georeferencing Calculator Manual. GBIF Secretariat. https://docs.gbif.org/georeferencing-calculator-manual/1.0/en/
+Bloom DA, Wieczorek JR & Zermoglio PF (2020) Georeferencing Calculator Manual. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/gdwq-3v93
 
-Borgelt J, Dorber M, Høiberg M A & Verones F (2022) More than half of data deficient species predicted to be threatened by extinction. Communications Biology,5(1)679. https://doi.org/10.1038/s42003-022-03638-9
+Borgelt J, Dorber M, Høiberg M A & Verones F (2022) More than half of data deficient species predicted to be threatened by extinction. Communications Biology 5(1): 679. https://doi.org/10.1038/s42003-022-03638-9
 
-Bosman A, Steyns H, Muller B & Steenkamp C. (2021) NSCF Georeferencing protocol V2.0. Natural Sciene Collections Facility
+Bosman A, Steyns H, Muller B & Steenkamp C (2021) NSCF Georeferencing protocol v2.0. Natural Sciene Collections Facility. https://tdwg.github.io/esp/georeferencing/workflows/NSCF-Georeferencing-protocol.pdf
 
-Boyd C, Brooks TM, Butchart SHM, Edgar GJ, Da Fonseca GAB, Hawkins F, Hoffmann M, Sechrest W, Stuart SN & Van Dijk PP (2008) Spatial scale and the conservation of threatened species: Spatial scale and the conservation of threatened species. Conservation Letters, 1(1), 37–43. https://doi.org/10.1111/j.1755-263X.2008.00002.x
+Boyd C, Brooks TM, Butchart SHM, Edgar GJ, Da Fonseca GAB, Hawkins F, Hoffmann M, Sechrest W, Stuart SN & Van Dijk PP (2008) Spatial scale and the conservation of threatened species: Spatial scale and the conservation of threatened species. Conservation Letters 1(1): 37–43. https://doi.org/10.1111/j.1755-263X.2008.00002.x
 
 Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data Summary of Reponses (p. 61) Global Biodiversity Information Facility. https://doi.org/10.35035/vs84-0p13
 
@@ -30,36 +30,39 @@ Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occu
 
 Chapman AD & Wieczorek J R (2020) Georeferencing Best Practices. Global Biodiversity Information Facility. https://doi.org/10.15468/doc-gg7h-s853
 
-Contreras-Díaz RG, Nori J, Chiappa-Carrara X, Peterson TA, Soberón J, Osorio-Olvera J (2023) Well-intentioned initiatives hinder understanding biodiversity conservation: Cloaked iNaturalist information for threatened species. Biological Conservation, 282, eBird. (2023) Sensitive Species in eBird(Science Conservation Section)https://support.ebird.org/en/support/solutions/articles/48000803210-sensitive-species-in-ebird#How-should-eBirders-report-sensitive-species?-
+Contreras-Díaz RG, Nori J, Chiappa-Carrara X, Peterson TA, Soberón J & Osorio-Olvera J (2023) Well-intentioned initiatives hinder understanding biodiversity conservation: Cloaked iNaturalist information for threatened species. Biological Conservation 282: 110042. https://doi.org/10.1016/j.biocon.2023.110042
 
-Efford MG, Schofield MR (2022) A review of movement models in open population capture–recapture. Methods in Ecology and Evolution, 13(10), 2106–2118. https://doi.org/10.1111/2041-210X.13947
+eBird (2023) Sensitive Species in eBird. eBird Help Center. https://support.ebird.org/en/support/solutions/articles/48000803210-sensitive-species-in-ebird#How-should-eBirders-report-sensitive-species?-
 
-ENETWILD consortium, Jaroszynska F, Body G, Pamerlon S & Archambeau A. (2022) Applying the Darwin Core data standard to wildlife disease – advancements toward a new data model. EFSA Supporting Publications, 19(11) https://doi.org/10.2903/sp.efsa.2022.EN-7667
+Efford MG & Schofield MR (2022) A review of movement models in open population capture–recapture. Methods in Ecology and Evolution 13(10): 2106–2118. https://doi.org/10.1111/2041-210X.13947
 
-Estrada-Peña A & de la Fuente J. (2014) The ecology of ticks and epidemiology of tick-borne viral diseases. Antiviral Research, 108, 104–128. https://doi.org/10.1016/j.antiviral.2014.05.016
+ENETWILD consortium, Jaroszynska F, Body G, Pamerlon S & Archambeau A. (2022) Applying the Darwin Core data standard to wildlife disease – advancements toward a new data model. EFSA Supporting Publications 19(11): EN-7667E. https://doi.org/10.2903/sp.efsa.2022.EN-7667
 
-Fay MF (2018) Orchid conservation: How can we meet the challenges in the twenty-first century? Botanical Studies, 59(1), 16. https://doi.org/10.1186/s40529-018-0232-z
+Estrada-Peña A & de la Fuente J. (2014) The ecology of ticks and epidemiology of tick-borne viral diseases. Antiviral Research 108: 104–128. https://doi.org/10.1016/j.antiviral.2014.05.016
 
-GBIF (2022) GBIF Occurrence Download. https://doi.org/10.15468/dl.kbwbf3
+Fay MF (2018) Orchid conservation: How can we meet the challenges in the twenty-first century? Botanical Studies: 59(1): 16. https://doi.org/10.1186/s40529-018-0232-z
 
-GBIF.Org User (2022) Occurrence Download (p. 0) Darwin Core Archive. The Global Biodiversity Information Facility. https://doi.org/10.15468/DL.YYW5PJ
+GBIF.org (10 December 2022) GBIF Occurrence Download. https://doi.org/10.15468/dl.kbwbf3
+
+GBIF.org (01 December 2022) GBIF Occurrence Download. https://doi.org/10.15468/dl.yyw5pj
 
 GEF Montaña (2018) Monitoreo de fauna nativa del GEF montaña registra presencia inédita de gato andino en el Cajón del Maipo. Noticias
+
 SIMBIO. https://gefmontana.mma.gob.cl/monitoreo-de-fauna-nativa-del-gef-montana-registra-presencia-inedita-de-gato-andino-en-el-cajon-del-maipo/
 
-Glaser A (2019) Plants and Birds Need Privacy Online, Too. Slate.https://slate.com/technology/2019/04/superbloom-california-nature-internet-collide-birds-poaching-science.html
+Glaser A (2019) Plants and Birds Need Privacy Online, Too. Slate. https://slate.com/technology/2019/04/superbloom-california-nature-internet-collide-birds-poaching-science.html
 
-Heberling JM, Miller JT, Noesgaard D, Weingart SB, Schigel D (2021) Data integration enables global biodiversity synthesis. Proceedings of the National Academy of Sciences, 118(6): e2018093118. https://doi.org/10.1073/pnas.2018093118
+Heberling JM, Miller JT, Noesgaard D, Weingart SB & Schigel D (2021) Data integration enables global biodiversity synthesis. Proceedings of the National Academy of Sciences 118(6): e2018093118. https://doi.org/10.1073/pnas.2018093118
 
-Heinicke S, Ordaz‐Németh I, Junker J, Bachmann ME, Marrocoli S, Wessling EG, Byler D, Cheyne SM, Desmond J, Dowd D, Fitzgerald M, Fourrier M, Goedmakers A, Hernandez‐Aguilar RA, Hillers A, Hockings K J, Jones S, Kaiser M, Koops K., … Kühl HS (2021) Open‐access platform to synthesize knowledge of ape conservation across sites. American Journal of Primatology, 83(1). https://doi.org/10.1002/ajp.23213
+Heinicke S, Ordaz‐Németh I, Junker J, Bachmann ME, Marrocoli S, Wessling EG et al. (2021) Open‐access platform to synthesize knowledge of ape conservation across sites. American Journal of Primatology 83(1): e23213. https://doi.org/10.1002/ajp.23213
 
-Hinsley A, de Boer H , Fay MF, Gale SW, Gardiner LM, Gunasekara RS, Kumar P, Masters S, Metusala D, Roberts DL, Veldman S, Wong S, Phelps J. (2018) A review of the trade in orchids and its implications for conservation. Botanical Journal of the Linnean Society, 186(4), 435–455. https://doi.org/10.1093/botlinnean/box083
+Hinsley A, de Boer H , Fay MF, Gale SW, Gardiner LM, Gunasekara RS, Kumar P, Masters S, Metusala D, Roberts DL, Veldman S, Wong S, Phelps J. (2018) A review of the trade in orchids and its implications for conservation. Botanical Journal of the Linnean Society 186(4): 435–455. https://doi.org/10.1093/botlinnean/box083
 
-Hinsley A, Lee TE, Harrison JR & Roberts DL (2016) Estimating the extent and structure of trade in horticultural orchids via social media: Social-Media Orchid-Trade Networks. Conservation Biology, 30(5), 1038–1047. https://doi.org/10.1111/cobi.12721
+Hinsley A, Lee TE, Harrison JR & Roberts DL (2016) Estimating the extent and structure of trade in horticultural orchids via social media: Social-Media Orchid-Trade Networks. Conservation Biology 30(5): 1038–1047. https://doi.org/10.1111/cobi.12721
 
 Hochachka WM, Fink D, Hutchinson RA, Sheldon D, Wong W-K & Kelling S. (2012) Data-intensive science applied to broad-scale citizen science. Trends in Ecology & Evolution, 27(2), 130–137. https://doi.org/10.1016/j.tree.2011.11.006
 
-Howe EJ, Potter D, Beauclerc KB, Jackson KE & Northrup, JM (2022) Estimating animal abundance at multiple scales by spatially explicit capture–recapture. Ecological Applications, 32(7). https://doi.org/10.1002/eap.2638
+Howe EJ, Potter D, Beauclerc KB, Jackson KE & Northrup, JM (2022) Estimating animal abundance at multiple scales by spatially explicit capture–recapture. Ecological Applications 32(7): ee2638. https://doi.org/10.1002/eap.2638
 
 iNaturalist (2022) Obscuring Sensitive Species Data. https://www.inaturalist.org/projects/hdms-point-observation-database/journal/9042-obscuring-sensitive-species-data
 
