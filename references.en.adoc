@@ -6,7 +6,7 @@ ALA (2018) What is Sensitive Data? Atlas of Living Australia. https://lists.ala.
 
 Angarita-Sierra T, Montaño-Londoño LF & Bravo-Vega CA (2022) ID please: Evaluating the utility of Facebook as a source of data for snake research and conservation. Anais Da Academia Brasileira de Ciências 94(suppl.3): e20211043. https://doi.org/10.1590/0001-3765202220211043
 
-Ariño AH (2014) Filling Biodiversity Knowledge Gaps: GBIF supporting research for conservation management. The 21st meeting of the Governing Board (GB21), Delhi. 
+[[arino]]Ariño AH (2014) Filling Biodiversity Knowledge Gaps: GBIF supporting research for conservation management. The 21st meeting of the Governing Board (GB21), Delhi. 
 
 Astorga F, Groom Q, Shimabukuro PHF, Manguin S, Noesgaard D, Orrell T, Sinka M, Hirsch T & Schigel D (2023) Biodiversity data supports research on human infectious diseases: Global trends, challenges, and opportunities. One Health 16: 100484. https://doi.org/10.1016/j.onehlt.2023.100484
 
@@ -74,7 +74,7 @@ Kelling S, Hochachka WM, Fink D, Riedewald M, Caruana R, Ballard G & Hooker G (2
 
 Kéry M & Schmid H (2004) Monitoring programs need to take into account imperfect species detectability. Basic and Applied Ecology, 5(1), 65–73. https://doi.org/10.1078/1439-1791-00194
 
-Lindenmayer D & Scheele B (2017) Do not publish: Limit open access information on rare and endangered speci. Science, 356(6340) NBN. (2019) NBN Sensitive Species Policy. The National Biodiversity Network.
+[[lindenmayer]]Lindenmayer D & Scheele B (2017) Do not publish: Limit open access information on rare and endangered speci. Science, 356(6340) NBN. (2019) NBN Sensitive Species Policy. The National Biodiversity Network.
 
 NSW (2006) Sensitive Species Data Policy. Department of Environment, Climate Change and Water (DECCW), New South Wales.
 
