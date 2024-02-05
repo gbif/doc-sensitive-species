@@ -12,13 +12,13 @@ Astorga F, Groom Q, Shimabukuro PHF, Manguin S, Noesgaard D, Orrell T, Sinka M, 
 
 Auliya M, Altherr S, Ariano-Sanchez D, Baard EH, Brown C, Brown RM, Cantu J-C, Gentile G, Gildenhuys P, Henningheim E, Hintzmann J, Kanari K, Krvavac M, Lettink M, Lippert J, Luiselli L, Nilson G, Nguyen TQ, Nijman V, … Ziegler T.(2016) Trade in live reptiles, its impact on wild populations, and the role of the European market. Biological Conservation 204: 103–119. https://doi.org/10.1016/j.biocon.2016.05.017
 
-Bailey LL, Simons TR, & Pollock KH (2004) Estimating detection probability parameters for Plethodon salamanders using the robust capture–recapture design. Journal of Wildlife Management, 68(1), 1–13.https://doi.org/10.2193/0022-541X(2004)068[0001:EDPPFP]2.0.CO;2
+Bailey LL, Simons TR, & Pollock KH (2004) Estimating detection probability parameters for Plethodon salamanders using the robust capture–recapture design. Journal of Wildlife Management, 68(1), 1–13. https://doi.org/10.2193/0022-541X(2004)068[0001:EDPPFP]2.0.CO;2
 
 Ball-Damerow JE, Brenskelle L, Barve N, Soltis P S, Sierwald P, Bieler R, LaFrance R, Ariño A H, Guralnick R P (2019) Research applications of primary biodiversity databases in the digital age. PLOS ONE, 14(9): e0215794. https://doi.org/10.1371/journal.pone.0215794
 
 Bloom D, Wieczorek J & Zermoglio P (2020) Georeferencing Calculator Manual. GBIF Secretariat. https://docs.gbif.org/georeferencing-calculator-manual/1.0/en/
 
-Borgelt J, Dorber M, Høiberg M A & Verones F (2022) More than half of data deficient species predicted to be threatened by extinction. Communications Biology,5(1)679.https://doi.org/10.1038/s42003-022-03638-9
+Borgelt J, Dorber M, Høiberg M A & Verones F (2022) More than half of data deficient species predicted to be threatened by extinction. Communications Biology,5(1)679. https://doi.org/10.1038/s42003-022-03638-9
 
 Bosman A, Steyns H, Muller B & Steenkamp C. (2021) NSCF Georeferencing protocol V2.0. Natural Sciene Collections Facility
 
