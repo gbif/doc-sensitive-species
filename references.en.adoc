@@ -42,11 +42,11 @@ Estrada-Peña A & de la Fuente J. (2014) The ecology of ticks and epidemiology o
 
 Fay MF (2018) Orchid conservation: How can we meet the challenges in the twenty-first century? Botanical Studies: 59(1): 16. https://doi.org/10.1186/s40529-018-0232-z
 
-GBIF.org (27 November 2023) GBIF Occurrence Download https://doi.org/10.15468/dl.gvxuzs 
+GBIF.org (2023) GBIF Occurrence Download https://doi.org/10.15468/dl.gvxuzs 
 
-GBIF.org (01 December 2022) GBIF Occurrence Download. https://doi.org/10.15468/dl.yyw5pj
+GBIF.org (2022a) GBIF Occurrence Download. https://doi.org/10.15468/dl.yyw5pj
 
-GBIF.org (10 December 2022) GBIF Occurrence Download. https://doi.org/10.15468/dl.kbwbf3
+GBIF.org (2022b) GBIF Occurrence Download. https://doi.org/10.15468/dl.kbwbf3
 
 GEF Montaña (2018) Monitoreo de fauna nativa del GEF montaña registra presencia inédita de gato andino en el Cajón del Maipo. Noticias
 
