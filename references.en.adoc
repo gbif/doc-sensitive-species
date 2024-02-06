@@ -12,7 +12,7 @@ Astorga F, Groom Q, Shimabukuro PHF, Manguin S, Noesgaard D, Orrell T, Sinka M, 
 
 Auliya M, Altherr S, Ariano-Sanchez D, Baard EH, Brown C, Brown RM et al. (2016) Trade in live reptiles, its impact on wild populations, and the role of the European market. Biological Conservation 204: 103–119. https://doi.org/10.1016/j.biocon.2016.05.017
 
-Bailey LL, Simons TR, & Pollock KH (2004) Estimating detection probability parameters for Plethodon salamanders using the robust capture–recapture design. Journal of Wildlife Management 68(1): 1–13. https://doi.org/10.2193/0022-541X(2004)068[0001:EDPPFP]2.0.CO;2
+Bailey LL, Simons TR, & Pollock KH (2004) Estimating detection probability parameters for Plethodon salamanders using the robust capture–recapture design. Journal of Wildlife Management 68(1): 1–13. link:++https://doi.org/10.2193/0022-541X(2004)068[0001:EDPPFP]2.0.CO;2++[]
 
 Ball-Damerow JE, Brenskelle L, Barve N, Soltis P S, Sierwald P, Bieler R, LaFrance R, Ariño A H, Guralnick R P (2019) Research applications of primary biodiversity databases in the digital age. PLOS ONE 14(9): e0215794. https://doi.org/10.1371/journal.pone.0215794
 
@@ -94,7 +94,7 @@ SANBI (2016) Report of the National Sensitive Species List Workshop: 18 and 19 A
 
 SANBI (2018) National Sensitive Species List (NSSL) of 2018: Summary of changes. Version 1.0. South African National Biodiversity Institute (SANBI). http://nssl.sanbi.org.za/
 
-Schlaepfer MA, Hoover C & Dodd CK (2005) Challenges in Evaluating the Impact of the Trade in Amphibians and Reptiles on Wild Populations. BioScience 55(3):256. https://doi.org/10.1641/0006-3568(2005)055[0256:CIETIO]2.0.CO;2
+Schlaepfer MA, Hoover C & Dodd CK (2005) Challenges in Evaluating the Impact of the Trade in Amphibians and Reptiles on Wild Populations. BioScience 55(3):256. link:++https://doi.org/10.1641/0006-3568(2005)055[0256:CIETIO]2.0.CO;2++[]
 
 Siler CD, Linkem CW, Cobb K, Watters JL, Cummings ST, Diesmos AC & Brown RM (2014) Taxonomic revision of the semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:Scincidae), with description of three new species. Zootaxa 3847(3):388. https://doi.org/10.11646/zootaxa.3847.3.4
 
