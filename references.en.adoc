@@ -48,11 +48,9 @@ GBIF.org (2022a) GBIF Occurrence Download. https://doi.org/10.15468/dl.yyw5pj
 
 GBIF.org (2022b) GBIF Occurrence Download. https://doi.org/10.15468/dl.kbwbf3
 
-GEF Montaña (2018) Monitoreo de fauna nativa del GEF montaña registra presencia inédita de gato andino en el Cajón del Maipo. Noticias
+GEF Montaña (2018) Monitoreo de fauna nativa del GEF montaña registra presencia inédita de gato andino en el Cajón del Maipo. Noticias SIMBIO. https://gefmontana.mma.gob.cl/monitoreo-de-fauna-nativa-del-gef-montana-registra-presencia-inedita-de-gato-andino-en-el-cajon-del-maipo/
 
-SIMBIO. https://gefmontana.mma.gob.cl/monitoreo-de-fauna-nativa-del-gef-montana-registra-presencia-inedita-de-gato-andino-en-el-cajon-del-maipo/
-
-Glaser A (2019) Plants and Birds Need Privacy Online, Too. Slate. https://slate.com/technology/2019/04/superbloom-california-nature-internet-collide-birds-poaching-science.html
+Glaser A (2019) Plants and Birds Need Privacy Online, Too. Slate, 4 April 2019. https://slate.com/technology/2019/04/superbloom-california-nature-internet-collide-birds-poaching-science.html
 
 Heberling JM, Miller JT, Noesgaard D, Weingart SB & Schigel D (2021) Data integration enables global biodiversity synthesis. Proceedings of the National Academy of Sciences 118(6): e2018093118. https://doi.org/10.1073/pnas.2018093118
 
@@ -80,9 +78,9 @@ Kéry M & Schmid H (2004) Monitoring programs need to take into account imperfec
 
 Lindenmayer D & Scheele B (2017) Do not publish: Limit open access information on rare and endangered species. Science 356(6340): 800-801. https://doi.org/10.1126/science.aan1362
 
-NBN (2019) NBN Sensitive Species Policy. The National Biodiversity Network.
+NBN (2019) Sensitive Data. National Biodiversity Network. https://nbn.org.uk/sensitive-data/
 
-NSW (2006) Sensitive Species Data Policy. Department of Environment, Climate Change and Water (DECCW), New South Wales.
+NSW (2006) Sensitive Species Data Policy. Department of Environment, Climate Change and Water (DECCW), New South Wales. `CHECK TO SEE IF THIS IS THE SAME AS` DECCW (2009) Sensitive Species Data Policy. New South Wales Department of Environment, Climate Change and Water. https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf
 
 Powney GD & Isaac NJB (2015) Beyond maps: A review of the applications of biological records: Applications of Biological Records. Biological Journal of the Linnean Society, 115(3): 532–542. https://doi.org/10.1111/bij.12517
 
@@ -90,9 +88,9 @@ Robinson OJ, Ruiz‐Gutierrez Viviana, Reynolds MD, Golet GH, Strimas‐Mackey M
 
 Saarenmaa H (2005) Sharing and Accessing Biodiversity Data Globally through GBIF.
 
-SANBI (2010) _Biodiversity Information Policy Framework_ (Policy Series. Digital Acess to Sensitive Taxon Data)
+SANBI (2010) Biodiversity Information Policy Framework: Principles and Guidelines, Policy Series. Pretoria, South Africa: South African National Biodiversity Institute. http://hdl.handle.net/20.500.12143/7450
 
-SANBI (2016) Report of the National Sensitive Species List Workshop. South African National Biodiversity Institute’s (SANBI’s)
+SANBI (2016) Report of the National Sensitive Species List Workshop: 18 and 19 August 2016. Pretoria, South Africa: South African National Biodiversity Institute. http://hdl.handle.net/20.500.12143/7451
 
 SANBI (2018) National Sensitive Species List (NSSL) of 2018: Summary of changes. Version 1.0. South African National Biodiversity Institute (SANBI). http://nssl.sanbi.org.za/
 
