@@ -45,6 +45,3 @@ include::appa2-title.en.adoc[]
 include::appa3-title.en.adoc[]
 
 include::appa4-title.en.adoc[]
-
-include::institutional-acronyms.en.adoc[]
-
