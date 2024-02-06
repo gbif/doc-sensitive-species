@@ -98,8 +98,6 @@ Schlaepfer MA, Hoover C & Dodd CK (2005) Challenges in Evaluating the Impact of 
 
 Siler CD, Linkem CW, Cobb K, Watters JL, Cummings ST, Diesmos AC & Brown RM (2014) Taxonomic revision of the semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:Scincidae), with description of three new species. Zootaxa 3847(3):388. https://doi.org/10.11646/zootaxa.3847.3.4
 
-SINP (2014) Définition et gestion des données sensibles sur la nature dans le cadre du SINP. Guide technique. Touroult J, Birard J, Bouix T, Chataigner J, De Wever P, Gourvil J, Guichard B, Landry Ph, Olivereau F, Pichard O, Poncet L, Touzé A & Lebeau Y.
-
 SINP (2017) Protocole du Système d´Information sur la Nature et les Paysages. Paris: Système d´Information sur la Nature et les Paysages. https://abc.naturefrance.fr/documents/protocole-du-systeme-dinformation-sur-la-nature-et-les-paysages
 
 SLU Artdatabanken (2020) List of sensitive species nationally protected in Sweden. SLU Artdatabanken https://doi.org/10.15468/JWBTSB
@@ -113,6 +111,8 @@ Theng M, Milleret C, Bracis C, Cassey P & Delean S (2022) Confronting spatial ca
 Thompson CW, Phelps KL, Allard MW, Cook JA, Dunnum J L, Ferguson AW et al. (2021) Preserve a Voucher Specimen! The Critical Need for Integrating Natural History Collections in Infectious Disease Studies. MBio 12(1): e02698-20. https://doi.org/10.1128/mBio.02698-20
 
 Tourani M (2022) A review of spatial capture–recapture: Ecological insights, limitations, and prospects. Ecology and Evolution 12(1): e8468. https://doi.org/10.1002/ece3.8468
+
+Touroult J, Birard J, Bouix T, Chataigner J, De Wever P, Gourvil J et al. (2014) Définition et gestion des données sensibles sur la nature dans le cadre du SINP. Guide technique. Rapport pour le SINP, rapport MNHN‐SPN 2014‐27 https://inpn.mnhn.fr/docs/SINP/sinp_guide_technique_donnees_sensible_v1_avril_2014.pdf
 
 Wieczorek J, Guo Q & Hijmans R (2004) The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographical Information Science 18(8): 745–767. https://doi.org/10.1080/13658810412331280211
 
