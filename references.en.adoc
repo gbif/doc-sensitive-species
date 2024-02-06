@@ -82,7 +82,7 @@ NBN (2019) Sensitive Data. National Biodiversity Network. https://nbn.org.uk/sen
 
 NSW (2006) Sensitive Species Data Policy. Department of Environment, Climate Change and Water (DECCW), New South Wales. `CHECK TO SEE IF THIS IS THE SAME AS` DECCW (2009) Sensitive Species Data Policy. New South Wales Department of Environment, Climate Change and Water. https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf
 
-Powney GD & Isaac NJB (2015) Beyond maps: A review of the applications of biological records: Applications of Biological Records. Biological Journal of the Linnean Society, 115(3): 532–542. https://doi.org/10.1111/bij.12517
+Powney GD & Isaac NJB (2015) Beyond maps: A review of the applications of biological records: Applications of Biological Records. Biological Journal of the Linnean Society 115(3): 532–542. https://doi.org/10.1111/bij.12517
 
 Robinson OJ, Ruiz‐Gutierrez Viviana, Reynolds MD, Golet GH, Strimas‐Mackey M & Fink D. (2020) Integrating citizen science data with expert surveys increases accuracy and spatial extent of species distribution models. Diversity and Distributions 26(8): 976–986. https://doi.org/10.1111/ddi.13068
 
