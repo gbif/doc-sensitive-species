@@ -1,9 +1,9 @@
-[appendix]
 = Supplementary materials
 
-== Appendix A
+[appendix]
+== Table S1
 
-Table S1.Conceptual framework of the main elements that have been used to define sensitive species, based on Chapman´s data generalization guidelines, complemented with additional elements found in the literature. The table includes examples of the approach developed by some organizations and initiatives. The specific elements proposed by Chapman to define sensitivity are in *_bold italics_* and include both biological and non-biological aspects. This compilation represents a contribution to facilitate the development of protocols to manage sensitive species data, particularly for data generators, aggregators and repositories.
+.Conceptual framework of the main elements that have been used to define sensitive species, based on Chapman´s data generalization guidelines, complemented with additional elements found in the literature. The table includes examples of the approach developed by some organizations and initiatives. The specific elements proposed by Chapman to define sensitivity are in *_bold italics_* and include both biological and non-biological aspects. This compilation represents a contribution to facilitate the development of protocols to manage sensitive species data, particularly for data generators, aggregators and repositories.
 [width="100%",cols="25%,75%",options="header",]
 |===
 |Elements |Description of the elements used to identify sensitive data
@@ -69,12 +69,14 @@ _Examples in use_: DRYAD, ERIN, https://doi.org/10.35035/vs84-0p13[Chapman 2006^
 
 |===
 
-== Appendix B
+[appendix]
+== Nationally sensitive species map
 
 .Number of species identified as sensitive obtained from the organizational lists. Countries with dash patterns and those with lists reviewed by the present report. The names of the countries are included only for those with sensitive species.
 image::media/image8.png[image,width=624,height=276]
 
-== Appendix C
+[appendix]
+== Table S2
 
 .Examples of the texts used in the records reviewed in which data generalization (DG) or data withheld (WH) were used to describe data management due to the potential sensitivity of the species.
 [width="100%",cols="9%,23%,29%,12%,12%,8%,7%",options="header",]
@@ -98,7 +100,8 @@ image::media/image8.png[image,width=624,height=276]
 
 *As observed, iNaturalist used both WH and DG to describe sensitivity.
 
-== Appendix D
+[appendix]
+== Table S3
 
 .Table S3. Rhinoceros data. Total occurrence data found in GBIF for extant species of the family Rhinocertidae according to the conservation status and to what extent information was provided on data generalizations (DG and WH) for those species. Text information provided with the terms is provided in parentheses. Note that Diceros bicornis presents two conservation categories, explained by the two recognized subspecies with different categories.
 [width="100%",cols="24%,15%,12%,16%,19%,14%",options="header",]
