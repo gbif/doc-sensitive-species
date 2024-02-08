@@ -78,7 +78,7 @@ image::media/image8.png[image,width=624,height=276]
 [appendix]
 == Table S2
 
-.Examples of the texts used in the records reviewed in which data generalization (DG) or data withheld (WH) were used to describe data management due to the potential sensitivity of the species.
+.Examples of the texts used in the records reviewed in which the Darwin Core terms term:dwc[dataGeneralization] (DG) or term:dwc[dataWithheld] (WH) were used to describe data management due to the potential sensitivity of the species.
 [width="100%",cols="9%,23%,29%,12%,12%,8%,7%",options="header",]
 |===
 |DWCA Term |Text |Comment |Publisher/institution |Species |IUCN Conservation Category |Country of the occurrence |DG |Geographic information generalized during aggregation due to the sensitivity of the data to diffusion, according to SINP communication rules |Many records are published following the same text-forma. Text given in French and English |UMS PatriNat (OFB-CNRS- MNHN) |Tetrax tetrax |NT |France
