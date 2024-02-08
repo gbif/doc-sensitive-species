@@ -1,8 +1,7 @@
 [appendix]
-:appendix-caption!:
 = Supplementary materials
 
-== Table S1
+== Appendix A
 
 Table S1.Conceptual framework of the main elements that have been used to define sensitive species, based on Chapman´s data generalization guidelines, complemented with additional elements found in the literature. The table includes examples of the approach developed by some organizations and initiatives. The specific elements proposed by Chapman to define sensitivity are in *_bold italics_* and include both biological and non-biological aspects. This compilation represents a contribution to facilitate the development of protocols to manage sensitive species data, particularly for data generators, aggregators and repositories.
 [width="100%",cols="14%,86%",options="header",]
@@ -148,9 +147,6 @@ ____
 |===
 
 
-== Table S2
-
-[appendix]
 == Appendix B
 
 .Number of species identified as sensitive obtained from the organizational lists. Countries with dash patterns and those with lists reviewed by the present report. The names of the countries are included only for those with sensitive species.
