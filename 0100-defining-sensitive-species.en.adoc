@@ -6,10 +6,11 @@ Without a good understanding of the potential threats to a species, one of the f
 
 The identification of potentially sensitive species and sensitive data may take diverse approaches and frameworks, ranging from simple binary decision to more complex multi step processes (e.g. http://nssl.sanbi.org.za/[SANBI 2018^]; https://abc.naturefrance.fr/documents/protocole-du-systeme-dinformation-sur-la-nature-et-les-paysages[SINP 2017^]). The elaboration of sensitive species lists are, in general, collaborative in nature, and their level of complexity varies between countries and organizations. For example, organizations such as Système d’information sur la nature et les paysages (SINP) and the South African National Biodiversity Institute (SANBI) have established national working groups that develop sensitive species lists and their associated generalization protocols in France and South Africa, respectively (<<table-01,Table 1>>). Some of these working groups allow for these processes to be consultative and across a broad range of stakeholders. SANBI and iNaturalist also provide user feedback mechanisms with which the user community can inform those organizations regarding concerns about the classification of species as sensitive. These lists are often dynamic and reflect current changes to pressures at national or regional levels. For example, SANBI´s working group periodically reviews the list as new information becomes available, resulting in a dynamic list where the number of species can change (504 in 2010, reduced to 129 in 2018) and a watchlist of genera which could become sensitive in the future (http://hdl.handle.net/20.500.12143/7450[SANBI 2010^]; http://nssl.sanbi.org.za/[SANBI 2018^]). Only a few institutions, however, provide full documentation of these processes. For example, SANBI was identified as having a particularly well-developed set of documentation (http://hdl.handle.net/20.500.12143/7450[SANBI 2010^]; http://hdl.handle.net/20.500.12143/7451[SANBI 2016^]; http://nssl.sanbi.org.za/[SANBI 2018^]).
 
-.Institutions that have generated sensitive species lists and general description of the process.
+[[table-01]]
+.Institutions that have generated sensitive species lists and general description of the process. Taxa counts updated November 2022.
 [width="100%",cols="31%,39%,16%,>14%",options="header",]
 |===
-|*Institution* |*General description* |*Geographical scope* |*Number of taxa +(_Dec 2022_)**
+|*Institution* |*General description* |*Geographical scope* |*Number of taxa**
 
 |
 Atlas of Living Australia^1^ +
@@ -18,23 +19,21 @@ Atlas of Living Australia^1^ +
 |Compilation of sensitive species lists generated within Australia´s states and territories |Australia & New Zealand |5,609
 
 a|
-Système d’information sur la nature et les paysages ^2^+
+Système d’information sur la nature et les paysages ^2^ +
 (SINP)
 
 |SINP works with both national and local governmental and non-governmental institutions. SINP has a well-developed data management protocol that incorporates administrative boundaries and seasonal variation. |France, Reunion, French Guiana |2,868
 
 a|
-SLU Swedish Species Information Centre, SBDI Swedish Biodiversity Data Infrastructure (SLU Artdatabanken, 2020)^3^
+SLU Swedish Species Information Centre +
+Swedish Biodiversity Data Infrastructure (SBDI) +
+(SLU Artdatabanken, 2020)^3^
 
-*Sweden*
-
-|SLU publishes its sensitive species list in GBIF with the corresponding generalization protocols - doi.org/10.15468/jwbtsb |Sweden |130
+|SLU publishes its https://doi.org/10.15468/jwbtsb[sensitive species list^] via GBIF with the corresponding generalization protocols |Sweden |130
 
 a|
 National Biodiversity Network^4^ +
 (NBN)
-
-*United Kingdom*
 
 |Data providers give access to the data through NBN website |United Kingdom |142
 
