@@ -86,7 +86,7 @@ The assessment of the *_impact of harm_* is not simple and the establishment of 
 [width="100%",cols="20%,25%,~",options="header",]
 |===
 |*Element* |*Response scales (categories)* |*Response description*
-.+4|*Targeted exploitation* |Small or insignificant |Wild individuals of the species are known to be utilized*, but utilization is localized and/or affects only a small proportion of the wild population
+.4+|*Targeted exploitation* |Small or insignificant |Wild individuals of the species are known to be utilized*, but utilization is localized and/or affects only a small proportion of the wild population
 
 |Significant 
 |Wild individuals of the species are known to be utilized*, and utilization is widespread, affects most wild populations and/or is causing rapid decline of the wild population
@@ -97,12 +97,12 @@ The assessment of the *_impact of harm_* is not simple and the establishment of 
 |Uncertain 
 |No data exists yet showing that the species is exploited in the wild, however it has one or more relatives or look-alike species that are known to be utilized, making it highly likely that it would be exploited for the same purposes.
 
-.+2|*Regeneration potential* |Fast population growth rate |Good chance for the wild populations to recover from exploitation.
+.2+|*Regeneration potential* |Fast population growth rate |Good chance for the wild populations to recover from exploitation.
 
 |Slow population growth rate, or the growth rate varies depending on habitat
 |Poor chance for the wild populations to recover from exploitation OR a collector might feasibly harvest the entire extant population removing the chance of subsequent recruitment. For example, a gregarious species with a reproduction system that gathers all nests together facilitates the extraction of the entire existent population in a short period of time, removing the chance of subsequent recruitment
 
-.+2|*Population vulnerability* |Population is vulnerable |Size is <=2,500 mature individuals OR the number of known subpopulations is <=5 OR range is <= 100 km^2^ OR species at risk of localized extinctions
+.2+|*Population vulnerability* |Population is vulnerable |Size is <=2,500 mature individuals OR the number of known subpopulations is <=5 OR range is <= 100 km^2^ OR species at risk of localized extinctions
 
 |Population is not vulnerable
 |Size is > 2500 mature individuals, AND the number of known subpopulations is > 5 AND range > 100 km^2^
