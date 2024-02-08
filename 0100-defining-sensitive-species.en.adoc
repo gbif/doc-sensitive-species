@@ -13,68 +13,57 @@ The identification of potentially sensitive species and sensitive data may take 
 |*Institution* |*General description* |*Geographical scope* |*Number of taxa**
 
 |
-Atlas of Living Australia^1^ +
+Atlas of Living Australia +
 (ALA)
 
-|Compilation of sensitive species lists generated within Australia´s states and territories |Australia & New Zealand |5,609
+|Compilation of https://lists.ala.org.au/public/speciesLists?&max=25&sort=listName&order=asc&listType=eq:SENSITIVE_LIST[sensitive species lists^] generated within Australia´s states and territories |Australia & New Zealand |5,609
 
 a|
-Système d’information sur la nature et les paysages ^2^ +
+Système d’information sur la nature et les paysages +
+`Système d'information de l'inventaire du patrimoine naturel`
 (SINP)
 
-|SINP works with both national and local governmental and non-governmental institutions. SINP has a well-developed data management protocol that incorporates administrative boundaries and seasonal variation. |France, Reunion, French Guiana |2,868
+|SINP works with both national and local governmental and non-governmental institutions to prepare its https://inpn.mnhn.fr/programme/donnees-observations-especes/references/sensibilite?lg=en[sensitive species lists^]. SINP has a well-developed data management protocol that incorporates administrative boundaries and seasonal variation. |France, Reunion, French Guiana |2,868
 
 a|
 SLU Swedish Species Information Centre +
-Swedish Biodiversity Data Infrastructure (SBDI) +
-(SLU Artdatabanken, 2020)^3^
+Swedish Biodiversity Data Infrastructure (SBDI)
 
-|SLU publishes its https://doi.org/10.15468/jwbtsb[sensitive species list^] via GBIF with the corresponding generalization protocols |Sweden |130
+|SLU publishes its https://doi.org/10.15468/jwbtsb[sensitive species list^] via GBIF as well as the https://docs.biodiversitydata.se/sbdi-data/sensitive-species[corresponding generalization protocols^] |Sweden |130
 
 a|
-National Biodiversity Network^4^ +
+National Biodiversity Network +
 (NBN)
 
-|Data providers give access to the data through NBN website |United Kingdom |142
+|Data providers give access to the data through NBN website |https://docs.nbnatlas.org/sensitive-species-list/[United Kingdom] (England, Scotland, Wales, Northern Ireland and Isle of Man) |142
 
 a|South African National Biodiversity Institute^5^ +
 (SANBI)
 
-|The National Sensitive Species List (NSSL) has a permanent working group collaborating with SANBI. Robust documentation related to guidelines and protocols |South Africa |129
+|The http://nssl.sanbi.org.za[National Sensitive Species List^] (NSSL) is developed by a permanent working group in collaboration with SANBI. Robust documentation related to guidelines and protocols |South Africa |129
 
 a|
-eBird ^6^
+eBird
 
-|International citizen science project operated by the Cornell Lab of Ornithology |85 countries |385
-
-a|
-iNaturalist ^7^
-
-|Although iNaturalist has recommendations for sensitive species, we found a list only for Canada |Canada |113
+|The international citizen science project operated by the Cornell Lab of Ornithology works with local partners to develop its https://support.ebird.org/en/support/solutions/articles/48000803210-sensitive-species-in-ebird#Sensitive-Species-List[sensitive species list^] |85 countries |385
 
 a|
-Finnish Biodiversity Information Facility ^8^
+iNaturalist
+
+|Although iNaturalist offers global recommendations on sensitive species, we found a https://static.inaturalist.org/wiki_page_attachments/2541-original.pdf[list only for Canada^] |Canada |113
+
+a|
+Finnish Biodiversity Information Facility
 (FinBIF)
 
-|FinBIF (GBIF node) develops sensitive species list through a collaborative process with other national institutions. |Finland |152
+|FinBIF develops a https://cms.laji.fi/wp-content/uploads/2021/10/Suomen_Lajitietokeskus_sensitiivinen-lajitieto_lajilista_2021.xlsx[sensitive species list^] through https://laji.fi/about/709[its protocol^] in collaboration with other national institutions  |Finland |152
 
 a|
 InfoSpecies^9^
 
 |Integrates different lists developed by institutions such as Ornitho and Info Flora. |Switzerland |63
+
 |===
-
-NOTE: remove footnotes; move links to text and/or tool tips
-
-^1^https://lists.ala.org.au/[+++https://lists.ala.org.au/+++]; https://lists.ala.org.au/public/speciesLists?&max=25&sort=listName&order=asc&listType=eq:SENSITIVE_LIST[+++https://lists.ala.org.au/public/speciesLists?&max=25&sort=listName&order=asc&listType=eq:SENSITIVE_LIST+++] 
-^2^https://inpn.mnhn.fr/programme/donnees-observations-especes/references/sensibilite[+++https://inpn.mnhn.fr/programme/donnees-observations-especes/references/sensibilite+++]
-^3^https://docs.biodiversitydata.se/sbdi-data/sensitive-species/, https://doi.org/10.15468/jwbtsb; https://www.artdatabanken.se/det-har-gor-vi/fynddata/skyddsklassade-arter/[+++https://www.artdatabanken.se/det-har-gor-vi/fynddata/skyddsklassade-arter/+++]
-^4^+++https://docs.nbnatlas.org/sensitive-species-list/.+++ The NBN list compiled includes the list available by NBN, complemented with the lists from Scotland and Ireland
-^5^ http://nssl.sanbi.org.za/, compiling the 26 non-plant species of the 2018 assessment, and the additional 106 found in the platform in december 2022
-^6^ebird
-^7^https://static.inaturalist.org/wiki_page_attachments/2541-original.pdf
-^8^https://laji.fi/about/709[+++https://laji.fi/about/709+++]; https://cms.laji.fi/wp-content/uploads/2021/10/Suomen_Lajitietokeskus_sensitiivinen-lajitieto_lajilista_2021.xlsx[+++https://cms.laji.fi/wp-content/uploads/2021/10/Suomen_Lajitietokeskus_sensitiivinen-lajitieto_lajilista_2021.xlsx+++]
-^9^InfoSpecies
 
 Some citizen science projects have also developed their own protocols and lists. eBird and iNaturalist categorize sensitivity within the data for specific countries and taxa based on community consultation. Both initiatives are already implementing sensitive data policies, eBird in 2017 and iNaturalist in 2011 (https://slate.com/technology/2019/04/superbloom-california-nature-internet-collide-birds-poaching-science.html[Glaser 2019^]; https://www.inaturalist.org/projects/hdms-point-observation-database/journal/9042-obscuring-sensitive-species-data[iNaturalist 2022^]). iNaturalist automatically obscures species on its own sensitive species list, such as observation of certain orchids https://www.inaturalist.org/projects/hdms-point-observation-database/journal/9042-obscuring-sensitive-species-data[iNaturalist 2023^]). iNaturalist community helps inform which taxa should have a taxon geoprivacy set by flagging taxa. In addition, iNaturalist encourages publishers to set geoprivacy settings to "obscured" for any records that they feel are sensitive. For obscured observations, the latitude and longitude are moved to private latitude and private longitude fields which are not publicly visible and the publicly available accuracy is increased to the diagonal of a 0.2 x 0.2 degree cell (~500 km^2^ at the equator). Latitude and longitude are replaced with a random point within this cell. In some regions, iNaturalist also works at the national level, to harmonize their global approach with national approaches. For example, in Canada, iNaturalist has a working group, which works with NatureServe Canada's Conservation Data Centers who establish and maintain the conservation statuses for each province and territory (except Quebec).
 
