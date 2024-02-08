@@ -6,15 +6,15 @@ ALA (2018) What is Sensitive Data? Atlas of Living Australia. https://lists.ala.
 
 Angarita-Sierra T, Montaño-Londoño LF & Bravo-Vega CA (2022) ID please: Evaluating the utility of Facebook as a source of data for snake research and conservation. Anais Da Academia Brasileira de Ciências 94(suppl.3): e20211043. https://doi.org/10.1590/0001-3765202220211043
 
-[[arino]]Ariño AH (2014) Filling Biodiversity Knowledge Gaps: GBIF supporting research for conservation management. GB21: the 21st meeting of the GBIF Governing Board. Copenhagen: GBIF Secretariat. https://www.gbif.org/sites/default/files/gbif_resource/resource-80932/AArino-Filling-Biodiversity-Knowledge-Gaps.pptx.pdf
+Ariño AH (2014) Filling Biodiversity Knowledge Gaps: GBIF supporting research for conservation management. GB21: the 21st meeting of the GBIF Governing Board. Copenhagen: GBIF Secretariat. https://www.gbif.org/sites/default/files/gbif_resource/resource-80932/AArino-Filling-Biodiversity-Knowledge-Gaps.pptx.pdf
 
-Astorga F, Groom Q, Shimabukuro PHF, Manguin S, Noesgaard D, Orrell T, Sinka M, Hirsch T & Schigel D (2023) Biodiversity data supports research on human infectious diseases: Global trends, challenges, and opportunities. One Health 16: 100484. https://doi.org/10.1016/j.onehlt.2023.100484
+Astorga F, Groom Q, Shimabukuro PHF et al. (2023) Biodiversity data supports research on human infectious diseases: Global trends, challenges, and opportunities. One Health 16: 100484. https://doi.org/10.1016/j.onehlt.2023.100484
 
-Auliya M, Altherr S, Ariano-Sanchez D, Baard EH, Brown C, Brown RM et al. (2016) Trade in live reptiles, its impact on wild populations, and the role of the European market. Biological Conservation 204: 103–119. https://doi.org/10.1016/j.biocon.2016.05.017
+Auliya M, Altherr S, Ariano-Sanchez D et al. (2016) Trade in live reptiles, its impact on wild populations, and the role of the European market. Biological Conservation 204: 103–119. https://doi.org/10.1016/j.biocon.2016.05.017
 
 Bailey LL, Simons TR, & Pollock KH (2004) Estimating detection probability parameters for Plethodon salamanders using the robust capture–recapture design. Journal of Wildlife Management 68(1): 1–13. link:++https://doi.org/10.2193/0022-541X(2004)068[0001:EDPPFP]2.0.CO;2++[]
 
-Ball-Damerow JE, Brenskelle L, Barve N, Soltis P S, Sierwald P, Bieler R, LaFrance R, Ariño A H, Guralnick R P (2019) Research applications of primary biodiversity databases in the digital age. PLOS ONE 14(9): e0215794. https://doi.org/10.1371/journal.pone.0215794
+Ball-Damerow JE, Brenskelle L, Barve N et al. (2019) Research applications of primary biodiversity databases in the digital age. PLOS ONE 14(9): e0215794. https://doi.org/10.1371/journal.pone.0215794
 
 Bloom DA, Wieczorek JR & Zermoglio PF (2020) Georeferencing Calculator Manual. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/gdwq-3v93
 
@@ -22,7 +22,7 @@ Borgelt J, Dorber M, Høiberg M A & Verones F (2022) More than half of data defi
 
 Bosman A, Steyns H, Muller B & Steenkamp C (2021) NSCF Georeferencing protocol v2.0. Natural Sciene Collections Facility. https://tdwg.github.io/esp/georeferencing/workflows/NSCF-Georeferencing-protocol.pdf
 
-Boyd C, Brooks TM, Butchart SHM, Edgar GJ, Da Fonseca GAB, Hawkins F, Hoffmann M, Sechrest W, Stuart SN & Van Dijk PP (2008) Spatial scale and the conservation of threatened species: Spatial scale and the conservation of threatened species. Conservation Letters 1(1): 37–43. https://doi.org/10.1111/j.1755-263X.2008.00002.x
+Boyd C, Brooks TM, Butchart SHM et al. (2008) Spatial scale and the conservation of threatened species: Spatial scale and the conservation of threatened species. Conservation Letters 1(1): 37–43. https://doi.org/10.1111/j.1755-263X.2008.00002.x
 
 Chapman AD (2006) Questionnaire on Dealing with Sensitive Primary Species Occurrence Data Summary of Reponses. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/vs84-0p13
 
@@ -54,9 +54,9 @@ Glaser A (2019) Plants and Birds Need Privacy Online, Too. Slate, 4 April 2019. 
 
 Heberling JM, Miller JT, Noesgaard D, Weingart SB & Schigel D (2021) Data integration enables global biodiversity synthesis. Proceedings of the National Academy of Sciences 118(6): e2018093118. https://doi.org/10.1073/pnas.2018093118
 
-Heinicke S, Ordaz‐Németh I, Junker J, Bachmann ME, Marrocoli S, Wessling EG et al. (2021) Open‐access platform to synthesize knowledge of ape conservation across sites. American Journal of Primatology 83(1): e23213. https://doi.org/10.1002/ajp.23213
+Heinicke S, Ordaz‐Németh I, Junker J et al. (2021) Open‐access platform to synthesize knowledge of ape conservation across sites. American Journal of Primatology 83(1): e23213. https://doi.org/10.1002/ajp.23213
 
-Hinsley A, de Boer H , Fay MF, Gale SW, Gardiner LM, Gunasekara RS, Kumar P, Masters S, Metusala D, Roberts DL, Veldman S, Wong S, Phelps J. (2018) A review of the trade in orchids and its implications for conservation. Botanical Journal of the Linnean Society 186(4): 435–455. https://doi.org/10.1093/botlinnean/box083
+Hinsley A, de Boer H , Fay MF et al. (2018) A review of the trade in orchids and its implications for conservation. Botanical Journal of the Linnean Society 186(4): 435–455. https://doi.org/10.1093/botlinnean/box083
 
 Hinsley A, Lee TE, Harrison JR & Roberts DL (2016) Estimating the extent and structure of trade in horticultural orchids via social media: Social-Media Orchid-Trade Networks. Conservation Biology 30(5): 1038–1047. https://doi.org/10.1111/cobi.12721
 
@@ -72,7 +72,7 @@ iNaturalist (2023) Frequently Asked Questions: What is geoprivacy? What does it 
 
 IUCN (2022) Threats Classification Scheme (Version 3.2) https://www.iucnredlist.org/resources/threat-classification-scheme
 
-Kelling S, Hochachka WM, Fink D, Riedewald M, Caruana R, Ballard G & Hooker G (2009) Data-intensive Science: A New Paradigm for Biodiversity Studies. BioScience 59(7): 613–620. https://doi.org/10.1525/bio.2009.59.7.12
+Kelling S, Hochachka WM, Fink D et al. (2009) Data-intensive Science: A New Paradigm for Biodiversity Studies. BioScience 59(7): 613–620. https://doi.org/10.1525/bio.2009.59.7.12
 
 Kéry M & Schmid H (2004) Monitoring programs need to take into account imperfect species detectability. Basic and Applied Ecology 5(1): 65–73. https://doi.org/10.1078/1439-1791-00194
 
@@ -84,7 +84,7 @@ NSW (2006) Sensitive Species Data Policy. Department of Environment, Climate Cha
 
 Powney GD & Isaac NJB (2015) Beyond maps: A review of the applications of biological records: Applications of Biological Records. Biological Journal of the Linnean Society 115(3): 532–542. https://doi.org/10.1111/bij.12517
 
-Robinson OJ, Ruiz‐Gutierrez Viviana, Reynolds MD, Golet GH, Strimas‐Mackey M & Fink D. (2020) Integrating citizen science data with expert surveys increases accuracy and spatial extent of species distribution models. Diversity and Distributions 26(8): 976–986. https://doi.org/10.1111/ddi.13068
+Robinson OJ, Ruiz‐Gutierrez V, Reynolds MD, Golet GH, Strimas‐Mackey M & Fink D (2020) Integrating citizen science data with expert surveys increases accuracy and spatial extent of species distribution models. Diversity and Distributions 26(8): 976–986. https://doi.org/10.1111/ddi.13068
 
 Saarenmaa H (2005) Sharing and Accessing Biodiversity Data Globally through GBIF.
 
@@ -96,7 +96,7 @@ SANBI (2018) National Sensitive Species List (NSSL) of 2018: Summary of changes.
 
 Schlaepfer MA, Hoover C & Dodd CK (2005) Challenges in Evaluating the Impact of the Trade in Amphibians and Reptiles on Wild Populations. BioScience 55(3):256. link:++https://doi.org/10.1641/0006-3568(2005)055[0256:CIETIO]2.0.CO;2++[]
 
-Siler CD, Linkem CW, Cobb K, Watters JL, Cummings ST, Diesmos AC & Brown RM (2014) Taxonomic revision of the semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:Scincidae), with description of three new species. Zootaxa 3847(3):388. https://doi.org/10.11646/zootaxa.3847.3.4
+Siler CD, Linkem CW, Cobb K et al. (2014) Taxonomic revision of the semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:Scincidae), with description of three new species. Zootaxa 3847(3):388. https://doi.org/10.11646/zootaxa.3847.3.4
 
 SINP (2017) Protocole du Système d´Information sur la Nature et les Paysages. Paris: Système d´Information sur la Nature et les Paysages. https://abc.naturefrance.fr/documents/protocole-du-systeme-dinformation-sur-la-nature-et-les-paysages
 
@@ -108,14 +108,14 @@ Tang B, Clark JS & Gelfand AE (2021) Modeling spatially biased citizen science e
 
 Theng M, Milleret C, Bracis C, Cassey P & Delean S (2022) Confronting spatial capture–recapture models with realistic animal movement simulations. Ecology 103(10): e3676. https://doi.org/10.1002/ecy.3676
 
-Thompson CW, Phelps KL, Allard MW, Cook JA, Dunnum J L, Ferguson AW et al. (2021) Preserve a Voucher Specimen! The Critical Need for Integrating Natural History Collections in Infectious Disease Studies. MBio 12(1): e02698-20. https://doi.org/10.1128/mBio.02698-20
+Thompson CW, Phelps KL, Allard MW et al. (2021) Preserve a Voucher Specimen! The Critical Need for Integrating Natural History Collections in Infectious Disease Studies. MBio 12(1): e02698-20. https://doi.org/10.1128/mBio.02698-20
 
 Tourani M (2022) A review of spatial capture–recapture: Ecological insights, limitations, and prospects. Ecology and Evolution 12(1): e8468. https://doi.org/10.1002/ece3.8468
 
-Touroult J, Birard J, Bouix T, Chataigner J, De Wever P, Gourvil J et al. (2014) Définition et gestion des données sensibles sur la nature dans le cadre du SINP. Guide technique. Rapport pour le SINP, rapport MNHN‐SPN 2014‐27 https://inpn.mnhn.fr/docs/SINP/sinp_guide_technique_donnees_sensible_v1_avril_2014.pdf
+Touroult J, Birard J, Bouix T et al. (2014) Définition et gestion des données sensibles sur la nature dans le cadre du SINP. Guide technique. Rapport pour le SINP, rapport MNHN‐SPN 2014‐27 https://inpn.mnhn.fr/docs/SINP/sinp_guide_technique_donnees_sensible_v1_avril_2014.pdf
 
 Wieczorek J, Guo Q & Hijmans R (2004) The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographical Information Science 18(8): 745–767. https://doi.org/10.1080/13658810412331280211
 
 Wood C, Sullivan B, Iliff M, Fink D & Kelling S (2011) eBird: Engaging Birders in Science and Conservation. PLoS Biology 9(12): e1001220. https://doi.org/10.1371/journal.pbio.1001220
 
-Xing S, Au TF, Dufour PC, Cheng W, Landry Yuan F, Jia F, V, LV, Wang M & Bonebrake TC (2019) Conservation of data deficient species under multiple threats: Lessons from an iconic tropical butterfly (_Teinopalpus aureus_) Biological Conservation 234:154–164. https://doi.org/10.1016/j.biocon.2019.03.029
+Xing S, Au TF, Dufour PC et al. (2019) Conservation of data deficient species under multiple threats: Lessons from an iconic tropical butterfly (_Teinopalpus aureus_) Biological Conservation 234:154–164. https://doi.org/10.1016/j.biocon.2019.03.029
