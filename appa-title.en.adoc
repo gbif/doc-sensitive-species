@@ -1,7 +1,5 @@
 [appendix]
 = Supplementary materials
-:sectnums:
-:toc:
 
 == Appendix A
 
