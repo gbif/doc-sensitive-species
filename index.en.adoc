@@ -1,5 +1,5 @@
-= Exploring the risk and benefits of publishing sensitive species data: Sensitive species data management and trade-offs to promote valuable and safe biodiversity data sharing
-:authorcount: 2
+= Sensitive species data generalization: Exploring risks, benefits and best practices
+:authorcount: 3
 :author_1: Francisca Astorga
 :author_2: Andrew Rodrigues
 :author_3: John Waller
