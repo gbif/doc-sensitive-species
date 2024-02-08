@@ -36,4 +36,4 @@ include::0200-sensitive-species-data-management-in-gbif.en.adoc[]
 
 include::references.en.adoc[]
 
-include::appa-title.en.adoc[]
+include::appa.en.adoc[]
