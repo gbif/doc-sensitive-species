@@ -8,7 +8,7 @@ Table S1.Conceptual framework of the main elements that have been used to define
 |===
 |Elements |Description of the elements used to identify sensitive data
 
-2+|*Sensitive species: identification of sensitive species*
+2+|A. *Sensitive species*: identification of sensitive species
 
 |Risk of harm 
 |- Risk of harm is a result of the *_use_* of the targeted species, e.g. if the species is *_hunted, killed, disturbed, exploited, collected (individuals, seed, eggs), harvested, poached, traded_*. Also related to the *_interest_* that the species invokes in humans (e.g., birdwatching) or a *_perceived threat to humans_* out of fear (e.g., spiders), or danger (e.g., bats, snakes) or as pests (e.g., badgers). +
@@ -21,9 +21,9 @@ Table S1.Conceptual framework of the main elements that have been used to define
 _Examples in use_: GBIF; NBN (UK), ALA (Australia), NSSL (South Africa), INPH-SINP (France), ERIN (Australia), IUCN, SLU (Sweden), Laji.Fi (Finland), eBird
 
 |Evaluating the impact of harm 
-|- *_Intensity of the activity_*: Does the activity have lethal ornon-lethal effects on individuals? Are all individuals targeted and at all times of the year i.e. does the activity occur all year or only at specific times? Are there specific life stages (e.g., eggs, mature adults, juveniles) or sexes that are targeted that may affect the demographics of the populations? Is the activity increasing or decreasing? +
-- *_Ecology of the species_*: To what extent will the species be able torecover/regenerate from targeted use or disturbance? Does the targeted population have a very restricted range that makes it more vulnerable to harmful activities? +
-- *_Novelty of the species_*: Descriptions of new species can triggertrade and overexploitation of those
+|- *Intensity of the activity*: Does the activity have lethal ornon-lethal effects on individuals? Are all individuals targeted and at all times of the year i.e. does the activity occur all year or only at specific times? Are there specific life stages (e.g., eggs, mature adults, juveniles) or sexes that are targeted that may affect the demographics of the populations? Is the activity increasing or decreasing? +
+- *Ecology of the species*: To what extent will the species be able torecover/regenerate from targeted use or disturbance? Does the targeted population have a very restricted range that makes it more vulnerable to harmful activities? +
+- *Novelty of the species*: Descriptions of new species can triggertrade and overexploitation of those
 species. +
 +
 _Examples in use_: GBIF, eBird, NSSL, ERIN, IUCN, SINP, DRYAD
@@ -33,119 +33,40 @@ _Examples in use_: GBIF, eBird, NSSL, ERIN, IUCN, SINP, DRYAD
 +
 _Examples in use_: GBIF (criteria 4.2), ALA, NSSL, iNaturalist, IUCN, SLU, DRYAD
 
-|===
+2+|B. *Sensitive data*: will the publication of the data increase potential harm to the taxon.
 
-[width="100%",cols="14%,86%",options="header",]
-|===
-a|
-[upperalpha, start=2]
-. {blank}
-+
-____
-*Sensitive data –* will the publication of the data increase potential
-harm to the taxon.
-____
+2+|B.1 _Species features_
 
-|
-|_B.1 Species features_ |
+|Ability to detect and track the species (detectability)
+|- *Mobility*: Species with low mobility (e.g., cactus, molluscs, sedentary species) may be more detectable if specific location data is informed. +
+- *Abundance and density*: species found at low densities i.e. dispersed individuals over a wide area may be less likely to be found. Gregarious species with higher densities may be easier to detect when compared with solitary species. +
+- *Accessibility*: some locations may be very remote or dangerous to reach, limiting access. +
+- *Territoriality*: species with predictable displacements orphilopatry may make individuals easier to locate.
 
-|_Ability to detect and track the species (detectability)_ a|
-* {blank}
-+
-____
-*_mobility_* - species with low mobility (e.g., cactus, molluscs,
-sedentary species) may be more detectable if specific location data is
-informed.
-____
-* {blank}
-+
-____
-*_abundance and density_* - species found at low densities i.e.
-dispersed individuals over a wide area may be less likely to be found.
-Gregarious species with higher densities may be easier to detect when
-compared with solitary species.
-____
-* {blank}
-+
-____
-*_accessibility_* – some locations may be very remote or dangerous to
-reach, limiting access.
-____
-* {blank}
-+
-____
-*_territoriality_* - species with predictable displacements or
-philopatry may make individuals easier to locate.
-____
+|Time and location-specific factors 
+|- Does the data provide information of *nesting/breeding sites* of the species? +
+- Does the data provide evidence of a species during known periods when targeted exploitation is higher e.g. when in bloom __*,* o__r when on targeted life stages e.g. eggs or seeds that may be harvested?
 
-|_Time and location-specific factors_ a|
-* {blank}
-+
-____
-Does the data provide information of *_nesting/breeding sites_* of the species?
-____
-* {blank}
-+
-____
-Does the data provide evidence of a species during known periods when targeted exploitation is higher e.g. when in bloom __*,* o__r when on targeted life stages e.g. eggs or seeds that may be harvested?
-____
+2+|B.2 _Data content and local context_
 
-|_B.2 Data content and local context_ |
+|Public availability of the data
+|- *Novelty*: Is the data is already publicly available in scientific literature, news, social media, atlases, popular knowledge, legal or illegal sources, or findable using an internet search engine? If it's a novel location for the species, it may be considered more sensitive. +
+- *spatial resolution*: higher levels of resolution / precision at which the data is published may increase risks +_Examples in use_: ERIN, SINP
 
-|_Public availability of the data_ a|
-* {blank}
-+
-____
-*_novelty_* – is the data is already publicly available in scientific literature, news, social media, atlases, popular knowledge, legal or illegal sources, or findable using an internet search engine? If it's a novel location for the species, it may be considered more sensitive
-____
-* {blank}
-+
-____
-*_spatial resolution_* - higher levels of resolution / precision at which the data is published may increase risks
-____
+|_Protection of the area_
+|- Consider the *effective protection* of the area in which the record is located. +
++_Examples in use_: DRYAD, ERIN, https://doi.org/10.35035/vs84-0p13[Chapman 2006^].
 
-*Mentioned by:* ERIN, SINP
+|_Local legislation and conservation_ 
+|- Consider the existence of *species-level legislation* that may locally protect the species against exploitation +
+- Will *conservation efforts* be impacted or benefit from the data publication. +
+- Consider any *local data publication protocols, guidelines or legislation* related to the publication of data related to the species.
 
-|_Protection of the area_ a|
-* {blank}
-+
-____
-consider the *_effective protection_* of the area in which the record is located
-____
-
-*Mentioned by*: DRYAD, ERIN, Chapman (2006).
-
-|_Local legislation and conservation_ a|
-* {blank}
-+
-____
-consider the existence of *_species-level legislation_* that may locally protect the species against exploitation
-____
-* {blank}
-+
-____
-will *_conservation efforts_* be impacted or benefit from the data publication
-____
-* {blank}
-+
-____
-consider any *_local data publication protocols, guidelines or legislation_* related to the publication of data related to the species
-____
-
-|_Potential conflicts_ a|
-* {blank}
-+
-____
-Considerland tenure, i.e, if the record is located on **_privately or community-managed land_**s
-____
-* {blank}
-+
-____
-check legal and social norms related to *_permissions to publish_* data on that area
-____
+|_Potential conflicts_ 
+|- Consider land tenure, i.e if the record is located on *privately or community-managed lands* +
+- Check legal and social norms related to *permissions to publish* data on that area
 
 |===
-
 
 == Appendix B
 
@@ -154,7 +75,7 @@ image::media/image8.png[image,width=624,height=276]
 
 == Appendix C
 
-.Examples of the texts used in the records reviewed in which data generalization (DG) or data withheld (WH) were used to describe data managements due to the potential sensitivity of the species.
+.Examples of the texts used in the records reviewed in which data generalization (DG) or data withheld (WH) were used to describe data management due to the potential sensitivity of the species.
 [width="100%",cols="9%,23%,29%,12%,12%,8%,7%",options="header",]
 |===
 |DWCA Term |Text |Comment |Publisher/institution |Species |IUCN Conservation Category |Country of the occurrence |DG |Geographic information generalized during aggregation due to the sensitivity of the data to diffusion, according to SINP communication rules |Many records are published following the same text-forma. Text given in French and English |UMS PatriNat (OFB-CNRS- MNHN) |Tetrax tetrax |NT |France
