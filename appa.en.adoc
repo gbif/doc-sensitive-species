@@ -52,10 +52,12 @@ _Examples in use_: GBIF (criteria 4.2), ALA, NSSL, iNaturalist, IUCN, SLU, DRYAD
 |Public availability of the data
 |- *Novelty*: Is the data is already publicly available in scientific literature, news, social media, atlases, popular knowledge, legal or illegal sources, or findable using an internet search engine? If it's a novel location for the species, it may be considered more sensitive. +
 - *spatial resolution*: higher levels of resolution / precision at which the data is published may increase risks +
+ +
 _Examples in use_: ERIN, SINP
 
 |_Protection of the area_
 |- Consider the *effective protection* of the area in which the record is located. +
+ +
 _Examples in use_: DRYAD, ERIN, https://doi.org/10.35035/vs84-0p13[Chapman 2006^].
 
 |_Local legislation and conservation_ 
