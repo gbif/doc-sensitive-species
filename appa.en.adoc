@@ -17,7 +17,7 @@
 - Risk of harm may be considered for species with *_phylogenetic proximity_* to a currently targeted species. +
 - Risk of harm is higher for those species of *_higher economic,cultural_* or *_medicinal value_* +
 - Risk of harm is higher for *_rare, uncommon_* and/or *_endemic_*, as these may invoke specific interest +
-+
+ +
 _Examples in use_: GBIF; NBN (UK), ALA (Australia), NSSL (South Africa), INPH-SINP (France), ERIN (Australia), IUCN, SLU (Sweden), Laji.Fi (Finland), eBird
 
 |Evaluating the impact of harm 
@@ -25,12 +25,12 @@ _Examples in use_: GBIF; NBN (UK), ALA (Australia), NSSL (South Africa), INPH-SI
 - *Ecology of the species*: To what extent will the species be able torecover/regenerate from targeted use or disturbance? Does the targeted population have a very restricted range that makes it more vulnerable to harmful activities? +
 - *Novelty of the species*: Descriptions of new species can triggertrade and overexploitation of those
 species. +
-+
+ +
 _Examples in use_: GBIF, eBird, NSSL, ERIN, IUCN, SINP, DRYAD
 
 |Conservation status
 |- Species is *Critically Endangered*, *Endangered* or *Vulnerable* at a global, regional, national, or subnational level. +
-+
+ +
 _Examples in use_: GBIF (criteria 4.2), ALA, NSSL, iNaturalist, IUCN, SLU, DRYAD
 
 2+|B. *Sensitive data*: will the publication of the data increase potential harm to the taxon.
