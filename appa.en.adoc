@@ -10,17 +10,17 @@
 
 2+|A. *Sensitive species*: identification of sensitive species
 
-|Risk of harm 
-|- Risk of harm is a result of the *_use_* of the targeted species, e.g. if the species is *_hunted, killed, disturbed, exploited, collected (individuals, seed, eggs), harvested, poached, traded_*. Also related to the *_interest_* that the species invokes in humans (e.g., birdwatching) or a *_perceived threat to humans_* out of fear (e.g., spiders), or danger (e.g., bats, snakes) or as pests (e.g., badgers). +
-- Harm to the species is always *_intentional_* and not accidental or ascollateral damage of an activity in which the species is not targeted. +
-- Risk of harm can be from both legal *_and illegal activities._* +
-- Risk of harm may be considered for species with *_phylogenetic proximity_* to a currently targeted species. +
-- Risk of harm is higher for those species of *_higher economic,cultural_* or *_medicinal value_* +
-- Risk of harm is higher for *_rare, uncommon_* and/or *_endemic_*, as these may invoke specific interest +
+|_Risk of harm_ 
+|- Risk of harm is a result of the *_use_* of the targeted species, e.g. if the species is *hunted, killed, disturbed, exploited, collected (individuals, seed, eggs), harvested, poached, traded*. Also related to the *interest* that the species invokes in humans (e.g., birdwatching) or a *perceived threat to humans* out of fear (e.g., spiders), or danger (e.g., bats, snakes) or as pests (e.g., badgers). +
+- Harm to the species is always *intentional* and not accidental or ascollateral damage of an activity in which the species is not targeted. +
+- Risk of harm can be from both legal *and illegal activities*. +
+- Risk of harm may be considered for species with *phylogenetic proximity* to a currently targeted species. +
+- Risk of harm is higher for those species of *higher economic,cultural* or *medicinal value* +
+- Risk of harm is higher for *rare, uncommon* and/or *endemic*, as these may invoke specific interest +
  +
 _Examples in use_: GBIF; NBN (UK), ALA (Australia), NSSL (South Africa), INPH-SINP (France), ERIN (Australia), IUCN, SLU (Sweden), Laji.Fi (Finland), eBird
 
-|Evaluating the impact of harm 
+|_Evaluating the impact of harm_
 |- *Intensity of the activity*: Does the activity have lethal ornon-lethal effects on individuals? Are all individuals targeted and at all times of the year i.e. does the activity occur all year or only at specific times? Are there specific life stages (e.g., eggs, mature adults, juveniles) or sexes that are targeted that may affect the demographics of the populations? Is the activity increasing or decreasing? +
 - *Ecology of the species*: To what extent will the species be able torecover/regenerate from targeted use or disturbance? Does the targeted population have a very restricted range that makes it more vulnerable to harmful activities? +
 - *Novelty of the species*: Descriptions of new species can triggertrade and overexploitation of those
@@ -28,7 +28,7 @@ species. +
  +
 _Examples in use_: GBIF, eBird, NSSL, ERIN, IUCN, SINP, DRYAD
 
-|Conservation status
+|_Conservation status_
 |- Species is *Critically Endangered*, *Endangered* or *Vulnerable* at a global, regional, national, or subnational level. +
  +
 _Examples in use_: GBIF (criteria 4.2), ALA, NSSL, iNaturalist, IUCN, SLU, DRYAD
@@ -37,15 +37,15 @@ _Examples in use_: GBIF (criteria 4.2), ALA, NSSL, iNaturalist, IUCN, SLU, DRYAD
 
 2+|B.1 _Species features_
 
-|Ability to detect and track the species (detectability)
+|_Ability to detect and track the species_ (*detectability*)
 |- *Mobility*: Species with low mobility (e.g., cactus, molluscs, sedentary species) may be more detectable if specific location data is informed. +
 - *Abundance and density*: species found at low densities i.e. dispersed individuals over a wide area may be less likely to be found. Gregarious species with higher densities may be easier to detect when compared with solitary species. +
 - *Accessibility*: some locations may be very remote or dangerous to reach, limiting access. +
 - *Territoriality*: species with predictable displacements orphilopatry may make individuals easier to locate.
 
-|Time and location-specific factors 
+|_Time and location-specific factors_ 
 |- Does the data provide information of *nesting/breeding sites* of the species? +
-- Does the data provide evidence of a species during known periods when targeted exploitation is higher e.g. when in bloom __*,* o__r when on targeted life stages e.g. eggs or seeds that may be harvested?
+- Does the data provide evidence of a species during known periods when targeted exploitation is higher e.g. when in bloom , or when on targeted life stages e.g. eggs or seeds that may be harvested?
 
 2+|B.2 _Data content and local context_
 
@@ -81,7 +81,7 @@ image::media/image8.png[image,width=624,height=276]
 .Examples of the texts used in the records reviewed in which the Darwin Core terms term:dwc[dataGeneralization] (DG) or term:dwc[dataWithheld] (WH) were used to describe data management due to the potential sensitivity of the species.
 [width="100%",cols="9%,23%,29%,12%,12%,8%,7%",options="header",]
 |===
-|DWCA Term |Text |Comment |Publisher/institution |Species |IUCN Conservation Category |Country of the occurrence |DG |Geographic information generalized during aggregation due to the sensitivity of the data to diffusion, according to SINP communication rules |Many records are published following the same text-forma. Text given in French and English |UMS PatriNat (OFB-CNRS- MNHN) |Tetrax tetrax |NT |France
+|DWCA Term |Text |Comment |Publisher/institution |Species |IUCN Red List Category |Country of the occurrence |DG |Geographic information generalized during aggregation due to the sensitivity of the data to diffusion, according to SINP communication rules |Many records are published following the same text-forma. Text given in French and English |UMS PatriNat (OFB-CNRS- MNHN) |Tetrax tetrax |NT |France
 
 |DG |Location in England is already generalized to 0.01 degrees. Sensitive in ENGLAND, Name: England, Zone: COUNTRY [Sensitive, Natural England] |Many records are published following the same text-format, and modifying the location, extent of generalization, area in which the taxon is sensitive, and the reference (in this case Natural England) |Biological Records Centre |Lutra lutra |NT |England
 
