@@ -19,7 +19,7 @@ Name as needed/desired
 
 === Licence
 
-The document _Exploring the risk and benefits of publishing sensitive species data_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The document _Sensitive species data generalization: Exploring risks, benefits and best practices_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === Persistent URI
 
@@ -27,7 +27,7 @@ https://doi.org/10.35035/doc-yr9g-nx02
 
 === Document control
 
-v1.0.0, February 2024
+v1, February 2024
 
 === Cover image
 
