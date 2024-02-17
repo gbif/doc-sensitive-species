@@ -1,3 +1,4 @@
+[[gbif-data-management]]
 == Sensitive species data management in GBIF
 
 In https://doi.org/10.15468/doc-5jp4-5g10[Chapman 2020^] generalization refers to any modification performed on source data that conceals sensitive content, which could be related to text data (name of the area, collector, landowner) or spatial generalizations. For data published through GBIF, the responsibility of generalization is left to the data publisher. In a survey of data holders by GBIF (https://doi.org/10.35035/vs84-0p13[Chapman 2006^]), two thirds of respondents (65) reported that they generalize data in some way, mostly by deleting or altering localities (42), deleting or decreasing the scale of the georeference (41), modifying the accuracy (1). All the other generalizations were related to non-spatial elements such as collectors' names, dates and taxonomic information.
@@ -8,6 +9,7 @@ The generalization of georeferenced data should be documented so that users can 
 
 The extent to which data holders and publishers are applying general GBIF and national data generalization protocols is unknown. It is unclear whether those data that are considered sensitive data are being generalized in a standardized manner both within and outside of a country where that species occurs. In this section, we evaluate the degree to which sensitive data is being generalized and the extent to which data generalization protocols are being applied across different geographies and organizations. Finally, we provide examples of how data is currently generalized for some well-known sensitive taxa.
 
+[[gbif-generalization-protocols]]
 === Application of data generalization protocols within GBIF
 
 In its broadest sense, generalization introduces uncertainty in the location data of an occurrence. Currently, this uncertainty can be captured mainly through five DwC terms : term:dwc[dataGeneralizations] (DG), term:dwc[informationWithheld] (WH), term:dwc[coordinateUncertaintyInMeters] (UNC), term:dwc[coordinatePrecision] (CP) and term:dwc[footprint] (FT). Of these five terms, https://doi.org/10.15468/doc-gg7h-s853[Chapman & Wieczorek 2020^] recommend the use of DG and WH for generalizations related to sensitive species data. We took the broader definition and looked at the use of the 5 terms for taxa listed as potentially sensitive, based on our compiled national and organizational list and the list derived from the IUCN Red List to determine how data generalizations were being applied to these subset of taxa in GBIF.
@@ -50,14 +52,17 @@ From the 271,157 occurrences, 107,046 occurrences used the DG term and, in contr
 
 In records with WH and DG refering to data sensitivity, we found several cases in which specific national or local organizations were mentioned as references ([[Appendix C: Table S2]]), which coincide with the institutions from which we obtained the sensitive species list (<<table-01,Table 1>>), or institutions related to them (e.g., Natural England, Natural Resources Wales, Scottish Natural Heritage, SINP, eBird Australia). Therefore, structured local initiatives may be used by several publishers to identify sensitive species and also to determine the generalizations to be used, probably generating more safe records but also preventing overgeneralizations.
 
+[[generalization-examples]]
 === Examples of sensitive species generalizations
 
+[[generalization-examples-rhinos]]
 ==== Rhinoceroses
 
 Species from the family Rhinocertidae are well-known to be a valuable target for poachers and hunters, so we used them as an example to explore the use of data generalizations on their GBIF-mediated occurrence records. We filtered GBIF occurrences for the family and kept only records with coordinates, excluding observations based on fossils, living specimens and material samples. The resulting DwC archive included data for six species (excluding extinct ones) (<<appd,Appendix 4>>, Table S3). Among those species (all with accepted species-rank scientific names), there were also 5 subspecies with accepted scientific names and two were included as synonyms In sum, the six living species presented 3,371 occurrences, from which we excluded 187 that were located in countries outside their natural distributions (the United States, the Russian Federation, Netherlands and France) and thus considered specimens from ex situ collections.
 
 For the remaining 3,184 occurrences, 88.2 per cent were generalized using the WH term, most of them (2,265) using the WH term included explicit indications of sensitivity in the data e.g., “coordinate uncertainty increased to _x_ metres to protect the threatened taxon”. Only 273 occurrences made use of the DG term (9.4 per cent), but none of them referring to the sensitivity of the species, and only mentioning spatial generalizations (e.g., “record obtained as a central point of a grid with 15 minutes”, “randomly obfuscated between 5-25 km”). In 342 occurrences with no WH nor DG, the record informed UNC, ranging from 1 (12 records) to 12,000 mt (13 records), although most informing 250 metres of uncertainty (220 records). Overall, there were 82 records with no generalization informed (not using any of the selected terms: WH, DG, FT, DP, UNC), which were related to _Diceros bicornis_, _Ceratotherium simum_ and _Rhinoceros unicornis._
 
+[[generalization-examples-orchids]]
 ==== Orchids
 
 Orchids are one of the largest families of flowering plants with nearly 30,000 species globally and commonly traded and are particularly vulnerable to over-harvest because many species have a limited range and/or occur at low densities (https://doi.org/10.1111/cobi.12721[Hinsley et al. 2016^]; https://doi.org/10.1093/botlinnean/box083[Hinsley et al. 2018^]; https://doi.org/10.1186/s40529-018-0232-z[Fay 2018^]). All species are on CITES Appendix II.
@@ -70,6 +75,7 @@ image::media/image5.png[image,width=511,height=224]
 image::media/image3.png[image,width=81,height=31]
 image::media/image2.jpg[image,width=46,height=46]
 
+[[data-management-conclusions]]
 === Data management conclusions
 
 This analysis was a first attempt to assess the degree to which sensitive and potentially sensitive data is being managed across GBIF and this initial assessment shows a mixed landscape. Firstly, most occurrences that we identified as being sensitive or potentially sensitive were not generalized even when they were on national lists using WH and DG terms. While this percentage was higher for well recognized species such as rhinos and orchids, even here significant numbers of records were not adequately generalized. However, a far larger number of occurrences did include coordinate uncertainty values although these may be under adequate thresholds for effective generalization of data. Secondly, when data is generalized, different generalization protocols are applied by different publishers and this may be affected by the country within which the publisher is, with occurrences from some countries more generalized than others. Between publishers, there is a wide variety in the use of Darwin Core terms for identifying sensitivity at the occurrence-level with no fixed vocabulary for the terms and a wide range of different types of information within the fields. The use of occurrence-level indications of sensitivity should be considered at the same time as improved sensitivity metadata. Finally, when we have national sensitive species lists, data coming from publishers outside of the country are more generalized than those from within the country, minimizing the perceived threat of repatriated data with respect to sensitive species data.
