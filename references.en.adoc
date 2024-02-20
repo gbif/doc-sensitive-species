@@ -20,7 +20,7 @@ Bloom DA, Wieczorek JR & Zermoglio PF (2020) Georeferencing Calculator Manual. C
 
 Borgelt J, Dorber M, Høiberg M A & Verones F (2022) More than half of data deficient species predicted to be threatened by extinction. Communications Biology 5(1): 679. https://doi.org/10.1038/s42003-022-03638-9
 
-Bosman A, Steyns H, Muller B & Steenkamp C (2021) NSCF Georeferencing protocol v2.0. Natural Sciene Collections Facility. https://tdwg.github.io/esp/georeferencing/workflows/NSCF-Georeferencing-protocol.pdf
+Bosman A, Steyns H, Muller B & Steenkamp C (2021) NSCF Georeferencing protocol. Version 2.0. Natural Science Collections Facility. https://tdwg.github.io/esp/georeferencing/workflows/NSCF-Georeferencing-protocol.pdf
 
 Boyd C, Brooks TM, Butchart SHM et al. (2008) Spatial scale and the conservation of threatened species: Spatial scale and the conservation of threatened species. Conservation Letters 1(1): 37–43. https://doi.org/10.1111/j.1755-263X.2008.00002.x
 
@@ -36,9 +36,9 @@ eBird (2023) Sensitive Species in eBird. eBird Help Center. https://support.ebir
 
 Efford MG & Schofield MR (2022) A review of movement models in open population capture–recapture. Methods in Ecology and Evolution 13(10): 2106–2118. https://doi.org/10.1111/2041-210X.13947
 
-ENETWILD consortium, Jaroszynska F, Body G, Pamerlon S & Archambeau A. (2022) Applying the Darwin Core data standard to wildlife disease – advancements toward a new data model. EFSA Supporting Publications 19(11): EN-7667E. https://doi.org/10.2903/sp.efsa.2022.EN-7667
+ENETWILD consortium, Jaroszynska F, Body G, Pamerlon S & Archambeau A (2022) Applying the Darwin Core data standard to wildlife disease – advancements toward a new data model. EFSA Supporting Publications 19(11): EN-7667E. https://doi.org/10.2903/sp.efsa.2022.EN-7667
 
-Estrada-Peña A & de la Fuente J. (2014) The ecology of ticks and epidemiology of tick-borne viral diseases. Antiviral Research 108: 104–128. https://doi.org/10.1016/j.antiviral.2014.05.016
+Estrada-Peña A & de la Fuente J (2014) The ecology of ticks and epidemiology of tick-borne viral diseases. Antiviral Research 108: 104–128. https://doi.org/10.1016/j.antiviral.2014.05.016
 
 Fay MF (2018) Orchid conservation: How can we meet the challenges in the twenty-first century? Botanical Studies: 59(1): 16. https://doi.org/10.1186/s40529-018-0232-z
 
@@ -60,9 +60,9 @@ Hinsley A, de Boer H , Fay MF et al. (2018) A review of the trade in orchids and
 
 Hinsley A, Lee TE, Harrison JR & Roberts DL (2016) Estimating the extent and structure of trade in horticultural orchids via social media: Social-Media Orchid-Trade Networks. Conservation Biology 30(5): 1038–1047. https://doi.org/10.1111/cobi.12721
 
-Hochachka WM, Fink D, Hutchinson RA, Sheldon D, Wong W-K & Kelling S. (2012) Data-intensive science applied to broad-scale citizen science. Trends in Ecology & Evolution, 27(2), 130–137. https://doi.org/10.1016/j.tree.2011.11.006
+Hochachka WM, Fink D, Hutchinson RA, Sheldon D, Wong W-K & Kelling S (2012) Data-intensive science applied to broad-scale citizen science. Trends in Ecology & Evolution 27(2), 130–137. https://doi.org/10.1016/j.tree.2011.11.006
 
-Howe EJ, Potter D, Beauclerc KB, Jackson KE & Northrup, JM (2022) Estimating animal abundance at multiple scales by spatially explicit capture–recapture. Ecological Applications 32(7): ee2638. https://doi.org/10.1002/eap.2638
+Howe EJ, Potter D, Beauclerc KB, Jackson KE & Northrup JM (2022) Estimating animal abundance at multiple scales by spatially explicit capture–recapture. Ecological Applications 32(7): ee2638. https://doi.org/10.1002/eap.2638
 
 Ichter J, Robert S & Touroult J (2022) Sensibilité des données à la diffusion. Guide technique du SINP. v2.0. Paris: Muséum national d'Histoire naturelle. https://inpn.mnhn.fr/docs-web/docs/download/404525
 
@@ -70,7 +70,7 @@ iNaturalist (2022) Obscuring Sensitive Species Data. https://www.inaturalist.org
 
 iNaturalist (2023) Frequently Asked Questions: What is geoprivacy? What does it mean for an observation to be obscured? https://www.inaturalist.org/pages/help#geoprivacy
 
-IUCN (2022) Threats Classification Scheme (Version 3.2) https://www.iucnredlist.org/resources/threat-classification-scheme
+IUCN (2022) Threats Classification Scheme. Version 3.2. https://www.iucnredlist.org/resources/threat-classification-scheme
 
 Kelling S, Hochachka WM, Fink D et al. (2009) Data-intensive Science: A New Paradigm for Biodiversity Studies. BioScience 59(7): 613–620. https://doi.org/10.1525/bio.2009.59.7.12
 
@@ -94,13 +94,13 @@ SANBI (2016) Report of the National Sensitive Species List Workshop: 18 and 19 A
 
 SANBI (2018) National Sensitive Species List (NSSL) of 2018: Summary of changes. Version 1.0. South African National Biodiversity Institute (SANBI). http://nssl.sanbi.org.za/
 
-Schlaepfer MA, Hoover C & Dodd CK (2005) Challenges in Evaluating the Impact of the Trade in Amphibians and Reptiles on Wild Populations. BioScience 55(3):256. link:++https://doi.org/10.1641/0006-3568(2005)055[0256:CIETIO]2.0.CO;2++[]
+Schlaepfer MA, Hoover C & Dodd CK (2005) Challenges in Evaluating the Impact of the Trade in Amphibians and Reptiles on Wild Populations. BioScience 55(3): 256. link:++https://doi.org/10.1641/0006-3568(2005)055[0256:CIETIO]2.0.CO;2++[]
 
-Siler CD, Linkem CW, Cobb K et al. (2014) Taxonomic revision of the semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:Scincidae), with description of three new species. Zootaxa 3847(3):388. https://doi.org/10.11646/zootaxa.3847.3.4
+Siler CD, Linkem CW, Cobb K et al. (2014) Taxonomic revision of the semi-aquatic skink Parvoscincus leucospilos (Reptilia: Squamata:Scincidae), with description of three new species. Zootaxa 3847(3): 388. https://doi.org/10.11646/zootaxa.3847.3.4
 
 SINP (2017) Protocole du Système d´Information sur la Nature et les Paysages. Paris: Système d´Information sur la Nature et les Paysages. https://abc.naturefrance.fr/documents/protocole-du-systeme-dinformation-sur-la-nature-et-les-paysages
 
-SLU Artdatabanken (2020) List of sensitive species nationally protected in Sweden. SLU Artdatabanken https://doi.org/10.15468/JWBTSB
+SLU Artdatabanken (2020) List of sensitive species nationally protected in Sweden. Version 1.6. Checklist dataset. https://doi.org/10.15468/JWBTSB
 
 Soberón J & Peterson T (2004) Biodiversity informatics: Managing and applying primary biodiversity data. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences 359(1444): 689–698. https://doi.org/10.1098/rstb.2003.1439
 
@@ -112,10 +112,10 @@ Thompson CW, Phelps KL, Allard MW et al. (2021) Preserve a Voucher Specimen! The
 
 Tourani M (2022) A review of spatial capture–recapture: Ecological insights, limitations, and prospects. Ecology and Evolution 12(1): e8468. https://doi.org/10.1002/ece3.8468
 
-Touroult J, Birard J, Bouix T et al. (2014) Définition et gestion des données sensibles sur la nature dans le cadre du SINP. Guide technique. Rapport pour le SINP, rapport MNHN‐SPN 2014‐27 https://inpn.mnhn.fr/docs/SINP/sinp_guide_technique_donnees_sensible_v1_avril_2014.pdf
+Touroult J, Birard J, Bouix T et al. (2014) Définition et gestion des données sensibles sur la nature dans le cadre du SINP. Guide technique. Rapport pour le SINP, rapport MNHN‐SPN 2014‐27. https://inpn.mnhn.fr/docs/SINP/sinp_guide_technique_donnees_sensible_v1_avril_2014.pdf
 
 Wieczorek J, Guo Q & Hijmans R (2004) The point-radius method for georeferencing locality descriptions and calculating associated uncertainty. International Journal of Geographical Information Science 18(8): 745–767. https://doi.org/10.1080/13658810412331280211
 
 Wood C, Sullivan B, Iliff M, Fink D & Kelling S (2011) eBird: Engaging Birders in Science and Conservation. PLoS Biology 9(12): e1001220. https://doi.org/10.1371/journal.pbio.1001220
 
-Xing S, Au TF, Dufour PC et al. (2019) Conservation of data deficient species under multiple threats: Lessons from an iconic tropical butterfly (_Teinopalpus aureus_) Biological Conservation 234:154–164. https://doi.org/10.1016/j.biocon.2019.03.029
+Xing S, Au TF, Dufour PC et al. (2019) Conservation of data deficient species under multiple threats: Lessons from an iconic tropical butterfly (_Teinopalpus aureus_). Biological Conservation 234:154–164. https://doi.org/10.1016/j.biocon.2019.03.029
