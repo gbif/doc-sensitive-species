@@ -86,7 +86,9 @@ Powney GD & Isaac NJB (2015) Beyond maps: A review of the applications of biolog
 
 Robinson OJ, Ruiz‐Gutierrez V, Reynolds MD, Golet GH, Strimas‐Mackey M & Fink D (2020) Integrating citizen science data with expert surveys increases accuracy and spatial extent of species distribution models. Diversity and Distributions 26(8): 976–986. https://doi.org/10.1111/ddi.13068
 
-Saarenmaa H (2005) Sharing and Accessing Biodiversity Data Globally through GBIF.
+De Burca, M. (2014) 'Geriatric radiography services in Ireland' [Lecture], RDGY30300: Clinical Practice of Radiography. University College Dublin. 11 May.
+
+Saarenmaa H (2005) Sharing and Accessing Biodiversity Data Globally through GBIF. 25th Annual ESRI International User Conference (ESRI UC), San Diego, California, 25-29 July 2005. https://doi.org/10.35035/doc-1e12-2d30
 
 SANBI (2010) Biodiversity Information Policy Framework: Principles and Guidelines, Policy Series. Pretoria, South Africa: South African National Biodiversity Institute. http://hdl.handle.net/20.500.12143/7450
 
