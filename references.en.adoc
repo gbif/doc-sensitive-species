@@ -32,6 +32,8 @@ Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: Cope
 
 Contreras-Díaz RG, Nori J, Chiappa-Carrara X, Peterson TA, Soberón J & Osorio-Olvera J (2023) Well-intentioned initiatives hinder understanding biodiversity conservation: Cloaked iNaturalist information for threatened species. Biological Conservation 282: 110042. https://doi.org/10.1016/j.biocon.2023.110042
 
+DECCW (2009) Sensitive Species Data Policy. New South Wales Department of Environment, Climate Change and Water. https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf
+
 eBird (2023) Sensitive Species in eBird. eBird Help Center. https://support.ebird.org/en/support/solutions/articles/48000803210-sensitive-species-in-ebird#How-should-eBirders-report-sensitive-species?-
 
 Efford MG & Schofield MR (2022) A review of movement models in open population capture–recapture. Methods in Ecology and Evolution 13(10): 2106–2118. https://doi.org/10.1111/2041-210X.13947
@@ -80,13 +82,9 @@ Lindenmayer D & Scheele B (2017) Do not publish: Limit open access information o
 
 NBN (2019) Sensitive Data. National Biodiversity Network. https://nbn.org.uk/sensitive-data/
 
-NSW (2006) Sensitive Species Data Policy. Department of Environment, Climate Change and Water (DECCW), New South Wales. `CHECK TO SEE IF THIS IS THE SAME AS` DECCW (2009) Sensitive Species Data Policy. New South Wales Department of Environment, Climate Change and Water. https://www.environment.nsw.gov.au/resources/nature/SensitiveSpeciesPolicyDEC09.pdf
-
 Powney GD & Isaac NJB (2015) Beyond maps: A review of the applications of biological records: Applications of Biological Records. Biological Journal of the Linnean Society 115(3): 532–542. https://doi.org/10.1111/bij.12517
 
 Robinson OJ, Ruiz‐Gutierrez V, Reynolds MD, Golet GH, Strimas‐Mackey M & Fink D (2020) Integrating citizen science data with expert surveys increases accuracy and spatial extent of species distribution models. Diversity and Distributions 26(8): 976–986. https://doi.org/10.1111/ddi.13068
-
-De Burca, M. (2014) 'Geriatric radiography services in Ireland' [Lecture], RDGY30300: Clinical Practice of Radiography. University College Dublin. 11 May.
 
 Saarenmaa H (2005) Sharing and Accessing Biodiversity Data Globally through GBIF. 25th Annual ESRI International User Conference (ESRI UC), San Diego, California, 25-29 July 2005. https://doi.org/10.35035/doc-1e12-2d30
 
