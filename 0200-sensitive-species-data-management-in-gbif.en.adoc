@@ -20,11 +20,12 @@ In a second step aimed at exploring generalization patterns for sensitive and po
 
 We found that a remarkable proportion of these occurrences (91.6 per cent) were published by institutions in just nine countries: the United States, Sweden, Netherlands, Belgium, Denmark, Norway, France, Australia and the United Kingdom. When we examined the use of the DG term across countries, there were clear differences. For example, Belgium used DG for over 90 per cent of the occurrences for sensitive species followed by the Netherlands (81 per cent) and Switzerland (69 per cent). Nearly 90 per cent of occurrences from Belgium made use of WH, and 91 per cent of the records related to sensitive species from Finland used FT.
 
+image::img/web/ss-guide-graphs-03.svg[] 
+image::img/web/ss-guide-graphs-04.svg[]
+
 [[fig-02]]
 .Generalization of records according to their potential sensitivity and conservation category. Bars represent the proportions of occurrence records that had used the Darwin Core terms Data Generalization (DG), Footprint WKT (FT), Coordinate Uncertainty (UNC) and Information Withheld (WH). On the left of panel A are all sensitive and potentially sensitive species identified by organizations and IUCN (All SS); in the centre are records of all species excluding sensitive species (Not SS), and on the right are overall records found in GBIF. Panel B only includes only records of Threatened and Near Threatened sensitive and potentially sensitive species.
-image::img/web/ss-guide-graphs-03.svg[] 
-+
-image::img/web/ss-guide-graphs-04.svg[]
+
 
 The UNC term was the most commonly used term for species on both lists and across GBIF, but tended to be more extensively used in occurrences of threatened and Near Threatened species on the national and organizational lists (58 per cent of the occurrences). For all species identified as sensitive (both lists, all IUCN categories, for 21,098 validated taxa), UNC was used for 47.5 per cent of the records, higher than when compared with the 34 per cent of records using UNC for all GBIF records (<<fig-02,Figure 2>>, panel A). However, the term UNC may signal spatial uncertainties of short distances that fail to act as efficient generalizations in terms of obfuscating species localities. In fact, when exploring the generalizations of the records related to threatened and near threatened sensitive species, nearly half of the occurrences that made use of UNC term had uncertainties of less than 500 metres, which do not comply with most of the recommended buffer distances provided in guidelines (see https://doi.org/10.15468/doc-5jp4-5g10[Chapman 2020^]). The term CP was seldomly used, and FT was used to the same extent as for non-sensitive occurrence data in global GBIF dataset (nearly 10 per cent of the occurrences).
 
