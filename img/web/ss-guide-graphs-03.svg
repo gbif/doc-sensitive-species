@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="787.77" height="330.33" viewBox="0 0 787.77 330.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8567a8;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        font-size: 5.71px;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        font-family: Rubik-Regular, Rubik;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: #000;
+      }
+
+      .cls-5, .cls-7, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-6, .cls-9 {
+        font-size: 8px;
+      }
+
+      .cls-7 {
+        font-size: 6px;
+      }
+
+      .cls-8 {
+        font-size: 9px;
+      }
+
+      .cls-8, .cls-9 {
+        font-family: Rubik-Medium, Rubik;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        fill: #f3c55a;
+      }
+
+      .cls-11 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-10 {
+        font-family: Rubik-SemiBold, Rubik;
+        font-size: 12px;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        fill: #d67199;
+      }
+
+      .cls-4 {
+        fill: #5ea642;
+      }
+    </style>
+  </defs>
+  <g>
+    <g id="viz">
+      <g id="GBIF_Not_SS" data-name="GBIF Not SS">
+        <g>
+          <g>
+            <rect id="GBIF_Not_SS_-_WH" data-name="GBIF_Not_SS - WH" class="cls-2" x="206.13" y="255.01" width="38.97" height="27.98"/>
+            <rect id="GBIF_Not_SS_-_DG" data-name="GBIF_Not_SS - DG" class="cls-4" x="66.17" y="260.36" width="38.97" height="22.63"/>
+            <rect id="GBIF_Not_SS_-_FT" data-name="GBIF_Not_SS - FT" class="cls-3" x="112.82" y="245.96" width="38.97" height="37.03"/>
+            <rect id="GBIF_Not_SS_-_UNC" data-name="GBIF_Not_SS - UNC" class="cls-1" x="159.48" y="154.63" width="38.97" height="128.37"/>
+          </g>
+          <g id="xAxis">
+            <path class="cls-11" d="M58.49,282.99h194.29"/>
+            <g>
+              <line class="cls-11" x1="85.66" y1="282.99" x2="85.66" y2="286.42"/>
+              <text class="cls-6" transform="translate(79.89 296.19)"><tspan x="0" y="0">DG</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="132.31" y1="282.99" x2="132.31" y2="286.42"/>
+              <text class="cls-6" transform="translate(128.17 296.19)"><tspan x="0" y="0">FT</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="178.96" y1="282.99" x2="178.96" y2="286.42"/>
+              <text class="cls-6" transform="translate(168.52 296.19)"><tspan x="0" y="0">UNC</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="225.61" y1="282.99" x2="225.61" y2="286.42"/>
+              <text class="cls-6" transform="translate(218.79 296.19)"><tspan x="0" y="0">WH</tspan></text>
+            </g>
+          </g>
+          <g id="yAxis">
+            <path class="cls-11" d="M55.06,282.99h3.43V77.28h-3.43"/>
+            <g>
+              <line class="cls-11" x1="58.49" y1="282.99" x2="55.06" y2="282.99"/>
+              <text class="cls-5" transform="translate(50.17 284.82)"><tspan x="0" y="0">0</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="262.42" x2="55.06" y2="262.42"/>
+              <text class="cls-5" transform="translate(50.17 264.25)"><tspan x="0" y="0">5</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="241.85" x2="55.06" y2="241.85"/>
+              <text class="cls-5" transform="translate(46.99 243.68)"><tspan x="0" y="0">10</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="221.28" x2="55.06" y2="221.28"/>
+              <text class="cls-5" transform="translate(46.99 223.11)"><tspan x="0" y="0">15</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="200.71" x2="55.06" y2="200.71"/>
+              <text class="cls-5" transform="translate(46.99 202.53)"><tspan x="0" y="0">20</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="180.13" x2="55.06" y2="180.13"/>
+              <text class="cls-5" transform="translate(46.99 181.96)"><tspan x="0" y="0">25</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="159.56" x2="55.06" y2="159.56"/>
+              <text class="cls-5" transform="translate(46.99 161.39)"><tspan x="0" y="0">30</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="138.99" x2="55.06" y2="138.99"/>
+              <text class="cls-5" transform="translate(46.99 140.82)"><tspan x="0" y="0">35</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="118.42" x2="55.06" y2="118.42"/>
+              <text class="cls-5" transform="translate(46.99 120.25)"><tspan x="0" y="0">40</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="97.85" x2="55.06" y2="97.85"/>
+              <text class="cls-5" transform="translate(46.99 99.68)"><tspan x="0" y="0">45</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="58.49" y1="77.28" x2="55.06" y2="77.28"/>
+              <text class="cls-5" transform="translate(46.99 79.11)"><tspan x="0" y="0">50</tspan></text>
+            </g>
+          </g>
+        </g>
+        <text class="cls-9" transform="translate(47.21 58.02)"><tspan x="0" y="0">Not SS</tspan></text>
+      </g>
+      <g id="GBIF_AllSS" data-name="GBIF AllSS">
+        <g>
+          <g>
+            <rect id="GBIF_AllSS_-_WH" data-name="GBIF_AllSS - WH" class="cls-2" x="434.7" y="250.08" width="38.97" height="32.91"/>
+            <rect id="GBIF_AllSS_-_DG" data-name="GBIF_AllSS - DG" class="cls-4" x="294.75" y="236.91" width="38.97" height="46.08"/>
+            <rect id="GBIF_AllSS_-_FT" data-name="GBIF_AllSS - FT" class="cls-3" x="341.4" y="245.14" width="38.97" height="37.85"/>
+            <rect id="GBIF_AllSS_-_UNC" data-name="GBIF_AllSS - UNC" class="cls-1" x="388.05" y="87.56" width="38.97" height="195.43"/>
+          </g>
+          <g id="xAxis-2" data-name="xAxis">
+            <path class="cls-11" d="M287.06,282.99h194.29"/>
+            <g>
+              <line class="cls-11" x1="314.23" y1="282.99" x2="314.23" y2="286.42"/>
+              <text class="cls-6" transform="translate(308.46 296.19)"><tspan x="0" y="0">DG</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="360.88" y1="282.99" x2="360.88" y2="286.42"/>
+              <text class="cls-6" transform="translate(356.74 296.19)"><tspan x="0" y="0">FT</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="407.53" y1="282.99" x2="407.53" y2="286.42"/>
+              <text class="cls-6" transform="translate(397.09 296.19)"><tspan x="0" y="0">UNC</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="454.18" y1="282.99" x2="454.18" y2="286.42"/>
+              <text class="cls-6" transform="translate(447.36 296.19)"><tspan x="0" y="0">WH</tspan></text>
+            </g>
+          </g>
+          <g id="yAxis-2" data-name="yAxis">
+            <path class="cls-11" d="M283.63,282.99h3.43V77.28h-3.43"/>
+            <g>
+              <line class="cls-11" x1="287.06" y1="282.99" x2="283.63" y2="282.99"/>
+              <text class="cls-5" transform="translate(278.74 284.82)"><tspan x="0" y="0">0</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="262.42" x2="283.63" y2="262.42"/>
+              <text class="cls-5" transform="translate(278.74 264.25)"><tspan x="0" y="0">5</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="241.85" x2="283.63" y2="241.85"/>
+              <text class="cls-5" transform="translate(275.56 243.68)"><tspan x="0" y="0">10</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="221.28" x2="283.63" y2="221.28"/>
+              <text class="cls-5" transform="translate(275.56 223.11)"><tspan x="0" y="0">15</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="200.71" x2="283.63" y2="200.71"/>
+              <text class="cls-5" transform="translate(275.56 202.53)"><tspan x="0" y="0">20</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="180.13" x2="283.63" y2="180.13"/>
+              <text class="cls-5" transform="translate(275.56 181.96)"><tspan x="0" y="0">25</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="159.56" x2="283.63" y2="159.56"/>
+              <text class="cls-5" transform="translate(275.56 161.39)"><tspan x="0" y="0">30</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="138.99" x2="283.63" y2="138.99"/>
+              <text class="cls-5" transform="translate(275.56 140.82)"><tspan x="0" y="0">35</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="118.42" x2="283.63" y2="118.42"/>
+              <text class="cls-5" transform="translate(275.56 120.25)"><tspan x="0" y="0">40</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="97.85" x2="283.63" y2="97.85"/>
+              <text class="cls-5" transform="translate(275.56 99.68)"><tspan x="0" y="0">45</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="287.06" y1="77.28" x2="283.63" y2="77.28"/>
+              <text class="cls-5" transform="translate(275.56 79.11)"><tspan x="0" y="0">50</tspan></text>
+            </g>
+          </g>
+        </g>
+        <text class="cls-9" transform="translate(276.78 58.02)"><tspan x="0" y="0">All SS</tspan></text>
+      </g>
+      <g id="GBIF_Total" data-name="GBIF Total">
+        <g>
+          <g>
+            <rect id="GBIF_Total_-_WH" data-name="GBIF_Total - WH" class="cls-2" x="663.27" y="253.78" width="38.97" height="29.21"/>
+            <rect id="GBIF_Total_-_DG" data-name="GBIF_Total - DG" class="cls-4" x="523.32" y="255.84" width="38.97" height="27.15"/>
+            <rect id="GBIF_Total_-_FT" data-name="GBIF_Total - FT" class="cls-3" x="569.97" y="245.55" width="38.97" height="37.44"/>
+            <rect id="GBIF_Total_-_UNC" data-name="GBIF_Total - UNC" class="cls-1" x="616.62" y="141.46" width="38.97" height="141.53"/>
+          </g>
+          <g id="xAxis-3" data-name="xAxis">
+            <path class="cls-11" d="M515.63,282.99h194.29"/>
+            <g>
+              <line class="cls-11" x1="542.8" y1="282.99" x2="542.8" y2="286.42"/>
+              <text class="cls-6" transform="translate(537.04 296.19)"><tspan x="0" y="0">DG</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="589.45" y1="282.99" x2="589.45" y2="286.42"/>
+              <text class="cls-6" transform="translate(585.31 296.19)"><tspan x="0" y="0">FT</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="636.1" y1="282.99" x2="636.1" y2="286.42"/>
+              <text class="cls-6" transform="translate(625.66 296.19)"><tspan x="0" y="0">UNC</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="682.75" y1="282.99" x2="682.75" y2="286.42"/>
+              <text class="cls-6" transform="translate(675.93 296.19)"><tspan x="0" y="0">WH</tspan></text>
+            </g>
+          </g>
+          <g id="yAxis-3" data-name="yAxis">
+            <path class="cls-11" d="M512.2,282.99h3.43V77.28h-3.43"/>
+            <g>
+              <line class="cls-11" x1="515.63" y1="282.99" x2="512.2" y2="282.99"/>
+              <text class="cls-5" transform="translate(507.31 284.82)"><tspan x="0" y="0">0</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="262.42" x2="512.2" y2="262.42"/>
+              <text class="cls-5" transform="translate(507.31 264.25)"><tspan x="0" y="0">5</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="241.85" x2="512.2" y2="241.85"/>
+              <text class="cls-5" transform="translate(504.14 243.68)"><tspan x="0" y="0">10</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="221.28" x2="512.2" y2="221.28"/>
+              <text class="cls-5" transform="translate(504.14 223.11)"><tspan x="0" y="0">15</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="200.71" x2="512.2" y2="200.71"/>
+              <text class="cls-5" transform="translate(504.14 202.53)"><tspan x="0" y="0">20</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="180.13" x2="512.2" y2="180.13"/>
+              <text class="cls-5" transform="translate(504.14 181.96)"><tspan x="0" y="0">25</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="159.56" x2="512.2" y2="159.56"/>
+              <text class="cls-5" transform="translate(504.14 161.39)"><tspan x="0" y="0">30</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="138.99" x2="512.2" y2="138.99"/>
+              <text class="cls-5" transform="translate(504.14 140.82)"><tspan x="0" y="0">35</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="118.42" x2="512.2" y2="118.42"/>
+              <text class="cls-5" transform="translate(504.14 120.25)"><tspan x="0" y="0">40</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="97.85" x2="512.2" y2="97.85"/>
+              <text class="cls-5" transform="translate(504.14 99.68)"><tspan x="0" y="0">45</tspan></text>
+            </g>
+            <g>
+              <line class="cls-11" x1="515.63" y1="77.28" x2="512.2" y2="77.28"/>
+              <text class="cls-5" transform="translate(504.14 79.11)"><tspan x="0" y="0">50</tspan></text>
+            </g>
+          </g>
+        </g>
+        <text class="cls-9" transform="translate(489.35 58.02)"><tspan x="0" y="0">GBIF Total Records</tspan></text>
+      </g>
+    </g>
+    <g id="legend">
+      <g>
+        <g>
+          <g>
+            <rect class="cls-4" x="686.96" y="65.56" width="8.57" height="8.57"/>
+            <text class="cls-7" transform="translate(699.39 72.7)"><tspan x="0" y="0">Data Generalization </tspan></text>
+          </g>
+          <g>
+            <rect class="cls-3" x="686.96" y="76.99" width="8.57" height="8.57"/>
+            <text class="cls-7" transform="translate(699.39 84.13)"><tspan x="0" y="0">Footprint WKT </tspan></text>
+          </g>
+          <g>
+            <rect class="cls-1" x="686.96" y="88.41" width="8.57" height="8.57"/>
+            <text class="cls-7" transform="translate(699.39 95.56)"><tspan x="0" y="0">Coordinate Uncertainty</tspan></text>
+          </g>
+          <g>
+            <rect class="cls-2" x="686.96" y="99.84" width="8.57" height="8.57"/>
+            <text class="cls-7" transform="translate(699.39 106.99)"><tspan x="0" y="0">Information Withheld </tspan></text>
+          </g>
+        </g>
+        <text class="cls-8" transform="translate(686.96 57.91)"><tspan x="0" y="0">Generalization</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text class="cls-10" transform="translate(36.53 33.46)"><tspan x="0" y="0">A</tspan></text>
+</svg>

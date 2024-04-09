@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="787.77" height="330.33" viewBox="0 0 787.77 330.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8567a8;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #000;
+        font-family: Rubik-Medium, Rubik;
+        font-size: 10.49px;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        fill: #f3c55a;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-13 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #d67199;
+      }
+
+      .cls-15 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-4 {
+        fill: #5ea642;
+      }
+
+      .cls-16 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-9 {
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect id="Not_Repatriated_-_DG" data-name="Not_Repatriated - DG" class="cls-4" x="222.58" y="106.38" width="46.31" height="19.09"/>
+    <rect id="Repatriated_-_DG" data-name="Repatriated - DG" class="cls-4" x="334.81" y="106.38" width="167.8" height="19.09"/>
+    <text class="cls-9" transform="translate(294.19 119)"><tspan x="0" y="0">DG</tspan></text>
+    <text class="cls-9" transform="translate(515.06 119)"><tspan x="0" y="0">33</tspan><tspan class="cls-6" x="13.22" y="0">,</tspan><tspan x="15.67" y="0">7</tspan></text>
+    <text class="cls-9" transform="translate(191.88 119)"><tspan class="cls-16" x="0" y="0">9</tspan><tspan x="5.86" y="0">,3</tspan></text>
+  </g>
+  <g>
+    <rect id="Not_Repatriated_-_FT" data-name="Not_Repatriated - FT" class="cls-3" x="215.11" y="155.72" width="53.77" height="19.09"/>
+    <rect id="Repatriated_-_FT" data-name="Repatriated - FT" class="cls-3" x="334.81" y="155.72" width="30.37" height="19.09"/>
+    <text class="cls-9" transform="translate(378.75 168.33)"><tspan x="0" y="0">6</tspan><tspan class="cls-15" x="6.58" y="0">,</tspan><tspan x="8.65" y="0">1</tspan></text>
+    <text class="cls-9" transform="translate(295.23 168.33)"><tspan x="0" y="0">FT</tspan></text>
+    <text class="cls-9" transform="translate(181.71 168.33)"><tspan x="0" y="0">1</tspan><tspan class="cls-13" x="4.86" y="0">0</tspan><tspan class="cls-11" x="11.63" y="0">,</tspan><tspan x="14.33" y="0">8</tspan></text>
+  </g>
+  <g>
+    <rect id="Not_Repatriated_-_UNC" data-name="Not_Repatriated - UNC" class="cls-1" x="82.17" y="205.05" width="186.72" height="19.09"/>
+    <rect id="Repatriated_-_UNC" data-name="Repatriated - UNC" class="cls-1" x="334.81" y="205.05" width="375.92" height="19.09"/>
+    <text class="cls-9" transform="translate(290.52 217.67)"><tspan x="0" y="0">UNC</tspan></text>
+    <text class="cls-9" transform="translate(726.47 217.67)"><tspan x="0" y="0">7</tspan><tspan class="cls-10" x="5.7" y="0">5</tspan><tspan x="12.13" y="0">,5</tspan></text>
+    <text class="cls-9" transform="translate(46.1 217.67)"><tspan x="0" y="0">3</tspan><tspan class="cls-7" x="6.61" y="0">7</tspan><tspan x="11.66" y="0">,5</tspan></text>
+  </g>
+  <g>
+    <rect id="Not_Repatriated_-_WH" data-name="Not_Repatriated - WH" class="cls-2" x="209.64" y="254.38" width="59.25" height="19.09"/>
+    <rect id="Repatriated_-_WH" data-name="Repatriated - WH" class="cls-2" x="334.81" y="254.38" width="274.85" height="19.09"/>
+    <text class="cls-9" transform="translate(293.45 267)"><tspan x="0" y="0">WH</tspan></text>
+    <text class="cls-9" transform="translate(174.98 267)"><tspan x="0" y="0">11</tspan><tspan class="cls-5" x="9.71" y="0">,</tspan><tspan class="cls-14" x="12.03" y="0">9</tspan></text>
+    <text class="cls-9" transform="translate(622.96 267)"><tspan x="0" y="0">5</tspan><tspan class="cls-10" x="6.5" y="0">5</tspan><tspan x="12.93" y="0">,2</tspan></text>
+  </g>
+  <text class="cls-8" transform="translate(334.81 65.3)"><tspan x="0" y="0">Repatriated</tspan></text>
+  <text class="cls-8" transform="translate(190.89 65.3)"><tspan x="0" y="0">Not repatriated</tspan></text>
+  <line class="cls-12" x1="334.81" y1="77.6" x2="710.73" y2="77.6"/>
+  <line class="cls-12" x1="82.17" y1="77.6" x2="268.18" y2="77.6"/>
+</svg>
