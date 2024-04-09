@@ -20,9 +20,9 @@ In a second step aimed at exploring generalization patterns for sensitive and po
 
 We found that a remarkable proportion of these occurrences (91.6 per cent) were published by institutions in just nine countries: the United States, Sweden, Netherlands, Belgium, Denmark, Norway, France, Australia and the United Kingdom. When we examined the use of the DG term across countries, there were clear differences. For example, Belgium used DG for over 90 per cent of the occurrences for sensitive species followed by the Netherlands (81 per cent) and Switzerland (69 per cent). Nearly 90 per cent of occurrences from Belgium made use of WH, and 91 per cent of the records related to sensitive species from Finland used FT.
 
-image::img/web/ss-guide-graphs-03.svg[] 
+image::img/web/ss-guide-graphs-07.svg[] 
 
-image::img/web/ss-guide-graphs-04.svg[]
+image::img/web/ss-guide-graphs-08.svg[]
 
 [[fig-02]]
 .Generalization of records according to their potential sensitivity and conservation category. Bars represent the proportions of occurrence records that had used the Darwin Core terms Data Generalization (DG), Footprint WKT (FT), Coordinate Uncertainty (UNC) and Information Withheld (WH). On the left of panel A are all sensitive and potentially sensitive species identified by organizations and IUCN (All SS); in the centre are records of all species excluding sensitive species (Not SS), and on the right are overall records found in GBIF. Panel B only includes only records of Threatened and Near Threatened sensitive and potentially sensitive species.
@@ -39,7 +39,7 @@ In organizational lists the sensitivity is generally defined for a specific taxo
 
 Most of these occurrences were published by organizations located within the same country as the occurrences, with only 3 per cent (nearly 770 thousand) of the occurrence records identified as repatriated (i.e. coming from data publishers not within the country where the occurrence was recorded). These repatriated records were more likely to be generalized when compared with non-repatriated records, with 55 per cent of the repatriated records using WH (compared with 8 per cent of non-repatriated records) and 47 per cent using DG (compared with 8 per cent of non repatriated, <<fig-03,Figure 3>>). These different levels of generalization between repatriated and non-repatriated records could be caused to higher levels of sensitivity when publishing data across international borders, or a need for strengthening capacity for generalizing data at national levels. In addition, some countries may be using terms other than WH and DG to generalize occurrences, as in Finland, where FT is widely used in records.
 
-image::img/web/ss-guide-graphs-02.svg
+image::img/web/ss-guide-graphs-07.svg
 
 [[fig-03]]
 .Records of species identified as sensitive by institutions and organizations, only including those located in the regions in which they are considered sensitive. Among the near 13.9 mill records related to species listed as sensitive by institutions and organizations, nearly 20 per cent are located in the specific regions in which they were identified as sensitive (2,8 mill). Most of them are published by publishers of the same country in which they are defined as sensitive (2.7 mill). Repatriated records of sensitive species occurring in the areas in which they are considered sensitive tend to present a remarkable higher trend to be generalized
