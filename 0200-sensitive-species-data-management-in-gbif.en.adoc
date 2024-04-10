@@ -23,6 +23,7 @@ We found that a remarkable proportion of these occurrences (91.6 per cent) were 
 [[fig-02]]
 .Generalization of records according to their potential sensitivity and conservation category. Bars represent the proportions of occurrence records that had used the Darwin Core terms Data Generalization (DG), Footprint WKT (FT), Coordinate Uncertainty (UNC) and Information Withheld (WH). On the left of panel A are all sensitive and potentially sensitive species identified by organizations and IUCN (All SS); in the centre are records of all species excluding sensitive species (Not SS), and on the right are overall records found in GBIF. Panel B only includes only records of Threatened and Near Threatened sensitive and potentially sensitive species.
 image::img/web/ss-guide-graphs-08.svg[]
++
 image::img/web/ss-guide-graphs-09.svg[]
 
 
