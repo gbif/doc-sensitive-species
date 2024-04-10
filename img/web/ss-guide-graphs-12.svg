@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1200" height="503.18" viewBox="0 0 1200 503.18">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #000;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Rubik-Regular, Rubik;
+        font-size: 11px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        fill: #0078b4;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        fill: #e37c72;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        font-family: Rubik-Medium, Rubik;
+        font-size: 14px;
+        font-weight: 500;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.06em;
+      }
+    </style>
+  </defs>
+  <g>
+    <g id="viz">
+      <g>
+        <g>
+          <rect id="undefined_-_Rhinos" data-name="undefined - Rhinos" class="cls-5" x="272.76" y="115.4" width="40" height="322.8"/>
+          <rect id="undefined_-_Orchideas" data-name="undefined - Orchideas" class="cls-6" x="322.33" y="349.8" width="40" height="88.4"/>
+          <rect id="undefined_-_Rhinos-2" data-name="undefined - Rhinos" class="cls-5" x="512.94" y="400.6" width="40" height="37.6"/>
+          <rect id="undefined_-_Orchideas-2" data-name="undefined - Orchideas" class="cls-6" x="562.51" y="252.6" width="40" height="185.6"/>
+          <rect id="undefined_-_Rhinos-3" data-name="undefined - Rhinos" class="cls-5" x="753.11" y="400.2" width="40" height="38"/>
+          <rect id="undefined_-_Orchideas-3" data-name="undefined - Orchideas" class="cls-6" x="802.68" y="312.2" width="40" height="126"/>
+        </g>
+        <g id="xAxis">
+          <path class="cls-8" d="M187.72,438.2h740"/>
+          <g>
+            <line class="cls-8" x1="317.55" y1="438.2" x2="317.55" y2="444.2"/>
+            <text class="cls-3" transform="translate(308.88 461.3)"><tspan x="0" y="0">WH</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="557.72" y1="438.2" x2="557.72" y2="444.2"/>
+            <text class="cls-3" transform="translate(550.69 461.3)"><tspan x="0" y="0">DG</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="797.9" y1="438.2" x2="797.9" y2="444.2"/>
+            <text class="cls-3" transform="translate(753.28 461.3)"><tspan x="0" y="0">No generalization</tspan></text>
+          </g>
+        </g>
+        <g id="yAxis">
+          <path class="cls-8" d="M187.72,438.2V78.2"/>
+          <g>
+            <line class="cls-8" x1="187.72" y1="438.2" x2="181.72" y2="438.2"/>
+            <text class="cls-3" transform="translate(169.67 441.4)"><tspan x="0" y="0">0</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="187.72" y1="398.2" x2="181.72" y2="398.2"/>
+            <text class="cls-3" transform="translate(161.75 401.4)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="187.72" y1="358.2" x2="181.72" y2="358.2"/>
+            <text class="cls-3" transform="translate(160.88 361.4)"><tspan x="0" y="0">20</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="187.72" y1="318.2" x2="181.72" y2="318.2"/>
+            <text class="cls-3" transform="translate(160.8 321.4)"><tspan x="0" y="0">30</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="187.72" y1="278.2" x2="181.72" y2="278.2"/>
+            <text class="cls-3" transform="translate(160.69 281.4)"><tspan x="0" y="0">40</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="187.72" y1="238.2" x2="181.72" y2="238.2"/>
+            <text class="cls-3" transform="translate(160.84 241.4)"><tspan x="0" y="0">50</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="187.72" y1="198.2" x2="181.72" y2="198.2"/>
+            <text class="cls-3" transform="translate(160.79 201.4)"><tspan x="0" y="0">60</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="187.72" y1="158.2" x2="181.72" y2="158.2"/>
+            <text class="cls-3" transform="translate(161.29 161.4)"><tspan x="0" y="0">70</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="187.72" y1="118.2" x2="181.72" y2="118.2"/>
+            <text class="cls-3" transform="translate(160.61 121.4)"><tspan x="0" y="0">80</tspan></text>
+          </g>
+          <g>
+            <line class="cls-8" x1="187.72" y1="78.2" x2="181.72" y2="78.2"/>
+            <text class="cls-3" transform="translate(160.85 81.4)"><tspan x="0" y="0">90</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="legend">
+      <g>
+        <g>
+          <rect class="cls-6" x="942.72" y="91.59" width="15" height="15"/>
+          <text class="cls-1" transform="translate(964.72 104.09)"><tspan x="0" y="0">Orchids</tspan></text>
+        </g>
+        <g>
+          <rect class="cls-5" x="942.72" y="111.59" width="15" height="15"/>
+          <text class="cls-1" transform="translate(964.72 124.09)"><tspan x="0" y="0">Rhinos</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text class="cls-2" transform="translate(278.21 105.4)"><tspan x="0" y="0">8</tspan><tspan class="cls-7" x="9.18" y="0">0</tspan><tspan class="cls-4" x="18.23" y="0">,</tspan><tspan x="21.5" y="0">7</tspan></text>
+  <text class="cls-2" transform="translate(522.69 390.2)"><tspan class="cls-13" x="0" y="0">9</tspan><tspan class="cls-10" x="7.83" y="0">,</tspan><tspan x="11.37" y="0">4</tspan></text>
+  <text class="cls-2" transform="translate(567.22 242.6)"><tspan x="0" y="0">46</tspan><tspan class="cls-10" x="17.91" y="0">,</tspan><tspan x="21.45" y="0">4</tspan></text>
+  <text class="cls-2" transform="translate(329.04 339.8)"><tspan x="0" y="0">22</tspan><tspan class="cls-11" x="17.33" y="0">,</tspan><tspan x="20.1" y="0">1</tspan></text>
+  <text class="cls-2" transform="translate(764.02 390.2)"><tspan class="cls-13" x="0" y="0">9</tspan><tspan class="cls-12" x="7.83" y="0">,5</tspan></text>
+  <text class="cls-2" transform="translate(808.94 302.2)"><tspan class="cls-9" x="0" y="0">3</tspan><tspan x="8.6" y="0">1,5</tspan></text>
+</svg>

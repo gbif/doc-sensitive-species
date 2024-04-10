@@ -70,9 +70,7 @@ We retrieved 16,647 occurrences of threatened orchid (CR, EN, or VU) species in 
 
 [[fig-04]]
 .Rhinos and orchid generalizations in GBIF-mediated data. It can be observed that generalizations are different between the two taxa groups. In orchids, generalizations are mainly informed and generalized based on DG; meanwhile, in rhinos, the most frequent generalization is by WH data. 
-image::media/image5.png[image,width=511,height=224]
-image::media/image3.png[image,width=81,height=31]
-image::media/image2.jpg[image,width=46,height=46]
+image::img/web/ss-guide-graphs-12.svg
 
 [[data-management-conclusions]]
 === Data management conclusions
