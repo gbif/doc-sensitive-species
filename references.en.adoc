@@ -80,7 +80,7 @@ Kéry M & Schmid H (2004) Monitoring programs need to take into account imperfec
 
 Lindenmayer D & Scheele B (2017) Do not publish: Limit open access information on rare and endangered species. Science 356(6340): 800-801. https://doi.org/10.1126/science.aan1362
 
-NBN (2019) Sensitive Data. National Biodiversity Network. https://nbn.org.uk/sensitive-data/
+NBN (2019) NBN Sensitive Data Policy. National Biodiversity Network. https://docs.nbnatlas.org/wp-content/uploads/2019/10/National-Biodiversity-Network-sensitive-species-policy_v6-002.pdf
 
 Powney GD & Isaac NJB (2015) Beyond maps: A review of the applications of biological records: Applications of Biological Records. Biological Journal of the Linnean Society 115(3): 532–542. https://doi.org/10.1111/bij.12517
 
