@@ -20,8 +20,6 @@ endif::backend-html5[]
 
 :sectnums!:
 
-include::colophon.en.adoc[]
-
 include::execsummary.en.adoc[]
 
 include::introduction.en.adoc[]
@@ -37,3 +35,6 @@ include::0200-sensitive-species-data-management-in-gbif.en.adoc[]
 include::references.en.adoc[]
 
 include::appa.en.adoc[]
+
+include::colophon.en.adoc[]
+
