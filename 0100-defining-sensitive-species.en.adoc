@@ -113,9 +113,9 @@ Even though we cannot assume a straightforward correlation, we might assume that
 
 The *_accessibility_* of the location from which the species was recorded may also limit the impact of publishing ungeneralized data. Access to certain locations may only be possible with appropriate permits, training and/or equipment. For example, the burrowing parrot (_Cyanoliseus patagonus_) build their nests in cliffs along river banks in the Andes. Similarly, the long-flowered fescue (_Patzkea paniculata_ subsp. _longiglumis_) is only known in France from one station in the Pyrénées-Atlantiques, located within rocky escarpments (https://inpn.mnhn.fr/docs-web/docs/download/404525[Ichter et al. 2022^]).
 
-[#img-andean-cat]
-image:img/web/gef-montana-20180820-gato-andino.jpg[Camera trap image of Andean cat,750,520,align="center"]
 .Camera trap shot of an Andean cat (_Leopardus jacobitus_). This first photo from the Cascada de las Animas protected area in Chile represented the southernmost record of this endangered species in 2018. Efforts to detect the cat again at the same camera trap were unsuccessful, and months of monitoring obtained only two more records at stations located less than 1 km apart. Photo 2018 Chagual Orrego, https://gefmontana.mma.gob.cl/monitoreo-de-fauna-nativa-del-gef-montana-registra-presencia-inedita-de-gato-andino-en-el-cajon-del-maipo/[GEF Montaña Project^], Ministry of Environment, Chile.
+[#img-andean-cat]
+image::img/web/gef-montana-20180820-gato-andino.jpg[Camera trap image of Andean cat,750,520,align="center"]
 
 The *_novelty_* of the data, e.g. an occurrence of a species in a location not previously reported, can also increase its sensitivity; but identifying truly novel data points is not a straightforward process. For example, if a species is known to occur in a province of a country with an area of 7,000 km², would it be safe to publish precise location information of this species within that province? Is that record considered a _novel location_ or not? 
 
