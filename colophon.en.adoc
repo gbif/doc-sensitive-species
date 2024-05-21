@@ -3,24 +3,24 @@ ifdef::backend-html5[]
 image::img/web/sensitive-cover.png[]
 endif::backend-html5[]
 
-= Colophon
+== Colophon
 
-== Suggested citation
+=== Suggested citation
 
-Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: Exploring risks, benefits and best practices. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-yr9g-nx02
+Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: Exploring risks, benefits and best practices. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-yr9g-nx02
 
-== Authors
+=== Authors
 
 https://orcid.org/0000-0002-7108-6919[Francisca Astorga^], https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues^] & https://orcid.org/0000-0002-7302-5976[John Waller^]
 
-== Licence
+=== Licence
 
 The document _Sensitive species data generalization: Exploring risks, benefits and best practices_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
-== Persistent URI
+=== Persistent URI
 
 https://doi.org/10.35035/doc-yr9g-nx02
 
-== Document control
+=== Document control
 
 v1, May 2024
