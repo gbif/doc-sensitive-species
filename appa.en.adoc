@@ -22,15 +22,15 @@
 _Examples in use_: GBIF; NBN (UK), ALA (Australia), NSSL (South Africa), INPH-SINP (France), ERIN (Australia), IUCN, SLU (Sweden), Laji.Fi (Finland), eBird
 
 |_Evaluating the impact of harm_
-|- *Intensity of the activity*: Does the activity have lethal ornon-lethal effects on individuals? Are all individuals targeted and at all times of the year i.e. does the activity occur all year or only at specific times? Are there specific life stages (e.g., eggs, mature adults, juveniles) or sexes that are targeted that may affect the demographics of the populations? Is the activity increasing or decreasing? +
-- *Ecology of the species*: To what extent will the species be able torecover/regenerate from targeted use or disturbance? Does the targeted population have a very restricted range that makes it more vulnerable to harmful activities? +
-- *Novelty of the species*: Descriptions of new species can triggertrade and overexploitation of those
+|* *Intensity of the activity*: Does the activity have lethal ornon-lethal effects on individuals? Are all individuals targeted and at all times of the year i.e. does the activity occur all year or only at specific times? Are there specific life stages (e.g., eggs, mature adults, juveniles) or sexes that are targeted that may affect the demographics of the populations? Is the activity increasing or decreasing? +
+* *Ecology of the species*: To what extent will the species be able torecover/regenerate from targeted use or disturbance? Does the targeted population have a very restricted range that makes it more vulnerable to harmful activities? +
+* *Novelty of the species*: Descriptions of new species can triggertrade and overexploitation of those
 species. +
  +
 _Examples in use_: GBIF, eBird, NSSL, ERIN, IUCN, SINP, DRYAD
 
 |_Conservation status_
-|- Species is *Critically Endangered*, *Endangered* or *Vulnerable* at a global, regional, national, or subnational level. +
+|* Species is *Critically Endangered*, *Endangered* or *Vulnerable* at a global, regional, national, or subnational level. +
  +
 _Examples in use_: GBIF (criteria 4.2), ALA, NSSL, iNaturalist, IUCN, SLU, DRYAD
 
@@ -39,36 +39,36 @@ _Examples in use_: GBIF (criteria 4.2), ALA, NSSL, iNaturalist, IUCN, SLU, DRYAD
 2+|B.1 _Species features_
 
 |_Ability to detect and track the species_ (*detectability*)
-|- *Mobility*: Species with low mobility (e.g., cactus, molluscs, sedentary species) may be more detectable if specific location data is informed. +
-- *Abundance and density*: species found at low densities i.e. dispersed individuals over a wide area may be less likely to be found. Gregarious species with higher densities may be easier to detect when compared with solitary species. +
-- *Accessibility*: some locations may be very remote or dangerous to reach, limiting access. +
-- *Territoriality*: species with predictable displacements orphilopatry may make individuals easier to locate.
+|* *Mobility*: Species with low mobility (e.g., cactus, molluscs, sedentary species) may be more detectable if specific location data is informed. +
+* *Abundance and density*: species found at low densities i.e. dispersed individuals over a wide area may be less likely to be found. Gregarious species with higher densities may be easier to detect when compared with solitary species. +
+* *Accessibility*: some locations may be very remote or dangerous to reach, limiting access. +
+* *Territoriality*: species with predictable displacements orphilopatry may make individuals easier to locate.
 
 |_Time and location-specific factors_ 
-|- Does the data provide information of *nesting/breeding sites* of the species? +
-- Does the data provide evidence of a species during known periods when targeted exploitation is higher e.g. when in bloom , or when on targeted life stages e.g. eggs or seeds that may be harvested?
+|* Does the data provide information of *nesting/breeding sites* of the species? +
+* Does the data provide evidence of a species during known periods when targeted exploitation is higher e.g. when in bloom , or when on targeted life stages e.g. eggs or seeds that may be harvested?
 
 2+|B.2 _Data content and local context_
 
 |Public availability of the data
-|- *Novelty*: Is the data is already publicly available in scientific literature, news, social media, atlases, popular knowledge, legal or illegal sources, or findable using an internet search engine? If it's a novel location for the species, it may be considered more sensitive. +
-- *spatial resolution*: higher levels of resolution / precision at which the data is published may increase risks +
+|* *Novelty*: Is the data is already publicly available in scientific literature, news, social media, atlases, popular knowledge, legal or illegal sources, or findable using an internet search engine? If it's a novel location for the species, it may be considered more sensitive. +
+* *Spatial resolution*: higher levels of resolution / precision at which the data is published may increase risks +
  +
 _Examples in use_: ERIN, SINP
 
 |_Protection of the area_
-|- Consider the *effective protection* of the area in which the record is located. +
+|* Consider the *effective protection* of the area in which the record is located. +
  +
 _Examples in use_: DRYAD, ERIN, https://doi.org/10.35035/vs84-0p13[Chapman 2006^].
 
 |_Local legislation and conservation_ 
-|- Consider the existence of *species-level legislation* that may locally protect the species against exploitation +
-- Will *conservation efforts* be impacted or benefit from the data publication. +
-- Consider any *local data publication protocols, guidelines or legislation* related to the publication of data related to the species.
+|* Consider the existence of *species-level legislation* that may locally protect the species against exploitation +
+* Will *conservation efforts* be impacted or benefit from the data publication. +
+* Consider any *local data publication protocols, guidelines or legislation* related to the publication of data related to the species.
 
 |_Potential conflicts_ 
-|- Consider land tenure, i.e if the record is located on *privately or community-managed lands* +
-- Check legal and social norms related to *permissions to publish* data on that area
+|* Consider land tenure, i.e if the record is located on *privately or community-managed lands* +
+* Check legal and social norms related to *permissions to publish* data on that area
 
 |===
 
@@ -115,64 +115,73 @@ image::img/web/ss-guide-graphs-10.svg[]
 |Northern white rhinoceros
 +_Ceratotherium cottoni_ 
 |CR
-|4
-|0
-|4 (to protect taxon)
-|0
+>|4
+>|0
+>|4
++ _to protect taxon_
+>|0
 
 |Sumatran rhinoceros +
 _Dicerorhinus sumatrensis_
 |CE
-|1 
-|0 
-|1 (to protect taxon)
-|0
+>|1 
+>|0 
+>|1 
++ _to protect taxon_
+>|0
 
 |Black rhino +
 _Diceros bicornis_
 |CR
-|906
-|273 (no mention sensitivity)
-|495 (to protect taxon)
-|137 (15.1%)
+>|906
+>|273
++ _no mention sensitivity_
+>|495
++ _to protect taxon_
+>|137 
++ (15.1%)
 
 |(Javan rhinoceros) +
 _Rhinoceros sondaicus_
 |CR 
-|1 
-|0
-|1 (to protect taxon)
-|0
+>|1 
+>|0
+>|1 (to protect taxon)
+>|0
 
 |Indian rhinoceros +
 _Rhinoceros unicornis_ 
 |VU 
-|351 
-|25 (to maintain geoprivacy) 
-|315 (to protect taxon, requested by observer)
-|36
-(10.3%)
+>|351 
+>|25
++ _to maintain geoprivacy_ 
+>|315
++ _to protect taxon, requested by observer_
+>|36
++ (10.3%)
 
 |__(__White rhino) _Ceratotherium simum_ 
 |NT 
-|1,762
-|0
-|1,594
-|168 (9.5%)
+>|1,762
+>|0
+>|1,594
+>|168 
++ (9.5%)
 
 |_Diceros bicornis bicornis_ 
 |NT 
-|158 
-|0 
-|158 (to protect taxon)
-|0
+>|158 
+>|0 
+>|158 (to protect taxon)
+>|0
 
 |*Total*
 |
 >|*3,183*
 >|*288*
 >|*2,569*
->|*341 (10.7%)*
+>|*341 
++ (10.7%)*
 |===
 
 *Only considering DG and WH
