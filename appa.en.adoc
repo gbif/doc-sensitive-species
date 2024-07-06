@@ -112,8 +112,8 @@ image::img/web/ss-guide-graphs-10.svg[]
 [width="100%",cols="24%,15%,12%,16%,19%,14%",options="header",]
 |===
 |Species |IUCN Red List category |No. of occurrences |No. generalized as DG |No. generalized as WH |Not generalized
-|Northern white rhinoceros
-+_Ceratotherium cottoni_ 
+|Northern white rhinoceros +
+_Ceratotherium cottoni_ 
 |CR
 >|4
 >|0
@@ -141,7 +141,7 @@ _to protect taxon_
 >|137 +
 (15.1%)
 
-|(Javan rhinoceros) +
+|Javan rhinoceros +
 _Rhinoceros sondaicus_
 |CR 
 >|1 
@@ -161,7 +161,8 @@ _to protect taxon, requested by observer_
 >|36 +
 (10.3%)
 
-|__(__White rhino) _Ceratotherium simum_ 
+|White rhino +
+_Ceratotherium simum_ 
 |NT 
 >|1,762
 >|0
