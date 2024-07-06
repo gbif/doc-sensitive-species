@@ -12,12 +12,12 @@
 2+|A. *Sensitive species*: identification of sensitive species
 
 |_Risk of harm_ 
-|- Risk of harm is a result of the *_use_* of the targeted species, e.g. if the species is *hunted, killed, disturbed, exploited, collected (individuals, seed, eggs), harvested, poached, traded*. Also related to the *interest* that the species invokes in humans (e.g., birdwatching) or a *perceived threat to humans* out of fear (e.g., spiders), or danger (e.g., bats, snakes) or as pests (e.g., badgers). +
-- Harm to the species is always *intentional* and not accidental or ascollateral damage of an activity in which the species is not targeted. +
-- Risk of harm can be from both legal *and illegal activities*. +
-- Risk of harm may be considered for species with *phylogenetic proximity* to a currently targeted species. +
-- Risk of harm is higher for those species of *higher economic,cultural* or *medicinal value* +
-- Risk of harm is higher for *rare, uncommon* and/or *endemic*, as these may invoke specific interest +
+|* Risk of harm is a result of the *_use_* of the targeted species, e.g. if the species is *hunted, killed, disturbed, exploited, collected (individuals, seed, eggs), harvested, poached, traded*. Also related to the *interest* that the species invokes in humans (e.g., birdwatching) or a *perceived threat to humans* out of fear (e.g., spiders), or danger (e.g., bats, snakes) or as pests (e.g., badgers). +
+* Harm to the species is always *intentional* and not accidental or ascollateral damage of an activity in which the species is not targeted. +
+* Risk of harm can be from both legal *and illegal activities*. +
+* Risk of harm may be considered for species with *phylogenetic proximity* to a currently targeted species. +
+* Risk of harm is higher for those species of *higher economic,cultural* or *medicinal value* +
+* Risk of harm is higher for *rare, uncommon* and/or *endemic*, as these may invoke specific interest +
  +
 _Examples in use_: GBIF; NBN (UK), ALA (Australia), NSSL (South Africa), INPH-SINP (France), ERIN (Australia), IUCN, SLU (Sweden), Laji.Fi (Finland), eBird
 
