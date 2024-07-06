@@ -99,7 +99,7 @@ image::img/web/ss-guide-graphs-10.svg[]
 
 |WH |Coordinate uncertainty increased to 30003m to protect threatened taxon |Many records are published following the same text-format, and modifying the extent of generalization |iNaturalist* |Ceratotherium simum |NT |South Africa
 
-|WH |Coordinate uncertainty increased to 30699m to protect threatened taxon |Many records are published following the same text-format, and modifying the extent of generalization |iNaturalist* |Ceratotherium simum |NT |Zimbabue
+|WH |Coordinate uncertainty increased to 30699m to protect threatened taxon |Many records are published following the same text-format, and modifying the extent of generalization |iNaturalist* |Ceratotherium simum |NT |Zimbabwe
 |===
 
 *As observed, iNaturalist used both WH and DG to describe sensitivity.
