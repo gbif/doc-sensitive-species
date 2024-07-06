@@ -156,7 +156,7 @@ _Rhinoceros unicornis_
 >|351 
 >|25 +
 _to maintain geoprivacy_ 
->|315 =
+>|315 +
 _to protect taxon, requested by observer_
 >|36 +
 (10.3%)
