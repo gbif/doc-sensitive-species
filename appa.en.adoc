@@ -108,7 +108,7 @@ image::img/web/ss-guide-graphs-10.svg[]
 [appendix]
 == Rhinoceros data
 
-.Table S3. Total occurrence data found in GBIF for extant species of the family Rhinocertidae according to the conservation status and to what extent information was provided on data generalizations (DG and WH) for those species. Text information provided with the terms is provided in parentheses. Note that Diceros bicornis presents two conservation categories, explained by the two recognized subspecies with different categories.
+.Total occurrence data found in GBIF for extant species of the family Rhinocertidae according to the conservation status and to what extent information was provided on data generalizations (DG and WH) for those species. Text information provided with the terms is provided in parentheses. Note that Diceros bicornis presents two conservation categories, explained by the two recognized subspecies with different categories.
 [width="100%",cols="24%,15%,12%,16%,19%,14%",options="header",]
 |===
 |Species |IUCN Red List category |No. of occurrences |No. generalized as DG |No. generalized as WH |Not generalized
