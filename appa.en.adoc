@@ -117,8 +117,8 @@ image::img/web/ss-guide-graphs-10.svg[]
 |CR
 >|4
 >|0
->|4
-+ _to protect taxon_
+>|4 +
+_to protect taxon_
 >|0
 
 |Sumatran rhinoceros +
@@ -126,53 +126,55 @@ _Dicerorhinus sumatrensis_
 |CE
 >|1 
 >|0 
->|1 
-+ _to protect taxon_
+>|1 +
+_to protect taxon_
 >|0
 
 |Black rhino +
 _Diceros bicornis_
 |CR
 >|906
->|273
-+ _no mention sensitivity_
->|495
-+ _to protect taxon_
->|137 
-+ (15.1%)
+>|273 +
+_no mention of sensitivity_
+>|495 +
+_to protect taxon_
+>|137 +
+(15.1%)
 
 |(Javan rhinoceros) +
 _Rhinoceros sondaicus_
 |CR 
 >|1 
 >|0
->|1 (to protect taxon)
+>|1 +
+_to protect taxon_
 >|0
 
 |Indian rhinoceros +
 _Rhinoceros unicornis_ 
 |VU 
 >|351 
->|25
-+ _to maintain geoprivacy_ 
->|315
-+ _to protect taxon, requested by observer_
->|36
-+ (10.3%)
+>|25 +
+_to maintain geoprivacy_ 
+>|315 =
+_to protect taxon, requested by observer_
+>|36 +
+(10.3%)
 
 |__(__White rhino) _Ceratotherium simum_ 
 |NT 
 >|1,762
 >|0
 >|1,594
->|168 
-+ (9.5%)
+>|168 +
+(9.5%)
 
 |_Diceros bicornis bicornis_ 
 |NT 
 >|158 
 >|0 
->|158 (to protect taxon)
+>|158 +
+(to protect taxon)
 >|0
 
 |*Total*
@@ -180,8 +182,8 @@ _Rhinoceros unicornis_
 >|*3,183*
 >|*288*
 >|*2,569*
->|*341 
-+ (10.7%)*
+>|*341* +
+(10.7%)
 |===
 
 *Only considering DG and WH
